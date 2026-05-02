@@ -2,8 +2,7 @@ name: Update Vereinsspielplan ICS
 
 on:
   schedule:
-    # täglich um 04:15 UTC = ca. 05:15/06:15 Uhr deutscher Zeit
-    - cron: "15 4 * * *"
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repository auschecken
+      - name: Repo auschecken
         uses: actions/checkout@v4
 
       - name: Python einrichten
@@ -23,7 +22,9 @@ jobs:
           python-version: "3.11"
 
       - name: Abhängigkeiten installieren
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
 
       - name: ICS erzeugen
         run: python generate_ics.py
