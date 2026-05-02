@@ -36,14 +36,15 @@ def clean_line(line):
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
+
     page = browser.new_page(
         user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     )
 
-    page.goto(URL, wait_until="networkidle", timeout=60000)
+    page.goto(URL, wait_until="domcontentloaded", timeout=60000)
 
-print("Vereinsspielplan-Seite geladen.")
-page.wait_for_timeout(5000)
+    print("Vereinsspielplan-Seite geladen.")
+    page.wait_for_timeout(5000)
 
     # Datumsfelder setzen
     date_inputs = page.locator("input").all()
@@ -60,24 +61,26 @@ page.wait_for_timeout(5000)
     if len(found_date_inputs) >= 2:
         found_date_inputs[0].fill(from_date_str)
         found_date_inputs[1].fill(to_date_str)
+        print(f"Zeitraum gesetzt: {from_date_str} bis {to_date_str}")
+    else:
+        print("Datumsfelder nicht gefunden.")
 
-    # Spielstätten anzeigen aktivieren
     try:
-        label = page.get_by_text("Spielstätten anzeigen", exact=True)
-        label.click()
+        page.get_by_text("Spielstätten anzeigen", exact=True).click(timeout=5000)
+        print("Spielstätten anzeigen aktiviert.")
     except Exception:
-        pass
+        print("Spielstätten anzeigen konnte nicht aktiviert werden.")
 
-    # LOS klicken
     try:
-        page.get_by_text("LOS", exact=True).click()
+        page.get_by_text("LOS", exact=True).click(timeout=5000)
+        print("LOS geklickt.")
     except Exception:
-        pass
+        print("LOS-Button wurde nicht gefunden.")
 
-    page.wait_for_load_state("networkidle")
-    page.wait_for_timeout(4000)
+    page.wait_for_timeout(8000)
 
     body_text = page.locator("body").inner_text()
+
     browser.close()
 
 lines = [clean_line(x) for x in body_text.splitlines() if clean_line(x)]
