@@ -1,164 +1,172 @@
-import requests
-from bs4 import BeautifulSoup
-from icalendar import Calendar, Event
+import re
 from datetime import datetime, timedelta
 from dateutil import tz
-import re
+from icalendar import Calendar, Event
+from playwright.sync_api import sync_playwright
 
 URL = "https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/"
 
-ONLY_NEUHAUSEN = True
-END_DATE_MONTH = 6
-END_DATE_DAY = 30
-
 LOCAL_TZ = tz.gettz("Europe/Berlin")
+ONLY_NEUHAUSEN_SPIELORT = True
+
+today = datetime.now(LOCAL_TZ)
+
+end_date = datetime(today.year, 6, 30, 23, 59, tzinfo=LOCAL_TZ)
+if today > end_date:
+    end_date = datetime(today.year + 1, 6, 30, 23, 59, tzinfo=LOCAL_TZ)
+
+from_date_str = today.strftime("%d.%m.%Y")
+to_date_str = end_date.strftime("%d.%m.%Y")
 
 cal = Calendar()
 cal.add("prodid", "-//FV Neuhausen Vereinsspielplan//DE")
 cal.add("version", "2.0")
-cal.add("x-wr-calname", "FV Neuhausen Vereinsspielplan")
+cal.add("x-wr-calname", "FV Neuhausen Heimspiele")
 cal.add("x-wr-timezone", "Europe/Berlin")
 
-today = datetime.now(LOCAL_TZ)
+def parse_datetime(date_str, time_str):
+    if len(date_str.split(".")[-1]) == 2:
+        dt = datetime.strptime(f"{date_str} {time_str}", "%d.%m.%y %H:%M")
+    else:
+        dt = datetime.strptime(f"{date_str} {time_str}", "%d.%m.%Y %H:%M")
+    return dt.replace(tzinfo=LOCAL_TZ)
 
-# Saison-Ende: immer bis 30.06.
-end_date = datetime(
-    today.year,
-    END_DATE_MONTH,
-    END_DATE_DAY,
-    23,
-    59,
-    tzinfo=LOCAL_TZ
-)
+def clean_line(line):
+    return re.sub(r"\s+", " ", line).strip()
 
-# Falls wir nach dem 30.06. sind, nimm den 30.06. des Folgejahres
-if today > end_date:
-    end_date = datetime(
-        today.year + 1,
-        END_DATE_MONTH,
-        END_DATE_DAY,
-        23,
-        59,
-        tzinfo=LOCAL_TZ
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=True)
+    page = browser.new_page(
+        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     )
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+    page.goto(URL, wait_until="networkidle", timeout=60000)
 
-html = requests.get(URL, headers=headers, timeout=30).text
-soup = BeautifulSoup(html, "html.parser")
+    # Tab Vereinsspielplan öffnen
+    page.get_by_text("VEREINSSPIELPLAN", exact=True).click()
+    page.wait_for_timeout(2500)
 
-text = soup.get_text("\n", strip=True)
-lines = [line.strip() for line in text.split("\n") if line.strip()]
+    # Datumsfelder setzen
+    date_inputs = page.locator("input").all()
+    found_date_inputs = []
+
+    for inp in date_inputs:
+        try:
+            value = inp.input_value()
+            if re.match(r"\d{2}\.\d{2}\.\d{4}", value):
+                found_date_inputs.append(inp)
+        except Exception:
+            pass
+
+    if len(found_date_inputs) >= 2:
+        found_date_inputs[0].fill(from_date_str)
+        found_date_inputs[1].fill(to_date_str)
+
+    # Spielstätten anzeigen aktivieren
+    try:
+        label = page.get_by_text("Spielstätten anzeigen", exact=True)
+        label.click()
+    except Exception:
+        pass
+
+    # LOS klicken
+    try:
+        page.get_by_text("LOS", exact=True).click()
+    except Exception:
+        pass
+
+    page.wait_for_load_state("networkidle")
+    page.wait_for_timeout(4000)
+
+    body_text = page.locator("body").inner_text()
+    browser.close()
+
+lines = [clean_line(x) for x in body_text.splitlines() if clean_line(x)]
 
 events = []
 
-date_pattern = re.compile(
-    r"(Mo|Di|Mi|Do|Fr|Sa|So),\s*(\d{2}\.\d{2}\.\d{4}|\d{2}\.\d{2}\.\d{2})\s*\|\s*(\d{1,2}:\d{2})"
+date_line_pattern = re.compile(
+    r"(Mo|Di|Mi|Do|Fr|Sa|So),\s*(\d{2}\.\d{2}\.\d{2,4})\s*\|\s*(\d{1,2}:\d{2})"
 )
 
 for i, line in enumerate(lines):
-    match = date_pattern.search(line)
+    match = date_line_pattern.search(line)
     if not match:
         continue
 
     date_str = match.group(2)
     time_str = match.group(3)
+    start_dt = parse_datetime(date_str, time_str)
 
-    if len(date_str.split(".")[-1]) == 2:
-        dt = datetime.strptime(
-            date_str + " " + time_str,
-            "%d.%m.%y %H:%M"
-        )
-    else:
-        dt = datetime.strptime(
-            date_str + " " + time_str,
-            "%d.%m.%Y %H:%M"
-        )
-
-    dt = dt.replace(tzinfo=LOCAL_TZ)
-
-    # Nur zukünftige Termine bis 30.06.
-    if not (today <= dt <= end_date):
+    if not (today <= start_dt <= end_date):
         continue
 
-    nearby = lines[i:i + 15]
+    nearby = lines[i:i + 25]
     nearby_text = " ".join(nearby).lower()
 
-    # Nur Spiele mit Bezug / Spielort Neuhausen
-    if ONLY_NEUHAUSEN:
-        neuhausen_keywords = [
-            "neuhausen",
-            "fv spfr neuhausen",
-            "sportfreunde neuhausen",
-            "stadion neuhausen",
-            "sportplatz neuhausen",
-            "egelsee",
-            "fvn"
-        ]
-
-        if not any(keyword in nearby_text for keyword in neuhausen_keywords):
+    if ONLY_NEUHAUSEN_SPIELORT:
+        if "neuhausen" not in nearby_text:
             continue
-
-    title = "Fußballspiel FV Neuhausen"
 
     teams = [
         x for x in nearby
-        if (
-            "FV" in x
-            or "SGM" in x
-            or "TSV" in x
-            or "VfB" in x
-            or "SF" in x
-            or "FC" in x
-            or "SC" in x
-        )
+        if any(token in x for token in ["FV ", "SGM ", "TSV ", "VfB ", "SF ", "FC ", "SC "])
     ]
 
     if len(teams) >= 2:
         title = f"{teams[0]} vs. {teams[1]}"
+    else:
+        title = "Fußballspiel FV Neuhausen"
 
     competition = next(
         (
             x for x in nearby
-            if (
-                "Junioren" in x
-                or "Juniorinnen" in x
-                or "Herren" in x
-                or "Frauen" in x
-                or "Kreisstaffel" in x
-                or "Kreisliga" in x
-                or "Bezirksliga" in x
-            )
+            if any(word in x for word in [
+                "Junioren",
+                "Juniorinnen",
+                "Herren",
+                "Frauen",
+                "Kreisstaffel",
+                "Kreisliga",
+                "Bezirksliga"
+            ])
         ),
         ""
     )
 
+    location = ""
+    for x in nearby:
+        if "Neuhausen" in x or "Egelsee" in x or "Sportplatz" in x:
+            location = x
+            break
+
+    uid = f"{title}-{start_dt.isoformat()}@fv-neuhausen"
+
     events.append({
         "title": title,
-        "start": dt,
+        "start": start_dt,
+        "end": start_dt + timedelta(hours=2),
         "competition": competition,
-        "url": URL
+        "location": location,
+        "uid": uid
     })
 
-for item in events:
+# Duplikate entfernen
+unique_events = {}
+for event in events:
+    unique_events[event["uid"]] = event
+
+for item in unique_events.values():
     event = Event()
     event.add("summary", item["title"])
     event.add("dtstart", item["start"])
-    event.add("dtend", item["start"] + timedelta(hours=2))
-    event.add(
-        "description",
-        f"{item['competition']}\nQuelle: {item['url']}"
-    )
-    event.add(
-        "uid",
-        f"{item['title']}-{item['start'].isoformat()}@fv-neuhausen"
-    )
-
+    event.add("dtend", item["end"])
+    event.add("location", item["location"])
+    event.add("description", f"{item['competition']}\nQuelle: {URL}")
+    event.add("uid", item["uid"])
     cal.add_component(event)
 
 with open("vereinsspielplan.ics", "wb") as f:
     f.write(cal.to_ical())
 
-print(f"{len(events)} Spiele bis {end_date.strftime('%d.%m.%Y')} exportiert.")
+print(f"{len(unique_events)} Spiele bis {end_date.strftime('%d.%m.%Y')} exportiert.")
