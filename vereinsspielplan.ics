@@ -3,4 +3,23 @@ VERSION:2.0
 PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen II vs. TSV Köngen II  : 
+DTSTART;TZID=Europe/Berlin:20260502T121500
+DTEND;TZID=Europe/Berlin:20260502T141500
+UID:356849016@fv-neuhausen
+DESCRIPTION:E-Junioren | Kreisstaffel\nQuelle: https://www.fussball.de/ver
+ ein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!
+ /section/stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM TSG Salach-Ottenbach (flex) vs. SGM Neuhausen /​ Wolfschluge
+ n  : 
+DTSTART;TZID=Europe/Berlin:20260503T103000
+DTEND;TZID=Europe/Berlin:20260503T123000
+UID:352386021@fv-neuhausen
+DESCRIPTION:B-Junioren | Kreisstaffel\nQuelle: https://www.fussball.de/ver
+ ein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!
+ /section/stage
+END:VEVENT
 END:VCALENDAR
