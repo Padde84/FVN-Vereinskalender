@@ -46,22 +46,30 @@ with sync_playwright() as p:
     print("Vereinsspielplan-Seite geladen.")
     page.wait_for_timeout(5000)
 
-    # Datumsfelder setzen
-    date_inputs = page.locator("input").all()
-    found_date_inputs = []
+# Datumsfelder per JavaScript setzen, weil FUSSBALL.DE sie readonly macht
+page.evaluate(
+    """([fromDate, toDate]) => {
+        const fromInput = document.querySelector('#matchcal-date-from');
+        const toInput = document.querySelector('#matchcal-date-to');
 
-    for inp in date_inputs:
-        try:
-            value = inp.input_value()
-            if re.match(r"\d{2}\.\d{2}\.\d{4}", value):
-                found_date_inputs.append(inp)
-        except Exception:
-            pass
+        if (fromInput) {
+            fromInput.removeAttribute('readonly');
+            fromInput.value = fromDate;
+            fromInput.dispatchEvent(new Event('input', { bubbles: true }));
+            fromInput.dispatchEvent(new Event('change', { bubbles: true }));
+        }
 
-    if len(found_date_inputs) >= 2:
-        found_date_inputs[0].fill(from_date_str)
-        found_date_inputs[1].fill(to_date_str)
-        print(f"Zeitraum gesetzt: {from_date_str} bis {to_date_str}")
+        if (toInput) {
+            toInput.removeAttribute('readonly');
+            toInput.value = toDate;
+            toInput.dispatchEvent(new Event('input', { bubbles: true }));
+            toInput.dispatchEvent(new Event('change', { bubbles: true }));
+        }
+    }""",
+    [from_date_str, to_date_str]
+)
+
+print(f"Zeitraum gesetzt: {from_date_str} bis {to_date_str}")
     else:
         print("Datumsfelder nicht gefunden.")
 
