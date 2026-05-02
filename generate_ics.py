@@ -106,7 +106,6 @@ for i, line in enumerate(lines):
     nearby = lines[i:i + 25]
     text = " ".join(nearby).lower()
 
-    # Nur Spiele mit Neuhausen-Bezug
     if "neuhausen" not in text:
         continue
 
@@ -120,34 +119,17 @@ for i, line in enumerate(lines):
     else:
         title = "FV Neuhausen Spiel"
 
-    competition = next(
-        (
-            x for x in nearby
-            if any(w in x for w in [
-                "Junioren",
-                "Juniorinnen",
-                "Herren",
-                "Frauen",
-                "Kreisstaffel",
-                "Kreisliga",
-                "Bezirksliga"
-            ])
-        ),
-        ""
-    )
+    competition = ""
+    for x in nearby:
+        if any(w in x for w in ["Junioren", "Herren", "Frauen", "Kreis", "Liga"]):
+            competition = x
+            break
 
-    location = next(
-        (
-            x for x in nearby
-            if any(w.lower() in x.lower() for w in [
-                "Neuhausen",
-                "Egelsee",
-                "Sportplatz",
-                "Stadion"
-            ])
-        ),
-        ""
-    )
+    location = ""
+    for x in nearby:
+        if any(w in x for w in ["Neuhausen", "Egelsee", "Sportplatz", "Stadion"]):
+            location = x
+            break
 
     uid = f"{title}-{start.isoformat()}@fv-neuhausen"
 
@@ -163,17 +145,20 @@ for i, line in enumerate(lines):
 
 # Duplikate entfernen
 seen = set()
+
 for event in events:
     uid = str(event.get("uid"))
+
     if uid in seen:
         continue
+
     seen.add(uid)
     cal.add_component(event)
 
 with open("vereinsspielplan.ics", "wb") as f:
     f.write(cal.to_ical())
 
-print(f"{len(seen)} Spiele bis {end_date.strftime('%d.%m.%Y')} exportiert.")
+print(f"{len(seen)} Spiele exportiert.")
 )
 
 events = []
