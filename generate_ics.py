@@ -42,15 +42,8 @@ with sync_playwright() as p:
 
     page.goto(URL, wait_until="networkidle", timeout=60000)
 
-# Tab Vereinsspielplan öffnen – mehrere Varianten versuchen
-try:
-    page.locator("a, button").filter(has_text=re.compile("VEREINSSPIELPLAN", re.I)).first.click(timeout=10000)
-except Exception:
-    try:
-        page.get_by_text(re.compile("VEREINSSPIELPLAN", re.I)).click(timeout=10000)
-    except Exception:
-        print("Hinweis: Tab 'Vereinsspielplan' wurde nicht gefunden. Mache mit aktueller Seite weiter.")
-    page.wait_for_timeout(2500)
+print("Vereinsspielplan-Seite geladen.")
+page.wait_for_timeout(5000)
 
     # Datumsfelder setzen
     date_inputs = page.locator("input").all()
