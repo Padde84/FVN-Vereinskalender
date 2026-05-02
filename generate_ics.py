@@ -8,8 +8,7 @@ from icalendar import Calendar, Event
 CLUB_URL = "https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I"
 LOCAL_TZ = tz.gettz("Europe/Berlin")
 
-# -1 = alle Spiele, 1 = Heimspiele, 2 = Auswärtsspiele
-MATCH_TYPE = -1
+MATCH_TYPE = -1  # -1 = alle Spiele, 1 = Heimspiele, 2 = Auswärtsspiele
 
 now = datetime.now(LOCAL_TZ)
 start_date = now.replace(hour=0, minute=0, second=0, microsecond=0)
@@ -34,16 +33,17 @@ cal.add("x-wr-timezone", "Europe/Berlin")
 
 
 def clean(value):
-    return re.sub(r"\s+", " ", value or "").strip()
+    value = value or ""
+    value = value.replace("\u200b", "")
+    value = value.replace("\u00a0", " ")
+    value = re.sub(r"[^\w\sÄÖÜäöüß./()\-:]+", " ", value)
+    return re.sub(r"\s+", " ", value).strip()
 
 
 def get_team_ids():
     html = requests.get(CLUB_URL, headers=HEADERS, timeout=30).text
     ids = set(re.findall(r"team-id/([A-Z0-9]+)", html))
-
-    # Fallback: falls IDs anders eingebettet sind
     ids.update(re.findall(r'team-id["\']?\s*[:=/]\s*["\']?([A-Z0-9]{10,})', html))
-
     return sorted(ids)
 
 
@@ -66,11 +66,7 @@ def fetch_matchplan(team_id):
 
 
 def parse_start(date_text, time_text):
-    if len(date_text.split(".")[-1]) == 2:
-        fmt = "%d.%m.%y %H:%M"
-    else:
-        fmt = "%d.%m.%Y %H:%M"
-
+    fmt = "%d.%m.%y %H:%M" if len(date_text.split(".")[-1]) == 2 else "%d.%m.%Y %H:%M"
     return datetime.strptime(f"{date_text} {time_text}", fmt).replace(tzinfo=LOCAL_TZ)
 
 
@@ -99,9 +95,21 @@ def parse_matchplan(html, team_id):
         home_team = clean(m.group(7))
         away_team = clean(m.group(8))
 
+        home_team = clean(home_team).replace("\u200b", "")
+        away_team = clean(away_team).replace("\u200b", "")
+
         combined = f"{home_team} {away_team}".lower()
 
-        if "neuhausen" not in combined:
+        keywords = [
+            "neuhausen",
+            "spfr neuhausen",
+            "fv neuhausen",
+            "fv spfr neuhausen",
+            "neuhausen auf den fildern",
+            "wolfschlugen",
+        ]
+
+        if not any(k in combined for k in keywords):
             continue
 
         if "spielfrei" in combined:
