@@ -134,8 +134,6 @@ all_events = {}
 team_ids = get_team_ids()
 print(f"{len(team_ids)} Team-IDs gefunden.")
 
- for_count = 0
-
 for team_id in team_ids:
     try:
         html = fetch_team_matchplan(team_id)
