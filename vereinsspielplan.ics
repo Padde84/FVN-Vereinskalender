@@ -4,15 +4,737 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Heimspiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:SGM TSG Salach-Ottenbach (flex) vs. SGM Neuhausen /​ Wolfschluge
+SUMMARY:355923197 FV Neuhausen vs. GSV Maichingen 
+DTSTART;TZID=Europe/Berlin:20260503T150000
+DTEND;TZID=Europe/Berlin:20260503T170000
+UID:011MIAJE3G000000VTVG0001VTR8C1K7-355923197 FV Neuhausen vs. GSV Maichi
+ ngen -2026-05-03T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : GSV Maichingen  :  Zum Spiel Rasenplatz\, Stadi
+ on Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen vs. GSV Maichingen
+DTSTART;TZID=Europe/Berlin:20260503T150000
+DTEND;TZID=Europe/Berlin:20260503T170000
+UID:011MIAJE3G000000VTVG0001VTR8C1K7-FV Neuhausen vs. GSV Maichingen-2026-
+ 05-03T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : GSV Maichingen  :  Zum Spiel Rasenplatz\, Stadi
+ on Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 
+ 10.05.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:355923197 FV Neuhausen vs. GSV Maichingen 
+DTSTART;TZID=Europe/Berlin:20260503T150000
+DTEND;TZID=Europe/Berlin:20260503T170000
+UID:011MIAO79G000000VTVG0001VTR8C1K7-355923197 FV Neuhausen vs. GSV Maichi
+ ngen -2026-05-03T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : GSV Maichingen  :  Zum Spiel Rasenplatz\, Stadi
+ on Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen vs. GSV Maichingen
+DTSTART;TZID=Europe/Berlin:20260503T150000
+DTEND;TZID=Europe/Berlin:20260503T170000
+UID:011MIAO79G000000VTVG0001VTR8C1K7-FV Neuhausen vs. GSV Maichingen-2026-
+ 05-03T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : GSV Maichingen  :  Zum Spiel Rasenplatz\, Stadi
+ on Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 
+ 09.05.2026 - 15:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:355923211 FV Neuhausen vs. SC Geislingen 
+DTSTART;TZID=Europe/Berlin:20260517T150000
+DTEND;TZID=Europe/Berlin:20260517T170000
+UID:011MIAO79G000000VTVG0001VTR8C1K7-355923211 FV Neuhausen vs. SC Geislin
+ gen -2026-05-17T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : SC Geislingen  :  Zum Spiel Rasenplatz\, Stadio
+ n Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen vs. SC Geislingen
+DTSTART;TZID=Europe/Berlin:20260517T150000
+DTEND;TZID=Europe/Berlin:20260517T170000
+UID:011MIAO79G000000VTVG0001VTR8C1K7-FV Neuhausen vs. SC Geislingen-2026-0
+ 5-17T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : SC Geislingen  :  Zum Spiel Rasenplatz\, Stadio
+ n Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 2
+ 3.05.2026 - 15:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:355923226 FV Neuhausen vs. TSV Bad Boll 
+DTSTART;TZID=Europe/Berlin:20260530T153000
+DTEND;TZID=Europe/Berlin:20260530T173000
+UID:011MIAO79G000000VTVG0001VTR8C1K7-355923226 FV Neuhausen vs. TSV Bad Bo
+ ll -2026-05-30T15:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : TSV Bad Boll  :  Zum Spiel Rasenplatz\, Stadion
+  Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen vs. TSV Bad Boll
+DTSTART;TZID=Europe/Berlin:20260530T153000
+DTEND;TZID=Europe/Berlin:20260530T173000
+UID:011MIAO79G000000VTVG0001VTR8C1K7-FV Neuhausen vs. TSV Bad Boll-2026-05
+ -30T15:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : TSV Bad Boll  :  Zum Spiel Rasenplatz\, Stadion
+  Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 06
+ .06.2026 - 15:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356082203 FV Neuhausen II vs. ASV Aichwald 
+DTSTART;TZID=Europe/Berlin:20260510T150000
+DTEND;TZID=Europe/Berlin:20260510T170000
+UID:011MIB6A68000000VTVG0001VTR8C1K7-356082203 FV Neuhausen II vs. ASV Aic
+ hwald -2026-05-10T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen II : ASV Aichwald  :  Zum Spiel Rasenplatz\, Stad
+ ion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen II vs. ASV Aichwald
+DTSTART;TZID=Europe/Berlin:20260510T150000
+DTEND;TZID=Europe/Berlin:20260510T170000
+UID:011MIB6A68000000VTVG0001VTR8C1K7-FV Neuhausen II vs. ASV Aichwald-2026
+ -05-10T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen II : ASV Aichwald  :  Zum Spiel Rasenplatz\, Stad
+ ion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Sonntag\,
+  17.05.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356082232 FV Neuhausen II vs. FV Plochingen II 
+DTSTART;TZID=Europe/Berlin:20260531T150000
+DTEND;TZID=Europe/Berlin:20260531T170000
+UID:011MIB6A68000000VTVG0001VTR8C1K7-356082232 FV Neuhausen II vs. FV Ploc
+ hingen II -2026-05-31T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen II : FV Plochingen II  :  Zum Spiel Rasenplatz\, 
+ Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen II vs. FV Plochingen II
+DTSTART;TZID=Europe/Berlin:20260531T150000
+DTEND;TZID=Europe/Berlin:20260531T170000
+UID:011MIB6A68000000VTVG0001VTR8C1K7-FV Neuhausen II vs. FV Plochingen II-
+ 2026-05-31T15:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen II : FV Plochingen II  :  Zum Spiel Rasenplatz\, 
+ Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samst
+ ag\, 06.06.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352406020 SGM Neuhausen/​Wolfschlugen II vs. SGM VfB Oberessling
+ en/​Zell/​1845 ES I 
+DTSTART;TZID=Europe/Berlin:20260502T150000
+DTEND;TZID=Europe/Berlin:20260502T170000
+UID:011MIB6B08000000VTVG0001VTR8C1K7-352406020 SGM Neuhausen/​Wolfschlug
+ en II vs. SGM VfB Oberesslingen/​Zell/​1845 ES I -2026-05-02T15:00:
+ 00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen II : SGM VfB Oberesslingen/​Zell/​1
+ 845 ES I  :  Zum Spiel Rasenplatz\, Stadion Neuhausen\, Schloßstr. 
+ 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/​Wolfschlugen II vs. SGM VfB Oberesslingen/​Zell
+ /​1845 ES I
+DTSTART;TZID=Europe/Berlin:20260502T150000
+DTEND;TZID=Europe/Berlin:20260502T170000
+UID:011MIB6B08000000VTVG0001VTR8C1K7-SGM Neuhausen/​Wolfschlugen II vs. 
+ SGM VfB Oberesslingen/​Zell/​1845 ES I-2026-05-02T15:00:00+02:00@fv-ne
+ uhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen II : SGM VfB Oberesslingen/​Zell/​1
+ 845 ES I  :  Zum Spiel Rasenplatz\, Stadion Neuhausen\, Schloßstr. 
+ 80\, 73765 Neuhausen auf den Fildern Samstag\, 09.05.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356592019 FV Spfr Neuhausen vs. SGM 1. FC Heiningen Voralb 
+DTSTART;TZID=Europe/Berlin:20260502T133000
+DTEND;TZID=Europe/Berlin:20260502T153000
+UID:011MIBATQG000000VTVG0001VTR8C1K7-356592019 FV Spfr Neuhausen vs. SGM 1
+ . FC Heiningen Voralb -2026-05-02T13:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : SGM 1. FC Heiningen Voralb  :  Zum Spiel Rasenp
+ latz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
+ dern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen vs. SGM 1. FC Heiningen Voralb
+DTSTART;TZID=Europe/Berlin:20260502T133000
+DTEND;TZID=Europe/Berlin:20260502T153000
+UID:011MIBATQG000000VTVG0001VTR8C1K7-FV Spfr Neuhausen vs. SGM 1. FC Heini
+ ngen Voralb-2026-05-02T13:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : SGM 1. FC Heiningen Voralb  :  Zum Spiel Rasenp
+ latz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
+ dern Mittwoch\, 06.05.2026 - 17:45 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356592015 FV Spfr Neuhausen vs. TV Altenstadt II 
+DTSTART;TZID=Europe/Berlin:20260506T174500
+DTEND;TZID=Europe/Berlin:20260506T194500
+UID:011MIBATQG000000VTVG0001VTR8C1K7-356592015 FV Spfr Neuhausen vs. TV Al
+ tenstadt II -2026-05-06T17:45:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : TV Altenstadt II  :  Zum Spiel Rasenplatz\, Neb
+ enplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen vs. TV Altenstadt II
+DTSTART;TZID=Europe/Berlin:20260506T174500
+DTEND;TZID=Europe/Berlin:20260506T194500
+UID:011MIBATQG000000VTVG0001VTR8C1K7-FV Spfr Neuhausen vs. TV Altenstadt I
+ I-2026-05-06T17:45:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : TV Altenstadt II  :  Zum Spiel Rasenplatz\, Neb
+ enplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samst
+ ag\, 09.05.2026 - 13:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356592024 FV Spfr Neuhausen vs. TSV Wolfschlugen I 
+DTSTART;TZID=Europe/Berlin:20260509T133000
+DTEND;TZID=Europe/Berlin:20260509T153000
+UID:011MIBATQG000000VTVG0001VTR8C1K7-356592024 FV Spfr Neuhausen vs. TSV W
+ olfschlugen I -2026-05-09T13:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : TSV Wolfschlugen I  :  Zum Spiel Rasenplatz\, N
+ ebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen vs. TSV Wolfschlugen I
+DTSTART;TZID=Europe/Berlin:20260509T133000
+DTEND;TZID=Europe/Berlin:20260509T153000
+UID:011MIBATQG000000VTVG0001VTR8C1K7-FV Spfr Neuhausen vs. TSV Wolfschluge
+ n I-2026-05-09T13:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : TSV Wolfschlugen I  :  Zum Spiel Rasenplatz\, N
+ ebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Sam
+ stag\, 16.05.2026 - 13:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356592026 FV Spfr Neuhausen vs. Wernauer SF I 
+DTSTART;TZID=Europe/Berlin:20260516T133000
+DTEND;TZID=Europe/Berlin:20260516T153000
+UID:011MIBATQG000000VTVG0001VTR8C1K7-356592026 FV Spfr Neuhausen vs. Werna
+ uer SF I -2026-05-16T13:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : Wernauer SF I  :  Zum Spiel Rasenplatz\, Nebenp
+ latz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen vs. Wernauer SF I
+DTSTART;TZID=Europe/Berlin:20260516T133000
+DTEND;TZID=Europe/Berlin:20260516T153000
+UID:011MIBATQG000000VTVG0001VTR8C1K7-FV Spfr Neuhausen vs. Wernauer SF I-2
+ 026-05-16T13:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : Wernauer SF I  :  Zum Spiel Rasenplatz\, Nebenp
+ latz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\
+ , 13.06.2026 - 13:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:351619019 FV Spfr Neuhausen I vs. TSV Scharnhausen I 
+DTSTART;TZID=Europe/Berlin:20260509T121500
+DTEND;TZID=Europe/Berlin:20260509T141500
+UID:01L113C66S000000VV0AG80NVVQMG8U7-351619019 FV Spfr Neuhausen I vs. TSV
+  Scharnhausen I -2026-05-09T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen I : TSV Scharnhausen I  :  Zum Spiel Rasenplatz\,
+  Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen I vs. TSV Scharnhausen I
+DTSTART;TZID=Europe/Berlin:20260509T121500
+DTEND;TZID=Europe/Berlin:20260509T141500
+UID:01L113C66S000000VV0AG80NVVQMG8U7-FV Spfr Neuhausen I vs. TSV Scharnhau
+ sen I-2026-05-09T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen I : TSV Scharnhausen I  :  Zum Spiel Rasenplatz\,
+  Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern M
+ ittwoch\, 13.05.2026 - 18:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:351619015 FV Spfr Neuhausen I vs. TSV Baltmannsweiler I 
+DTSTART;TZID=Europe/Berlin:20260513T180000
+DTEND;TZID=Europe/Berlin:20260513T200000
+UID:01L113C66S000000VV0AG80NVVQMG8U7-351619015 FV Spfr Neuhausen I vs. TSV
+  Baltmannsweiler I -2026-05-13T18:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen I : TSV Baltmannsweiler I  :  Zum Spiel Rasenplat
+ z\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Filder
  n
-DTSTART;TZID=Europe/Berlin:20260503T103000
-DTEND;TZID=Europe/Berlin:20260503T123000
-UID:SGM TSG Salach-Ottenbach (flex) vs. SGM Neuhausen /​ Wolfschlugen-20
- 26-05-03T10:30:00+02:00@fv-neuhausen
-DESCRIPTION:So\, 03.05.26 | 10:30	B-Junioren | Kreisstaffel	ME | 35238602
- 1\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
- /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/section/stage
-LOCATION:SGM Neuhausen /​ Wolfschlugen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen I vs. TSV Baltmannsweiler I
+DTSTART;TZID=Europe/Berlin:20260513T180000
+DTEND;TZID=Europe/Berlin:20260513T200000
+UID:01L113C66S000000VV0AG80NVVQMG8U7-FV Spfr Neuhausen I vs. TSV Baltmanns
+ weiler I-2026-05-13T18:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen I : TSV Baltmannsweiler I  :  Zum Spiel Rasenplat
+ z\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Filder
+ n Samstag\, 16.05.2026 - 12:15 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:351619026 FV Spfr Neuhausen I vs. TSG Esslingen 
+DTSTART;TZID=Europe/Berlin:20260613T121500
+DTEND;TZID=Europe/Berlin:20260613T141500
+UID:01L113C66S000000VV0AG80NVVQMG8U7-351619026 FV Spfr Neuhausen I vs. TSG
+  Esslingen -2026-06-13T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen I : TSG Esslingen  :  Zum Spiel Rasenplatz\, Nebe
+ nplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen I vs. TSG Esslingen
+DTSTART;TZID=Europe/Berlin:20260613T121500
+DTEND;TZID=Europe/Berlin:20260613T141500
+UID:01L113C66S000000VV0AG80NVVQMG8U7-FV Spfr Neuhausen I vs. TSG Esslingen
+ -2026-06-13T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen I : TSG Esslingen  :  Zum Spiel Rasenplatz\, Nebe
+ nplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samsta
+ g\, 20.06.2026 - 12:15 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352010021 SGM Neuhausen /​ Wolfschlugen vs. TSV Oberboihingen 
+ 
+DTSTART;TZID=Europe/Berlin:20260502T153000
+DTEND;TZID=Europe/Berlin:20260502T173000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-352010021 SGM Neuhausen /​ Wolfschl
+ ugen vs. TSV Oberboihingen -2026-05-02T15:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : TSV Oberboihingen  :  Zum Spi
+ el Mittwoch\, 06.05.2026 - 19:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen /​ Wolfschlugen vs. TSV Oberboihingen
+DTSTART;TZID=Europe/Berlin:20260502T153000
+DTEND;TZID=Europe/Berlin:20260502T173000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-SGM Neuhausen /​ Wolfschlugen vs. T
+ SV Oberboihingen-2026-05-02T15:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : TSV Oberboihingen  :  Zum Spi
+ el Mittwoch\, 06.05.2026 - 19:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352010022 SGM Neuhausen /​ Wolfschlugen vs. 1.FC Rechberghausen 
+ 
+DTSTART;TZID=Europe/Berlin:20260506T190000
+DTEND;TZID=Europe/Berlin:20260506T210000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-352010022 SGM Neuhausen /​ Wolfschl
+ ugen vs. 1.FC Rechberghausen -2026-05-06T19:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : 1.FC Rechberghausen  :  Zum S
+ piel Rasenplatz\, Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf
+  den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen /​ Wolfschlugen vs. 1.FC Rechberghausen
+DTSTART;TZID=Europe/Berlin:20260506T190000
+DTEND;TZID=Europe/Berlin:20260506T210000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-SGM Neuhausen /​ Wolfschlugen vs. 1
+ .FC Rechberghausen-2026-05-06T19:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : 1.FC Rechberghausen  :  Zum S
+ piel Rasenplatz\, Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf
+  den Fildern Samstag\, 09.05.2026 - 16:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352010022 SGM Neuhausen /​ Wolfschlugen vs. 1.FC Rechberghausen 
+ 06.05.2026 19:00 Samstag\, 16.05.2026 - Uhr | Kreisstaffel
+DTSTART;TZID=Europe/Berlin:20260509T163000
+DTEND;TZID=Europe/Berlin:20260509T183000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-352010022 SGM Neuhausen /​ Wolfschl
+ ugen vs. 1.FC Rechberghausen 06.05.2026 19:00 Samstag\, 16.05.2026 - Uhr |
+  Kreisstaffel-2026-05-09T16:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : 1.FC Rechberghausen 06.05.2026 19:0
+ 0 Samstag\, 16.05.2026 - Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen /​ Wolfschlugen vs. 1.FC Rechberghausen
+DTSTART;TZID=Europe/Berlin:20260509T163000
+DTEND;TZID=Europe/Berlin:20260509T183000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-SGM Neuhausen /​ Wolfschlugen vs. 1
+ .FC Rechberghausen-2026-05-09T16:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : 1.FC Rechberghausen 06.05.2026 19:0
+ 0 Samstag\, 16.05.2026 - Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen /​ Wolfschlugen vs. 1.FC Rechberghausen 06.05.2026
+  19:00 Samstag\, 16.05.2026 - Uhr | Kreisstaffel Sa\, 16.05.26 | Kreisstaf
+ fel ME | 352010026 SGM Neuhausen /​ Wolfschlugen
+DTSTART;TZID=Europe/Berlin:20260506T190000
+DTEND;TZID=Europe/Berlin:20260506T210000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-SGM Neuhausen /​ Wolfschlugen vs. 1
+ .FC Rechberghausen 06.05.2026 19:00 Samstag\, 16.05.2026 - Uhr | Kreisstaf
+ fel Sa\, 16.05.26 | Kreisstaffel ME | 352010026 SGM Neuhausen /​ Wolfsch
+ lugen-2026-05-06T19:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : 1.FC Rechberghausen 06.05.2026 19:0
+ 0 Samstag\, 16.05.2026 - Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352010029 SGM Neuhausen /​ Wolfschlugen vs. TV Neidlingen 
+DTSTART;TZID=Europe/Berlin:20260613T163000
+DTEND;TZID=Europe/Berlin:20260613T183000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-352010029 SGM Neuhausen /​ Wolfschl
+ ugen vs. TV Neidlingen -2026-06-13T16:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : TV Neidlingen  :  Zum Spiel R
+ asenplatz\, Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den F
+ ildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen /​ Wolfschlugen vs. TV Neidlingen
+DTSTART;TZID=Europe/Berlin:20260613T163000
+DTEND;TZID=Europe/Berlin:20260613T183000
+UID:02779NR5FS000000VS5489B1VSBHJ1NS-SGM Neuhausen /​ Wolfschlugen vs. T
+ V Neidlingen-2026-06-13T16:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : TV Neidlingen  :  Zum Spiel R
+ asenplatz\, Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den F
+ ildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356849024 FV Spfr Neuhausen II vs. SG Eintracht Sirnau II 
+DTSTART;TZID=Europe/Berlin:20260516T121500
+DTEND;TZID=Europe/Berlin:20260516T141500
+UID:02EL62K6MG000000VS5489B1VUG7DPRH-356849024 FV Spfr Neuhausen II vs. SG
+  Eintracht Sirnau II -2026-05-16T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen II : SG Eintracht Sirnau II  :  Zum Spiel Rasenpl
+ atz\, Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen II vs. SG Eintracht Sirnau II
+DTSTART;TZID=Europe/Berlin:20260516T121500
+DTEND;TZID=Europe/Berlin:20260516T141500
+UID:02EL62K6MG000000VS5489B1VUG7DPRH-FV Spfr Neuhausen II vs. SG Eintracht
+  Sirnau II-2026-05-16T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen II : SG Eintracht Sirnau II  :  Zum Spiel Rasenpl
+ atz\, Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+  Samstag\, 13.06.2026 - 12:15 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356849028 FV Spfr Neuhausen II vs. ASV Aichwald II 
+DTSTART;TZID=Europe/Berlin:20260620T121500
+DTEND;TZID=Europe/Berlin:20260620T141500
+UID:02EL62K6MG000000VS5489B1VUG7DPRH-356849028 FV Spfr Neuhausen II vs. AS
+ V Aichwald II -2026-06-20T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen II : ASV Aichwald II  :  Zum Spiel Rasenplatz\, S
+ tadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen II vs. ASV Aichwald II
+DTSTART;TZID=Europe/Berlin:20260620T121500
+DTEND;TZID=Europe/Berlin:20260620T141500
+UID:02EL62K6MG000000VS5489B1VUG7DPRH-FV Spfr Neuhausen II vs. ASV Aichwald
+  II-2026-06-20T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen II : ASV Aichwald II  :  Zum Spiel Rasenplatz\, S
+ tadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352265021 SGM Neuhausen/​Wolfschlugen I vs. SGM TSV Neckartenzli
+ ngen/​Grafenberg/​Riederich I 
+DTSTART;TZID=Europe/Berlin:20260502T144500
+DTEND;TZID=Europe/Berlin:20260502T164500
+UID:02M6UTN938000000VS5489B1VT732LUQ-352265021 SGM Neuhausen/​Wolfschlug
+ en I vs. SGM TSV Neckartenzlingen/​Grafenberg/​Riederich I -2026-05
+ -02T14:45:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen I : SGM TSV Neckartenzlingen/​Grafenb
+ erg/​Riederich I  :  Zum Spiel Rasenplatz\, Hauptplatz Wolfschluge
+ n\, Nürtinger Str.\, 72649 Wolfschlugen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/​Wolfschlugen I vs. SGM TSV Neckartenzlingen/​Gr
+ afenberg/​Riederich I
+DTSTART;TZID=Europe/Berlin:20260502T144500
+DTEND;TZID=Europe/Berlin:20260502T164500
+UID:02M6UTN938000000VS5489B1VT732LUQ-SGM Neuhausen/​Wolfschlugen I vs. S
+ GM TSV Neckartenzlingen/​Grafenberg/​Riederich I-2026-05-02T14:45:00+0
+ 2:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen I : SGM TSV Neckartenzlingen/​Grafenb
+ erg/​Riederich I  :  Zum Spiel Rasenplatz\, Hauptplatz Wolfschluge
+ n\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 09.05.2026 - 14:45 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356850019 FV Spfr Neuhausen III vs. TB Ruit III 
+DTSTART;TZID=Europe/Berlin:20260509T121500
+DTEND;TZID=Europe/Berlin:20260509T141500
+UID:02Q2I92Q3K000000VS5489B1VVDHMN8Q-356850019 FV Spfr Neuhausen III vs. T
+ B Ruit III -2026-05-09T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen III : TB Ruit III  :  Zum Spiel Rasenplatz\, Stad
+ ion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen III vs. TB Ruit III
+DTSTART;TZID=Europe/Berlin:20260509T121500
+DTEND;TZID=Europe/Berlin:20260509T141500
+UID:02Q2I92Q3K000000VS5489B1VVDHMN8Q-FV Spfr Neuhausen III vs. TB Ruit III
+ -2026-05-09T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen III : TB Ruit III  :  Zum Spiel Rasenplatz\, Stad
+ ion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\,
+  16.05.2026 - 12:15 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356850026 FV Spfr Neuhausen III vs. TSV Denkendorf II 
+DTSTART;TZID=Europe/Berlin:20260613T121500
+DTEND;TZID=Europe/Berlin:20260613T141500
+UID:02Q2I92Q3K000000VS5489B1VVDHMN8Q-356850026 FV Spfr Neuhausen III vs. T
+ SV Denkendorf II -2026-06-13T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen III : TSV Denkendorf II  :  Zum Spiel Rasenplatz\
+ , Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen III vs. TSV Denkendorf II
+DTSTART;TZID=Europe/Berlin:20260613T121500
+DTEND;TZID=Europe/Berlin:20260613T141500
+UID:02Q2I92Q3K000000VS5489B1VVDHMN8Q-FV Spfr Neuhausen III vs. TSV Denkend
+ orf II-2026-06-13T12:15:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen III : TSV Denkendorf II  :  Zum Spiel Rasenplatz\
+ , Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Sam
+ stag\, 20.06.2026 - 11:15 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352010021 SGM Neuhausen /​ Wolfschlugen vs. TSV Oberboihingen 
+ 
+DTSTART;TZID=Europe/Berlin:20260502T153000
+DTEND;TZID=Europe/Berlin:20260502T173000
+UID:02TGJ53GEG000000VS5489BSVTA87VEB-352010021 SGM Neuhausen /​ Wolfschl
+ ugen vs. TSV Oberboihingen -2026-05-02T15:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : TSV Oberboihingen  :  Zum Spi
+ el Samstag\, 09.05.2026 - Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen /​ Wolfschlugen vs. TSV Oberboihingen
+DTSTART;TZID=Europe/Berlin:20260502T153000
+DTEND;TZID=Europe/Berlin:20260502T173000
+UID:02TGJ53GEG000000VS5489BSVTA87VEB-SGM Neuhausen /​ Wolfschlugen vs. T
+ SV Oberboihingen-2026-05-02T15:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen /​ Wolfschlugen : TSV Oberboihingen  :  Zum Spi
+ el Samstag\, 09.05.2026 - Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352265021 SGM Neuhausen/​Wolfschlugen I vs. SGM TSV Neckartenzli
+ ngen/​Grafenberg/​Riederich I 
+DTSTART;TZID=Europe/Berlin:20260502T144500
+DTEND;TZID=Europe/Berlin:20260502T164500
+UID:02TO80T00C000000VS5489BRVSS9M1SM-352265021 SGM Neuhausen/​Wolfschlug
+ en I vs. SGM TSV Neckartenzlingen/​Grafenberg/​Riederich I -2026-05
+ -02T14:45:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen I : SGM TSV Neckartenzlingen/​Grafenb
+ erg/​Riederich I  :  Zum Spiel Rasenplatz\, Hauptplatz Wolfschluge
+ n\, Nürtinger Str.\, 72649 Wolfschlugen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/​Wolfschlugen I vs. SGM TSV Neckartenzlingen/​Gr
+ afenberg/​Riederich I
+DTSTART;TZID=Europe/Berlin:20260502T144500
+DTEND;TZID=Europe/Berlin:20260502T164500
+UID:02TO80T00C000000VS5489BRVSS9M1SM-SGM Neuhausen/​Wolfschlugen I vs. S
+ GM TSV Neckartenzlingen/​Grafenberg/​Riederich I-2026-05-02T14:45:00+0
+ 2:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen I : SGM TSV Neckartenzlingen/​Grafenb
+ erg/​Riederich I  :  Zum Spiel Rasenplatz\, Hauptplatz Wolfschluge
+ n\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 09.05.2026 - 14:45 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352265022 SGM Neuhausen/​Wolfschlugen I vs. TSV Ötlingen I 
+DTSTART;TZID=Europe/Berlin:20260509T144500
+DTEND;TZID=Europe/Berlin:20260509T164500
+UID:02TO80T00C000000VS5489BRVSS9M1SM-352265022 SGM Neuhausen/​Wolfschlug
+ en I vs. TSV Ötlingen I -2026-05-09T14:45:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen I : TSV Ötlingen I  :  Zum Spiel
+  Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlug
+ en
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/​Wolfschlugen I vs. TSV Ötlingen I
+DTSTART;TZID=Europe/Berlin:20260509T144500
+DTEND;TZID=Europe/Berlin:20260509T164500
+UID:02TO80T00C000000VS5489BRVSS9M1SM-SGM Neuhausen/​Wolfschlugen I vs. T
+ SV Ötlingen I-2026-05-09T14:45:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen I : TSV Ötlingen I  :  Zum Spiel
+  Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlug
+ en Samstag\, 16.05.2026 - 14:45 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352265029 SGM Neuhausen/​Wolfschlugen I vs. TSV RSK Esslingen I 
+ 
+DTSTART;TZID=Europe/Berlin:20260613T144500
+DTEND;TZID=Europe/Berlin:20260613T164500
+UID:02TO80T00C000000VS5489BRVSS9M1SM-352265029 SGM Neuhausen/​Wolfschlug
+ en I vs. TSV RSK Esslingen I -2026-06-13T14:45:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen I : TSV RSK Esslingen I  :  Zum S
+ piel Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wolfsc
+ hlugen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/​Wolfschlugen I vs. TSV RSK Esslingen I
+DTSTART;TZID=Europe/Berlin:20260613T144500
+DTEND;TZID=Europe/Berlin:20260613T164500
+UID:02TO80T00C000000VS5489BRVSS9M1SM-SGM Neuhausen/​Wolfschlugen I vs. T
+ SV RSK Esslingen I-2026-06-13T14:45:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen I : TSV RSK Esslingen I  :  Zum S
+ piel Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wolfsc
+ hlugen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352406020 SGM Neuhausen/​Wolfschlugen II vs. SGM VfB Oberessling
+ en/​Zell/​1845 ES I 
+DTSTART;TZID=Europe/Berlin:20260502T150000
+DTEND;TZID=Europe/Berlin:20260502T170000
+UID:02TO8GO224000000VS5489BRVSS9M1SM-352406020 SGM Neuhausen/​Wolfschlug
+ en II vs. SGM VfB Oberesslingen/​Zell/​1845 ES I -2026-05-02T15:00:
+ 00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen II : SGM VfB Oberesslingen/​Zell/​1
+ 845 ES I  :  Zum Spiel Rasenplatz\, Stadion Neuhausen\, Schloßstr. 
+ 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/​Wolfschlugen II vs. SGM VfB Oberesslingen/​Zell
+ /​1845 ES I
+DTSTART;TZID=Europe/Berlin:20260502T150000
+DTEND;TZID=Europe/Berlin:20260502T170000
+UID:02TO8GO224000000VS5489BRVSS9M1SM-SGM Neuhausen/​Wolfschlugen II vs. 
+ SGM VfB Oberesslingen/​Zell/​1845 ES I-2026-05-02T15:00:00+02:00@fv-ne
+ uhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen/​Wolfschlugen II : SGM VfB Oberesslingen/​Zell/​1
+ 845 ES I  :  Zum Spiel Rasenplatz\, Stadion Neuhausen\, Schloßstr. 
+ 80\, 73765 Neuhausen auf den Fildern Samstag\, 09.05.2026 - 16:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:356592019 FV Spfr Neuhausen vs. SGM 1. FC Heiningen Voralb 
+DTSTART;TZID=Europe/Berlin:20260502T133000
+DTEND;TZID=Europe/Berlin:20260502T153000
+UID:02TON0K580000000VS5489BRVSS9M1SM-356592019 FV Spfr Neuhausen vs. SGM 1
+ . FC Heiningen Voralb -2026-05-02T13:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : SGM 1. FC Heiningen Voralb  :  Zum Spiel Rasenp
+ latz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
+ dern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen vs. SGM 1. FC Heiningen Voralb
+DTSTART;TZID=Europe/Berlin:20260502T133000
+DTEND;TZID=Europe/Berlin:20260502T153000
+UID:02TON0K580000000VS5489BRVSS9M1SM-FV Spfr Neuhausen vs. SGM 1. FC Heini
+ ngen Voralb-2026-05-02T13:30:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen : SGM 1. FC Heiningen Voralb  :  Zum Spiel Rasenp
+ latz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fil
+ dern Samstag\, 09.05.2026 - Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:352621019 FV Spfr Neuhausen IV (5) vs. TB Gingen II (5) 
+DTSTART;TZID=Europe/Berlin:20260508T180000
+DTEND;TZID=Europe/Berlin:20260508T200000
+UID:02TPSLHA6C000000VS5489BRVSS9M1SM-352621019 FV Spfr Neuhausen IV (5) vs
+ . TB Gingen II (5) -2026-05-08T18:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen IV (5) : TB Gingen II (5)  :  Zum Spiel Rasenplat
+ z\, Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen IV (5) vs. TB Gingen II (5)
+DTSTART;TZID=Europe/Berlin:20260508T180000
+DTEND;TZID=Europe/Berlin:20260508T200000
+UID:02TPSLHA6C000000VS5489BRVSS9M1SM-FV Spfr Neuhausen IV (5) vs. TB Ginge
+ n II (5)-2026-05-08T18:00:00+02:00@fv-neuhausen
+DESCRIPTION:\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Neuhausen IV (5) : TB Gingen II (5)  :  Zum Spiel Rasenplat
+ z\, Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern F
+ reitag\, 15.05.2026 - 18:00 Uhr
 END:VEVENT
 END:VCALENDAR
