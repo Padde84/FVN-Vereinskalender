@@ -4,7 +4,7 @@ from dateutil import tz
 from icalendar import Calendar, Event
 from playwright.sync_api import sync_playwright
 
-URL = "https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/"
+URL = "https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/section/stage"
 
 LOCAL_TZ = tz.gettz("Europe/Berlin")
 ONLY_NEUHAUSEN_SPIELORT = True
@@ -42,8 +42,14 @@ with sync_playwright() as p:
 
     page.goto(URL, wait_until="networkidle", timeout=60000)
 
-    # Tab Vereinsspielplan öffnen
-    page.get_by_text("VEREINSSPIELPLAN", exact=True).click()
+# Tab Vereinsspielplan öffnen – mehrere Varianten versuchen
+try:
+    page.locator("a, button").filter(has_text=re.compile("VEREINSSPIELPLAN", re.I)).first.click(timeout=10000)
+except Exception:
+    try:
+        page.get_by_text(re.compile("VEREINSSPIELPLAN", re.I)).click(timeout=10000)
+    except Exception:
+        print("Hinweis: Tab 'Vereinsspielplan' wurde nicht gefunden. Mache mit aktueller Seite weiter.")
     page.wait_for_timeout(2500)
 
     # Datumsfelder setzen
