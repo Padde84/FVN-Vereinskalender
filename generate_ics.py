@@ -81,6 +81,101 @@ date_pattern = re.compile(
     r"(Mo|Di|Mi|Do|Fr|Sa|So),\s*(\d{2}\.\d{2}\.\d{2,4})\s*\|\s*(\d{1,2}:\d{2})"
 )
 
+time_only_pattern = re.compile(r"^(\d{1,2}:\d{2})$")
+
+events = []
+current_date_str = None
+
+for i, line in enumerate(lines):
+    match = date_pattern.search(line)
+
+    if match:
+        current_date_str = match.group(2)
+        time_str = match.group(3)
+    else:
+        time_match = time_only_pattern.match(line)
+        if not time_match or not current_date_str:
+            continue
+        time_str = time_match.group(1)
+
+    start = parse_datetime(current_date_str, time_str)
+
+    if not (today <= start <= end_date):
+        continue
+
+    nearby = lines[i:i + 25]
+    text = " ".join(nearby).lower()
+
+    # Nur Spiele mit Neuhausen-Bezug
+    if "neuhausen" not in text:
+        continue
+
+    teams = [
+        x for x in nearby
+        if any(t in x for t in ["FV ", "TSV ", "SGM ", "VfB ", "FC ", "SC ", "SF "])
+    ]
+
+    if len(teams) >= 2:
+        title = f"{teams[0]} vs. {teams[1]}"
+    else:
+        title = "FV Neuhausen Spiel"
+
+    competition = next(
+        (
+            x for x in nearby
+            if any(w in x for w in [
+                "Junioren",
+                "Juniorinnen",
+                "Herren",
+                "Frauen",
+                "Kreisstaffel",
+                "Kreisliga",
+                "Bezirksliga"
+            ])
+        ),
+        ""
+    )
+
+    location = next(
+        (
+            x for x in nearby
+            if any(w.lower() in x.lower() for w in [
+                "Neuhausen",
+                "Egelsee",
+                "Sportplatz",
+                "Stadion"
+            ])
+        ),
+        ""
+    )
+
+    uid = f"{title}-{start.isoformat()}@fv-neuhausen"
+
+    event = Event()
+    event.add("summary", title)
+    event.add("dtstart", start)
+    event.add("dtend", start + timedelta(hours=2))
+    event.add("location", location)
+    event.add("description", f"{competition}\nQuelle: {URL}")
+    event.add("uid", uid)
+
+    events.append(event)
+
+# Duplikate entfernen
+seen = set()
+for event in events:
+    uid = str(event.get("uid"))
+    if uid in seen:
+        continue
+    seen.add(uid)
+    cal.add_component(event)
+
+with open("vereinsspielplan.ics", "wb") as f:
+    f.write(cal.to_ical())
+
+print(f"{len(seen)} Spiele bis {end_date.strftime('%d.%m.%Y')} exportiert.")
+)
+
 events = []
 
 for i, line in enumerate(lines):
