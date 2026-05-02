@@ -1,0 +1,37 @@
+name: Update Vereinsspielplan ICS
+
+on:
+  schedule:
+    # täglich um 04:15 UTC = ca. 05:15/06:15 Uhr deutscher Zeit
+    - cron: "15 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: ICS erzeugen
+        run: python generate_ics.py
+
+      - name: Änderungen committen
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@example.com"
+          git add vereinsspielplan.ics
+          git commit -m "Update Vereinsspielplan ICS" || echo "Keine Änderungen"
+          git push
