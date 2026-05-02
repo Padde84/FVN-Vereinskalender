@@ -2,14 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Heimspiele
+X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:SGM TSG Salach-Ottenbach (flex) vs. SGM Neuhausen /​ Wolfschluge
  n
 DTSTART;TZID=Europe/Berlin:20260503T103000
 DTEND;TZID=Europe/Berlin:20260503T123000
 UID:SGM TSG Salach-Ottenbach (flex) vs. SGM Neuhausen /​ Wolfschlugen-20
- 26-05-03T10:30:00+02:00
-DESCRIPTION:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/
- -/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/section/stage
+ 26-05-03T10:30:00+02:00@fv-neuhausen
+DESCRIPTION:So\, 03.05.26 | 10:30	B-Junioren | Kreisstaffel	ME | 35238602
+ 1\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
+ /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/section/stage
+LOCATION:SGM Neuhausen /​ Wolfschlugen
 END:VEVENT
 END:VCALENDAR
