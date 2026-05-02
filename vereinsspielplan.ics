@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FV Neuhausen Vereinsspielplan//fussball.de//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FV Neuhausen Vereinsspielplan
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen II vs. TSV Köngen II
+DTSTART;TZID=Europe/Berlin:20260502T121500
+DTEND;TZID=Europe/Berlin:20260502T141500
+DTSTAMP:20260502T093930Z
+UID:d909f2405fec52b4@fvn-fussballde-calendar
+DESCRIPTION:E-Junioren | Kreisstaffel\nSpielart: ME\nSpielnummer: 35684901
+ 6\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
+ /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen I vs. VfB Oberesslingen/Zell III
+DTSTART;TZID=Europe/Berlin:20260502T121500
+DTEND;TZID=Europe/Berlin:20260502T141500
+DTSTAMP:20260502T093930Z
+UID:7cf99d9f4a458d3c@fvn-fussballde-calendar
+DESCRIPTION:E-Junioren | Kreisstaffel\nSpielart: ME\nSpielnummer: 35161901
+ 8\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
+ /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VfB Oberesslingen/Zell III vs. FV Spfr Neuhausen III
+DTSTART;TZID=Europe/Berlin:20260502T121500
+DTEND;TZID=Europe/Berlin:20260502T141500
+DTSTAMP:20260502T093930Z
+UID:2ff6a66d1ab293f6@fvn-fussballde-calendar
+DESCRIPTION:E-Junioren | Kreisstaffel\nSpielart: ME\nSpielnummer: 35685001
+ 8\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
+ /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Spfr Neuhausen vs. SGM 1. FC Heiningen Voralb
+DTSTART;TZID=Europe/Berlin:20260502T133000
+DTEND;TZID=Europe/Berlin:20260502T153000
+DTSTAMP:20260502T093930Z
+UID:0fcdaa7fbc98352a@fvn-fussballde-calendar
+DESCRIPTION:D-Junioren | Kreisstaffel\nSpielart: ME\nSpielnummer: 35659201
+ 9\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
+ /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/Wolfschlugen I vs. SGM TSV Neckartenzlingen/Grafenbe
+ rg/Riederich I
+DTSTART;TZID=Europe/Berlin:20260502T144500
+DTEND;TZID=Europe/Berlin:20260502T164500
+DTSTAMP:20260502T093930Z
+UID:0840971faff70286@fvn-fussballde-calendar
+DESCRIPTION:C-Junioren | Kreisleistungsstaffel\nSpielart: ME\nSpielnummer:
+  352265021\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuert
+ temberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/Wolfschlugen II vs. SGM VfB Oberesslingen/Zell/1845 
+ ES I
+DTSTART;TZID=Europe/Berlin:20260502T150000
+DTEND;TZID=Europe/Berlin:20260502T170000
+DTSTAMP:20260502T093930Z
+UID:9c685087435d1627@fvn-fussballde-calendar
+DESCRIPTION:C-Junioren | Kreisstaffel\nSpielart: ME\nSpielnummer: 35240602
+ 0\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
+ /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen / Wolfschlugen vs. TSV Oberboihingen
+DTSTART;TZID=Europe/Berlin:20260502T153000
+DTEND;TZID=Europe/Berlin:20260502T173000
+DTSTAMP:20260502T093930Z
+UID:aed313ec918a9657@fvn-fussballde-calendar
+DESCRIPTION:A-Junioren | Kreisstaffel\nSpielart: ME\nSpielnummer: 35201002
+ 1\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
+ /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM TSG Salach-Ottenbach (flex) vs. SGM Neuhausen / Wolfschlugen
+DTSTART;TZID=Europe/Berlin:20260503T103000
+DTEND;TZID=Europe/Berlin:20260503T123000
+DTSTAMP:20260502T093930Z
+UID:022bf7c87a60c761@fvn-fussballde-calendar
+DESCRIPTION:B-Junioren | Kreisstaffel\nSpielart: ME\nSpielnummer: 35238602
+ 1\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-
+ /id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen vs. GSV Maichingen
+DTSTART;TZID=Europe/Berlin:20260503T150000
+DTEND;TZID=Europe/Berlin:20260503T170000
+DTSTAMP:20260502T093930Z
+UID:03650295f0491ce0@fvn-fussballde-calendar
+DESCRIPTION:Herren | Landesliga\nSpielart: ME\nSpielnummer: 355923197\nQue
+ lle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00
+ ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TB Ruit vs. FV Neuhausen II
+DTSTART;TZID=Europe/Berlin:20260503T153000
+DTEND;TZID=Europe/Berlin:20260503T173000
+DTSTAMP:20260502T093930Z
+UID:3ca3997a028981e0@fvn-fussballde-calendar
+DESCRIPTION:Herren | Kreisliga A\; Kreisliga\nSpielart: ME\nSpielnummer: 3
+ 56082194\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertte
+ mberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I#!/
+URL:https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
+ S8GNAVO0000ALVV0AG08LVUPGND5I#!/
+END:VEVENT
+END:VCALENDAR
