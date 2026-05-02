@@ -70,8 +70,6 @@ page.evaluate(
 )
 
 print(f"Zeitraum gesetzt: {from_date_str} bis {to_date_str}")
-    else:
-        print("Datumsfelder nicht gefunden.")
 
     try:
         page.get_by_text("Spielstätten anzeigen", exact=True).click(timeout=5000)
