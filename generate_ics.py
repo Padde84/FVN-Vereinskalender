@@ -59,20 +59,26 @@ def normalize_team_name(name):
 
 def get_youth_from_match_id(match_id, league):
     prefix_map = {
+        # E-Junioren
         "351619": "E-Junioren",
         "356849": "E-Junioren",
         "356850": "E-Junioren",
+        "352621": "E-Junioren",
 
+        # D-Junioren
         "356592": "D-Junioren",
 
+        # C-Junioren
         "352265": "C-Junioren",
         "352406": "C-Junioren",
 
+        # B-Junioren
         "352386": "B-Junioren",
+
+        # A-Junioren
         "352010": "A-Junioren",
 
-        "352621": "F-Junioren",
-
+        # Herren
         "355923": "Herren",
         "356082": "Herren",
     }
@@ -107,9 +113,9 @@ def fetch_matchplan(team_id):
         "wettkampftyp": "-1",
     }
 
-    r = requests.get(url, headers=HEADERS, params=params, timeout=30)
-    r.raise_for_status()
-    return r.text
+    response = requests.get(url, headers=HEADERS, params=params, timeout=30)
+    response.raise_for_status()
+    return response.text
 
 
 def parse_start(date_text, time_text):
@@ -134,13 +140,13 @@ def parse_matchplan(html):
 
     matches = {}
 
-    for m in pattern.finditer(text):
-        date_text = m.group(2)
-        time_text = m.group(3)
-        league = clean(m.group(4))
-        match_id = clean(m.group(6))
-        home_team = clean_team(m.group(7))
-        away_team = clean_team(m.group(8))
+    for match in pattern.finditer(text):
+        date_text = match.group(2)
+        time_text = match.group(3)
+        league = clean(match.group(4))
+        match_id = clean(match.group(6))
+        home_team = clean_team(match.group(7))
+        away_team = clean_team(match.group(8))
 
         combined = f"{home_team} {away_team}".lower()
 
@@ -149,6 +155,11 @@ def parse_matchplan(html):
 
         if "spielfrei" in combined:
             continue
+
+        is_cancelled = "absetzung" in combined
+
+        home_team = re.sub(r"\bAbsetzung\b", "", home_team, flags=re.IGNORECASE)
+        away_team = re.sub(r"\bAbsetzung\b", "", away_team, flags=re.IGNORECASE)
 
         start = parse_start(date_text, time_text)
 
@@ -160,10 +171,15 @@ def parse_matchplan(html):
 
         youth = get_youth_from_match_id(match_id, league)
 
+        base_title = f"{home_team_short} - {away_team_short}"
+
         if youth:
-            title = f"{youth} {home_team_short} - {away_team_short}"
+            base_title = f"{youth} {base_title}"
+
+        if is_cancelled:
+            title = f"Absetzung {base_title}"
         else:
-            title = f"{home_team_short} - {away_team_short}"
+            title = base_title
 
         uid = f"{match_id}@fv-neuhausen"
 
@@ -188,8 +204,8 @@ for team_id in team_ids:
         matches = parse_matchplan(html)
         all_matches.update(matches)
         print(f"{team_id}: {len(matches)} Spiele")
-    except Exception as e:
-        print(f"{team_id}: Fehler: {e}")
+    except Exception as error:
+        print(f"{team_id}: Fehler: {error}")
 
 for item in sorted(all_matches.values(), key=lambda x: x["start"]):
     event = Event()
@@ -200,7 +216,7 @@ for item in sorted(all_matches.values(), key=lambda x: x["start"]):
     event.add("uid", item["uid"])
     cal.add_component(event)
 
-with open("vereinsspielplan.ics", "wb") as f:
-    f.write(cal.to_ical())
+with open("vereinsspielplan.ics", "wb") as file:
+    file.write(cal.to_ical())
 
 print(f"{len(all_matches)} Spiele bis {end_date.strftime('%d.%m.%Y')} exportiert.")
