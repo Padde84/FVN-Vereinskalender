@@ -113,7 +113,9 @@ def extract_matches_from_text(text, source):
         if not (start_date <= start <= end_date):
             continue
 
-        title = f"{home_team} vs. {away_team}"
+        youth = competition.split("|")[0].strip()
+
+        title = f"{youth} | {home_team} vs. {away_team}"
 
         matches[match_id] = {
             "title": title,
