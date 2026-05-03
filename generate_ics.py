@@ -1,4 +1,5 @@
 import re
+import urllib.parse
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
@@ -46,39 +47,25 @@ def clean_team(text):
 
 def normalize_team_name(name):
     name = clean_team(name)
-
     name = name.replace("FV Spfr Neuhausen", "FV Neuhausen")
-
     name = re.sub(r"\bIV\b", "4", name)
     name = re.sub(r"\bIII\b", "3", name)
     name = re.sub(r"\bII\b", "2", name)
     name = re.sub(r"\bI\b", "1", name)
-
     return clean(name)
 
 
 def get_youth_from_match_id(match_id, league):
     prefix_map = {
-        # E-Junioren
         "351619": "E-Junioren",
         "356849": "E-Junioren",
         "356850": "E-Junioren",
         "352621": "E-Junioren",
-
-        # D-Junioren
         "356592": "D-Junioren",
-
-        # C-Junioren
         "352265": "C-Junioren",
         "352406": "C-Junioren",
-
-        # B-Junioren
         "352386": "B-Junioren",
-
-        # A-Junioren
         "352010": "A-Junioren",
-
-        # Herren
         "355923": "Herren",
         "356082": "Herren",
     }
@@ -123,6 +110,34 @@ def parse_start(date_text, time_text):
     return datetime.strptime(f"{date_text} {time_text}", fmt).replace(tzinfo=LOCAL_TZ)
 
 
+def google_maps_link(location):
+    if not location:
+        return ""
+
+    query = urllib.parse.quote_plus(location)
+    return f"https://www.google.com/maps/search/?api=1&query={query}"
+
+
+def extract_venue_from_block(block_text):
+    block_text = clean(block_text)
+
+    venue_patterns = [
+        r"(Sportplatz[^|]+)",
+        r"(Stadion[^|]+)",
+        r"(Kunstrasen[^|]+)",
+        r"(Rasenplatz[^|]+)",
+        r"(Egelsee[^|]+)",
+        r"([A-Za-zÄÖÜäöüß.\-\s]+,\s*\d{5}\s+[A-Za-zÄÖÜäöüß.\-\s]+)",
+    ]
+
+    for pattern in venue_patterns:
+        match = re.search(pattern, block_text, re.IGNORECASE)
+        if match:
+            return clean(match.group(1))
+
+    return ""
+
+
 def parse_matchplan(html):
     soup = BeautifulSoup(html, "html.parser")
     text = clean(soup.get_text(" ", strip=True))
@@ -140,13 +155,19 @@ def parse_matchplan(html):
 
     matches = {}
 
-    for match in pattern.finditer(text):
+    found = list(pattern.finditer(text))
+
+    for index, match in enumerate(found):
         date_text = match.group(2)
         time_text = match.group(3)
         league = clean(match.group(4))
         match_id = clean(match.group(6))
         home_team = clean_team(match.group(7))
         away_team = clean_team(match.group(8))
+
+        block_start = match.start()
+        block_end = found[index + 1].start() if index + 1 < len(found) else len(text)
+        block_text = text[block_start:block_end]
 
         combined = f"{home_team} {away_team}".lower()
 
@@ -181,13 +202,28 @@ def parse_matchplan(html):
         else:
             title = base_title
 
+        venue = extract_venue_from_block(block_text)
+
+        maps_url = google_maps_link(venue)
+
+        description = league
+
+        if venue:
+            description += f"\nSpielort: {venue}"
+
+        if maps_url:
+            description += f"\nGoogle Maps: {maps_url}"
+
+        description += f"\nQuelle: {CLUB_URL}"
+
         uid = f"{match_id}@fv-neuhausen"
 
         matches[uid] = {
             "title": title,
             "start": start,
             "end": start + timedelta(hours=2),
-            "description": league,
+            "description": description,
+            "location": venue,
             "uid": uid,
         }
 
@@ -212,7 +248,11 @@ for item in sorted(all_matches.values(), key=lambda x: x["start"]):
     event.add("summary", item["title"])
     event.add("dtstart", item["start"])
     event.add("dtend", item["end"])
-    event.add("description", f"{item['description']}\nQuelle: {CLUB_URL}")
+    event.add("description", item["description"])
+
+    if item.get("location"):
+        event.add("location", item["location"])
+
     event.add("uid", item["uid"])
     cal.add_component(event)
 
