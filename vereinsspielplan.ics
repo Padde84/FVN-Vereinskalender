@@ -13,7 +13,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen - GSV Maichingen
+SUMMARY:Herren FV Neuhausen - GSV Maichingen
 DTSTART;TZID=Europe/Berlin:20260503T150000
 DTEND;TZID=Europe/Berlin:20260503T170000
 UID:355923197@fv-neuhausen
@@ -21,7 +21,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TB Ruit - FV Neuhausen 2
+SUMMARY:Herren TB Ruit - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260503T153000
 DTEND;TZID=Europe/Berlin:20260503T173000
 UID:356082194@fv-neuhausen
@@ -29,7 +29,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen - TV Altenstadt 2
+SUMMARY:D-Junioren FV Neuhausen - TV Altenstadt 2
 DTSTART;TZID=Europe/Berlin:20260506T174500
 DTEND;TZID=Europe/Berlin:20260506T194500
 UID:356592015@fv-neuhausen
@@ -37,7 +37,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 4 (5) - TB Gingen 2 (5)
+SUMMARY:F-Junioren FV Neuhausen 4 (5) - TB Gingen 2 (5)
 DTSTART;TZID=Europe/Berlin:20260508T180000
 DTEND;TZID=Europe/Berlin:20260508T200000
 UID:352621019@fv-neuhausen
@@ -45,7 +45,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 1 - TSV Scharnhausen 1
+SUMMARY:E-Junioren FV Neuhausen 1 - TSV Scharnhausen 1
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:351619019@fv-neuhausen
@@ -53,7 +53,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSG Esslingen 2 - FV Neuhausen 2
+SUMMARY:E-Junioren TSG Esslingen 2 - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:356849021@fv-neuhausen
@@ -61,7 +61,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 2I - TB Ruit 2I
+SUMMARY:E-Junioren FV Neuhausen 3 - TB Ruit 3
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:356850019@fv-neuhausen
@@ -69,7 +69,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen - TSV Wolfschlugen 1
+SUMMARY:D-Junioren FV Neuhausen - TSV Wolfschlugen 1
 DTSTART;TZID=Europe/Berlin:20260509T133000
 DTEND;TZID=Europe/Berlin:20260509T153000
 UID:356592024@fv-neuhausen
@@ -85,7 +85,7 @@ DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
  fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren VfL Sindelfingen - FV Neuhausen
+SUMMARY:Herren VfL Sindelfingen - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260509T153000
 DTEND;TZID=Europe/Berlin:20260509T173000
 UID:355923208@fv-neuhausen
@@ -93,7 +93,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren SGM Neuhausen / Wolfschlugen - 1.FC Rechberghausen 06.0
+SUMMARY:A-Junioren SGM Neuhausen / Wolfschlugen - 1.FC Rechberghausen 06.0
  5.2026 19 00 Samstag 16.05.2026 - 16 30 Uhr Kreisstaffel Sa 16.05.26 16 30
   Kreisstaffel ME 352010025 SGM Albuch (Böhmenkirch/Steinheim/Gerstetten) 
  1.FC Rechberghausen
@@ -104,7 +104,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:C-Junioren TV Altenstadt 2I - SGM Neuhausen/Wolfschlugen 2
+SUMMARY:C-Junioren TV Altenstadt 3 - SGM Neuhausen/Wolfschlugen 2
 DTSTART;TZID=Europe/Berlin:20260509T163000
 DTEND;TZID=Europe/Berlin:20260509T183000
 UID:352406022@fv-neuhausen
@@ -112,7 +112,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 2 - ASV Aichwald
+SUMMARY:Herren FV Neuhausen 2 - ASV Aichwald
 DTSTART;TZID=Europe/Berlin:20260510T150000
 DTEND;TZID=Europe/Berlin:20260510T170000
 UID:356082203@fv-neuhausen
@@ -120,7 +120,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 1 - TSV Baltmannsweiler 1
+SUMMARY:E-Junioren FV Neuhausen 1 - TSV Baltmannsweiler 1
 DTSTART;TZID=Europe/Berlin:20260513T180000
 DTEND;TZID=Europe/Berlin:20260513T200000
 UID:351619015@fv-neuhausen
@@ -128,7 +128,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren ASV Aichwald 2I (5) - FV Neuhausen 4 (5)
+SUMMARY:F-Junioren ASV Aichwald 3 (5) - FV Neuhausen 4 (5)
 DTSTART;TZID=Europe/Berlin:20260515T180000
 DTEND;TZID=Europe/Berlin:20260515T200000
 UID:352621024@fv-neuhausen
@@ -136,7 +136,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSV Denkendorf 1 - FV Neuhausen 1
+SUMMARY:E-Junioren TSV Denkendorf 1 - FV Neuhausen 1
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:351619024@fv-neuhausen
@@ -144,7 +144,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 2 - SG Eintracht Sirnau 2
+SUMMARY:E-Junioren FV Neuhausen 2 - SG Eintracht Sirnau 2
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:356849024@fv-neuhausen
@@ -152,7 +152,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TV Nellingen 2I - FV Neuhausen 2I
+SUMMARY:E-Junioren TV Nellingen 3 - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:356850024@fv-neuhausen
@@ -160,7 +160,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen - Wernauer SF 1
+SUMMARY:D-Junioren FV Neuhausen - Wernauer SF 1
 DTSTART;TZID=Europe/Berlin:20260516T133000
 DTEND;TZID=Europe/Berlin:20260516T153000
 UID:356592026@fv-neuhausen
@@ -192,7 +192,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen - SC Geislingen
+SUMMARY:Herren FV Neuhausen - SC Geislingen
 DTSTART;TZID=Europe/Berlin:20260517T150000
 DTEND;TZID=Europe/Berlin:20260517T170000
 UID:355923211@fv-neuhausen
@@ -200,7 +200,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSV Wernau - FV Neuhausen 2
+SUMMARY:Herren TSV Wernau - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260517T150000
 DTEND;TZID=Europe/Berlin:20260517T170000
 UID:356082210@fv-neuhausen
@@ -208,7 +208,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren SV Waldhausen - FV Neuhausen
+SUMMARY:Herren SV Waldhausen - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260523T153000
 DTEND;TZID=Europe/Berlin:20260523T173000
 UID:355923224@fv-neuhausen
@@ -216,7 +216,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSV Deizisau - FV Neuhausen 2
+SUMMARY:Herren TSV Deizisau - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260523T160000
 DTEND;TZID=Europe/Berlin:20260523T180000
 UID:356082218@fv-neuhausen
@@ -224,7 +224,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen - TSV Bad Boll
+SUMMARY:Herren FV Neuhausen - TSV Bad Boll
 DTSTART;TZID=Europe/Berlin:20260530T153000
 DTEND;TZID=Europe/Berlin:20260530T173000
 UID:355923226@fv-neuhausen
@@ -232,7 +232,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 2 - FV Plochingen 2
+SUMMARY:Herren FV Neuhausen 2 - FV Plochingen 2
 DTSTART;TZID=Europe/Berlin:20260531T150000
 DTEND;TZID=Europe/Berlin:20260531T170000
 UID:356082232@fv-neuhausen
@@ -240,7 +240,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSV Wendlingen - FV Neuhausen 2
+SUMMARY:Herren TSV Wendlingen - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260606T150000
 DTEND;TZID=Europe/Berlin:20260606T170000
 UID:356082234@fv-neuhausen
@@ -248,7 +248,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSV Bernhausen - FV Neuhausen
+SUMMARY:Herren TSV Bernhausen - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260606T153000
 DTEND;TZID=Europe/Berlin:20260606T173000
 UID:355923240@fv-neuhausen
@@ -256,7 +256,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 1 - TSG Esslingen
+SUMMARY:E-Junioren FV Neuhausen 1 - TSG Esslingen
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:351619026@fv-neuhausen
@@ -264,7 +264,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TV Nellingen 2 - FV Neuhausen 2
+SUMMARY:E-Junioren TV Nellingen 2 - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:356849027@fv-neuhausen
@@ -272,7 +272,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 2I - TSV Denkendorf 2
+SUMMARY:E-Junioren FV Neuhausen 3 - TSV Denkendorf 2
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:356850026@fv-neuhausen
@@ -280,7 +280,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TV Altenstadt 2 - FV Neuhausen
+SUMMARY:D-Junioren TV Altenstadt 2 - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260613T133000
 DTEND;TZID=Europe/Berlin:20260613T153000
 UID:356592030@fv-neuhausen
@@ -296,7 +296,7 @@ DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
  fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSV Wäschenbeuren 2 (5) - FV Neuhausen 4 (5)
+SUMMARY:F-Junioren TSV Wäschenbeuren 2 (5) - FV Neuhausen 4 (5)
 DTSTART;TZID=Europe/Berlin:20260619T180000
 DTEND;TZID=Europe/Berlin:20260619T200000
 UID:352621030@fv-neuhausen
@@ -304,7 +304,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSV Köngen 2I - FV Neuhausen 2I
+SUMMARY:E-Junioren TSV Köngen 3 - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20260620T111500
 DTEND;TZID=Europe/Berlin:20260620T131500
 UID:356850030@fv-neuhausen
@@ -312,7 +312,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren TSV Baltmannsweiler 1 - FV Neuhausen 1
+SUMMARY:E-Junioren TSV Baltmannsweiler 1 - FV Neuhausen 1
 DTSTART;TZID=Europe/Berlin:20260620T121500
 DTEND;TZID=Europe/Berlin:20260620T141500
 UID:351619030@fv-neuhausen
@@ -320,7 +320,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:B-Junioren FV Neuhausen 2 - ASV Aichwald 2
+SUMMARY:E-Junioren FV Neuhausen 2 - ASV Aichwald 2
 DTSTART;TZID=Europe/Berlin:20260620T121500
 DTEND;TZID=Europe/Berlin:20260620T141500
 UID:356849028@fv-neuhausen
