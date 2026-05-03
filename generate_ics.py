@@ -46,66 +46,52 @@ def clean_team(text):
 
 def normalize_team_name(name):
     name = clean_team(name)
+
     name = name.replace("FV Spfr Neuhausen", "FV Neuhausen")
-    name = name.replace(" II", " 2")
-    name = name.replace(" III", " 3")
-    name = name.replace(" IV", " 4")
-    name = name.replace(" I", " 1")
-    return name
+
+    name = re.sub(r"\bIV\b", "4", name)
+    name = re.sub(r"\bIII\b", "3", name)
+    name = re.sub(r"\bII\b", "2", name)
+    name = re.sub(r"\bI\b", "1", name)
+
+    return clean(name)
 
 
-def get_youth_from_text(text):
-    text = clean(text)
+def get_youth_from_match_id(match_id, league):
+    prefix_map = {
+        "351619": "E-Junioren",
+        "356849": "E-Junioren",
+        "356850": "E-Junioren",
 
-    patterns = [
-        r"(A|B|C|D|E|F|G)-Junioren",
-        r"(A|B|C|D|E|F|G)-Juniorinnen",
-        r"Herren",
-        r"Frauen",
-        r"Bambini",
-    ]
+        "356592": "D-Junioren",
 
-    for pattern in patterns:
-        m = re.search(pattern, text, re.IGNORECASE)
-        if m:
-            value = m.group(0)
-            value = value[0].upper() + value[1:]
-            return value
+        "352265": "C-Junioren",
+        "352406": "C-Junioren",
+
+        "352386": "B-Junioren",
+        "352010": "A-Junioren",
+
+        "352621": "F-Junioren",
+
+        "355923": "Herren",
+        "356082": "Herren",
+    }
+
+    for prefix, youth in prefix_map.items():
+        if str(match_id).startswith(prefix):
+            return youth
+
+    if "Landesliga" in league or "Kreisliga" in league:
+        return "Herren"
 
     return ""
 
 
-def get_team_infos():
+def get_team_ids():
     html = requests.get(CLUB_URL, headers=HEADERS, timeout=30).text
-    soup = BeautifulSoup(html, "html.parser")
-
-    team_infos = {}
-
-    for link in soup.find_all("a", href=True):
-        href = link.get("href", "")
-        match = re.search(r"team-id/([A-Z0-9]+)", href)
-        if not match:
-            continue
-
-        team_id = match.group(1)
-
-        context = clean(link.get_text(" "))
-
-        parent = link.find_parent()
-        for _ in range(4):
-            if parent:
-                context += " " + clean(parent.get_text(" "))
-                parent = parent.find_parent()
-
-        youth = get_youth_from_text(context)
-
-        team_infos[team_id] = {
-            "youth": youth,
-            "context": context,
-        }
-
-    print(f"{len(team_infos)} Team-IDs gefunden")
-    return team_infos
+    ids = sorted(set(re.findall(r"team-id/([A-Z0-9]+)", html)))
+    print(f"{len(ids)} Team-IDs gefunden")
+    return ids
 
 
 def fetch_matchplan(team_id):
@@ -131,7 +117,7 @@ def parse_start(date_text, time_text):
     return datetime.strptime(f"{date_text} {time_text}", fmt).replace(tzinfo=LOCAL_TZ)
 
 
-def parse_matchplan(html, team_id, team_youth):
+def parse_matchplan(html):
     soup = BeautifulSoup(html, "html.parser")
     text = clean(soup.get_text(" ", strip=True))
 
@@ -172,7 +158,7 @@ def parse_matchplan(html, team_id, team_youth):
         home_team_short = normalize_team_name(home_team)
         away_team_short = normalize_team_name(away_team)
 
-        youth = team_youth or get_youth_from_text(text)
+        youth = get_youth_from_match_id(match_id, league)
 
         if youth:
             title = f"{youth} {home_team_short} - {away_team_short}"
@@ -194,16 +180,14 @@ def parse_matchplan(html, team_id, team_youth):
 
 all_matches = {}
 
-team_infos = get_team_infos()
+team_ids = get_team_ids()
 
-for team_id, info in team_infos.items():
+for team_id in team_ids:
     try:
         html = fetch_matchplan(team_id)
-        matches = parse_matchplan(html, team_id, info["youth"])
-
+        matches = parse_matchplan(html)
         all_matches.update(matches)
-
-        print(f"{team_id} ({info['youth'] or 'ohne Jugend'}): {len(matches)} Spiele")
+        print(f"{team_id}: {len(matches)} Spiele")
     except Exception as e:
         print(f"{team_id}: Fehler: {e}")
 
