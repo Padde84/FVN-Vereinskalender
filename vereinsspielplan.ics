@@ -17,80 +17,141 @@ SUMMARY:Herren FV Neuhausen - GSV Maichingen
 DTSTART;TZID=Europe/Berlin:20260503T150000
 DTEND;TZID=Europe/Berlin:20260503T170000
 UID:355923197@fv-neuhausen
-DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
- hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
+ 65 Neuhausen auf den Fildern Samstag\, 09.05.2026 - 15:30 Uhr\nGoogle Maps
+ : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
+ lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+09.05.2026+-
+ +15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 09.05.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TB Ruit - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260503T153000
 DTEND;TZID=Europe/Berlin:20260503T173000
 UID:356082194@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
- n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Kunstrasenplatz\, Kunstrase
+ n Ruit\, Talwiesen 1\, 73760 Ostfildern Sonntag\, 10.05.2026 - 15:30 Uhr\n
+ Google Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenpla
+ tz%2C+Kunstrasen+Ruit%2C+Talwiesen+1%2C+73760+Ostfildern+Sonntag%2C+10.05.
+ 2026+-+15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhaus
+ en-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Ruit\, Talwiesen 1\, 73760 Ostfilder
+ n Sonntag\, 10.05.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D-Junioren FV Neuhausen - TV Altenstadt 2
 DTSTART;TZID=Europe/Berlin:20260506T174500
 DTEND;TZID=Europe/Berlin:20260506T194500
 UID:356592015@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 09.05.2026 - 13:3
+ 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
+ latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
+ den+Fildern+Samstag%2C+09.05.2026+-+13%3A30+Uhr\nQuelle: https://www.fussb
+ all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
+ VUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 09.05.2026 - 13:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 4 (5) - TB Gingen 2 (5)
 DTSTART;TZID=Europe/Berlin:20260508T180000
 DTEND;TZID=Europe/Berlin:20260508T200000
 UID:352621019@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Freitag\, 15.05.2026 - 18:00 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Freitag%2C+15.05.2026
+ +-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Freitag\, 15.05.2026 - 18:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 1 - TSV Scharnhausen 1
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:351619019@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Mittwoch\, 13.05.2026 - 18:
+ 00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasen
+ platz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf
+ +den+Fildern+Mittwoch%2C+13.05.2026+-+18%3A00+Uhr\nQuelle: https://www.fus
+ sball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG0
+ 8LVUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Mittwoch\, 13.05.2026 - 18:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren TSG Esslingen 2 - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:356849021@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Waldheim\, Neuffenstr. 87\, 73
+ 734 Esslingen am Neckar Samstag\, 16.05.2026 - 12:15 Uhr\nGoogle Maps: htt
+ ps://www.google.com/maps/search/?api=1&query=Stadion+Waldheim%2C+Neuffenst
+ r.+87%2C+73734+Esslingen+am+Neckar+Samstag%2C+16.05.2026+-+12%3A15+Uhr\nQu
+ elle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/0
+ 0ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Waldheim\, Neuffenstr. 87\, 73734 Esslingen am Neckar Sam
+ stag\, 16.05.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 3 - TB Ruit 3
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:356850019@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Samstag\, 16.05.2026 - 12:15 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+16.05.2026
+ +-+12%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 16.05.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D-Junioren FV Neuhausen - TSV Wolfschlugen 1
 DTSTART;TZID=Europe/Berlin:20260509T133000
 DTEND;TZID=Europe/Berlin:20260509T153000
 UID:356592024@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 16.05.2026 - Uhr\
+ nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2
+ C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fi
+ ldern+Samstag%2C+16.05.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/
+ fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 16.05.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C-Junioren SGM Neuhausen/Wolfschlugen 1 - TSV Ötlingen 1
 DTSTART;TZID=Europe/Berlin:20260509T144500
 DTEND;TZID=Europe/Berlin:20260509T164500
 UID:352265022@fv-neuhausen
-DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
- fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisleistungsstaffel\nSpielort: Rasenplatz\, Hauptplatz Wolfs
+ chlugen\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 16.05.2026 - 14:4
+ 5 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
+ latz%2C+Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlug
+ en+Samstag%2C+16.05.2026+-+14%3A45+Uhr\nQuelle: https://www.fussball.de/ve
+ rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
+ lfschlugen Samstag\, 16.05.2026 - 14:45 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren VfL Sindelfingen - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260509T153000
 DTEND;TZID=Europe/Berlin:20260509T173000
 UID:355923208@fv-neuhausen
-DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
- hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesliga\nSpielort: stadion\, Rosenstr.\, 71063 Sindelfingen
+  Sonntag\, 17.05.2026 - 15:00 Uhr\nGoogle Maps: https://www.google.com/map
+ s/search/?api=1&query=stadion%2C+Rosenstr.%2C+71063+Sindelfingen+Sonntag%2
+ C+17.05.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr
+ -neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:stadion\, Rosenstr.\, 71063 Sindelfingen Sonntag\, 17.05.2026 - 1
+ 5:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A-Junioren SGM Neuhausen / Wolfschlugen - 1.FC Rechberghausen 06.0
@@ -100,231 +161,727 @@ SUMMARY:A-Junioren SGM Neuhausen / Wolfschlugen - 1.FC Rechberghausen 06.0
 DTSTART;TZID=Europe/Berlin:20260509T163000
 DTEND;TZID=Europe/Berlin:20260509T183000
 UID:352010022@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Böhmenkirch\,
+  Jahnstr. 8\, 89558 Böhmenkirch Samstag\, 13.06.2026 - Uhr\nGoogle Maps: 
+ https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Rasenplatz+B
+ %C3%B6hmenkirch%2C+Jahnstr.+8%2C+89558+B%C3%B6hmenkirch+Samstag%2C+13.06.2
+ 026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertt
+ emberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Rasenplatz Böhmenkirch\, Jahnstr. 8\, 89558 Böhmen
+ kirch Samstag\, 13.06.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C-Junioren TV Altenstadt 3 - SGM Neuhausen/Wolfschlugen 2
 DTSTART;TZID=Europe/Berlin:20260509T163000
 DTEND;TZID=Europe/Berlin:20260509T183000
 UID:352406022@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Michelberghall
+ e\, Auchtweide 5\, 73312 Geislingen an der Steige Samstag\, 16.05.2026 - 1
+ 5:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Ras
+ enplatz%2C+Rasenplatz+Michelberghalle%2C+Auchtweide+5%2C+73312+Geislingen+
+ an+der+Steige+Samstag%2C+16.05.2026+-+15%3A00+Uhr\nQuelle: https://www.fus
+ sball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG0
+ 8LVUPGND5I
+LOCATION:Rasenplatz\, Rasenplatz Michelberghalle\, Auchtweide 5\, 73312 Ge
+ islingen an der Steige Samstag\, 16.05.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - ASV Aichwald
 DTSTART;TZID=Europe/Berlin:20260510T150000
 DTEND;TZID=Europe/Berlin:20260510T170000
 UID:356082203@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
- n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Neuhausen\, Schloß
+ str. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 17.05.2026 - 15:00 Uhr
+ \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+Neu
+ hausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%2C
+ +17.05.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
+ neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Sonntag\, 17.05.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 1 - TSV Baltmannsweiler 1
 DTSTART;TZID=Europe/Berlin:20260513T180000
 DTEND;TZID=Europe/Berlin:20260513T200000
 UID:351619015@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 16.05.2026 - 12:1
+ 5 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
+ latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
+ den+Fildern+Samstag%2C+16.05.2026+-+12%3A15+Uhr\nQuelle: https://www.fussb
+ all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
+ VUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 16.05.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren ASV Aichwald 3 (5) - FV Neuhausen 4 (5)
 DTSTART;TZID=Europe/Berlin:20260515T180000
 DTEND;TZID=Europe/Berlin:20260515T200000
 UID:352621024@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Aichwald\
+ , Krummhardter Str. 52\, 73773 Aichwald Freitag\, 12.06.2026 - Uhr\nGoogle
+  Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+
+ Kunstrasen+Aichwald%2C+Krummhardter+Str.+52%2C+73773+Aichwald+Freitag%2C+1
+ 2.06.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
+ wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Aichwald\, Krummhardter Str. 52\, 73
+ 773 Aichwald Freitag\, 12.06.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren TSV Denkendorf 1 - FV Neuhausen 1
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:351619024@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion\, Mühlhaldenstr. 111\, 73770 
+ Denkendorf Samstag\, 13.06.2026 - 12:15 Uhr\nGoogle Maps: https://www.goog
+ le.com/maps/search/?api=1&query=Stadion%2C+M%C3%BChlhaldenstr.+111%2C+7377
+ 0+Denkendorf+Samstag%2C+13.06.2026+-+12%3A15+Uhr\nQuelle: https://www.fuss
+ ball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08
+ LVUPGND5I
+LOCATION:Stadion\, Mühlhaldenstr. 111\, 73770 Denkendorf Samstag\, 13.06.
+ 2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 2 - SG Eintracht Sirnau 2
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:356849024@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Samstag\, 13.06.2026 - 12:15 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+13.06.2026
+ +-+12%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 13.06.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren TV Nellingen 3 - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:356850024@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Nellingen
+ \, In den Anlagen 6\, 73760 Ostfildern Samstag\, 13.06.2026 - 12:15 Uhr\nG
+ oogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplat
+ z%2C+Kunstrasen+Nellingen%2C+In+den+Anlagen+6%2C+73760+Ostfildern+Samstag%
+ 2C+13.06.2026+-+12%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
+ r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Nellingen\, In den Anlagen 6\, 73760
+  Ostfildern Samstag\, 13.06.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D-Junioren FV Neuhausen - Wernauer SF 1
 DTSTART;TZID=Europe/Berlin:20260516T133000
 DTEND;TZID=Europe/Berlin:20260516T153000
 UID:356592026@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 13.06.2026 - 13:3
+ 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
+ latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
+ den+Fildern+Samstag%2C+13.06.2026+-+13%3A30+Uhr\nQuelle: https://www.fussb
+ all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
+ VUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 13.06.2026 - 13:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C-Junioren SC Altbach 1 - SGM Neuhausen/Wolfschlugen 1
 DTSTART;TZID=Europe/Berlin:20260516T144500
 DTEND;TZID=Europe/Berlin:20260516T164500
 UID:352265026@fv-neuhausen
-DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
- fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisleistungsstaffel\nSpielort: Stadion Altbach\, Esslinger S
+ tr. 106\, 73776 Altbach Samstag\, 13.06.2026 - 14:45 Uhr\nGoogle Maps: htt
+ ps://www.google.com/maps/search/?api=1&query=Stadion+Altbach%2C+Esslinger+
+ Str.+106%2C+73776+Altbach+Samstag%2C+13.06.2026+-+14%3A45+Uhr\nQuelle: htt
+ ps://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO
+ 0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Altbach\, Esslinger Str. 106\, 73776 Altbach Samstag\, 13
+ .06.2026 - 14:45 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C-Junioren TSV Wernau - SGM Neuhausen/Wolfschlugen 2
 DTSTART;TZID=Europe/Berlin:20260516T150000
 DTEND;TZID=Europe/Berlin:20260516T170000
 UID:352406025@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Kehlenberg\, H
+ erdweg 25\, 73249 Wernau (Neckar) Samstag\, 13.06.2026 - Uhr\nGoogle Maps:
+  https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Nebenplatz+
+ Kehlenberg%2C+Herdweg+25%2C+73249+Wernau+%28Neckar%29+Samstag%2C+13.06.202
+ 6+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttem
+ berg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (N
+ eckar) Samstag\, 13.06.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:B-Junioren SV Ebersbach/Fils - SGM Neuhausen / Wolfschlugen
 DTSTART;TZID=Europe/Berlin:20260517T103000
 DTEND;TZID=Europe/Berlin:20260517T123000
 UID:352386027@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Nebenplatz Strut Ebe
+ rsbach\, Strutstr. 15\, 73061 Ebersbach an der Fils Sonntag\, 14.06.2026 -
+  Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstra
+ senplatz%2C+Nebenplatz+Strut+Ebersbach%2C+Strutstr.+15%2C+73061+Ebersbach+
+ an+der+Fils+Sonntag%2C+14.06.2026+-+Uhr\nQuelle: https://www.fussball.de/v
+ erein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Nebenplatz Strut Ebersbach\, Strutstr. 15\, 730
+ 61 Ebersbach an der Fils Sonntag\, 14.06.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - SC Geislingen
 DTSTART;TZID=Europe/Berlin:20260517T150000
 DTEND;TZID=Europe/Berlin:20260517T170000
 UID:355923211@fv-neuhausen
-DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
- hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
+ 65 Neuhausen auf den Fildern Samstag\, 23.05.2026 - 15:30 Uhr\nGoogle Maps
+ : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
+ lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+23.05.2026+-
+ +15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 23.05.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TSV Wernau - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260517T150000
 DTEND;TZID=Europe/Berlin:20260517T170000
 UID:356082210@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
- n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Hauptplatz Keh
+ lenberg\, Herdweg 25\, 73249 Wernau (Neckar) Samstag\, 23.05.2026 - 16:00 
+ Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenpla
+ tz%2C+Hauptplatz+Kehlenberg%2C+Herdweg+25%2C+73249+Wernau+%28Neckar%29+Sam
+ stag%2C+23.05.2026+-+16%3A00+Uhr\nQuelle: https://www.fussball.de/verein/f
+ v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (N
+ eckar) Samstag\, 23.05.2026 - 16:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren SV Waldhausen - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260523T153000
 DTEND;TZID=Europe/Berlin:20260523T173000
 UID:355923224@fv-neuhausen
-DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
- hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesliga\nSpielort: Sportplatz 1 Aalen-Waldhausen\, Kapfenbu
+ rgstr. 46\, 73432 Aalen Samstag\, 30.05.2026 - 15:30 Uhr\nGoogle Maps: htt
+ ps://www.google.com/maps/search/?api=1&query=Sportplatz+1+Aalen-Waldhausen
+ %2C+Kapfenburgstr.+46%2C+73432+Aalen+Samstag%2C+30.05.2026+-+15%3A30+Uhr\n
+ Quelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id
+ /00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Sportplatz 1 Aalen-Waldhausen\, Kapfenburgstr. 46\, 73432 Aalen S
+ amstag\, 30.05.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TSV Deizisau - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260523T160000
 DTEND;TZID=Europe/Berlin:20260523T180000
 UID:356082218@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
- n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Rasenplatz Hin
+ tere Halde\, Hintere Halde\, 73779 Deizisau Sonntag\, 31.05.2026 - 15:00 U
+ hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplat
+ z%2C+Rasenplatz+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Sonntag%2
+ C+31.05.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr
+ -neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Rasenplatz Hintere Halde\, Hintere Halde\, 73779 Dei
+ zisau Sonntag\, 31.05.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - TSV Bad Boll
 DTSTART;TZID=Europe/Berlin:20260530T153000
 DTEND;TZID=Europe/Berlin:20260530T173000
 UID:355923226@fv-neuhausen
-DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
- hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
+ 65 Neuhausen auf den Fildern Samstag\, 06.06.2026 - 15:30 Uhr\nGoogle Maps
+ : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
+ lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+06.06.2026+-
+ +15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 06.06.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - FV Plochingen 2
 DTSTART;TZID=Europe/Berlin:20260531T150000
 DTEND;TZID=Europe/Berlin:20260531T170000
 UID:356082232@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
- n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Neuhausen\, Schloß
+ str. 80\, 73765 Neuhausen auf den Fildern Samstag\, 06.06.2026 - 15:00 Uhr
+ \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+Neu
+ hausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C
+ +06.06.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
+ neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 06.06.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TSV Wendlingen - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260606T150000
 DTEND;TZID=Europe/Berlin:20260606T170000
 UID:356082234@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
- n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Rasenplatz am 
+ Speck\, Speckweg 21\, 73240 Wendlingen am Neckar Legende Drucken Kürzel b
+ ei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullieru
+ ng v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) 
+ Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (be
+ stätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\,
+  die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetre
+ tene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nicht
+ antritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nac
+ h Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest ode
+ r ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im 
+ Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen au
+ ßer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem D
+ atum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video 
+ vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle 
+ Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Rasenp
+ latz+am+Speck%2C+Speckweg+21%2C+73240+Wendlingen+am+Neckar+Legende+Drucken
+ +K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4ti
+ gt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4t
+ igt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%
+ A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Ab
+ bruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Er
+ gebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Ma
+ nnschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt
+ +GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+E
+ lfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht
+ +fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel
+ +nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+
+ spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPI
+ ELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhande
+ n+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A
+ 4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wu
+ erttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Rasenplatz am Speck\, Speckweg 21\, 73240 Wendlingen
+  am Neckar Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurte
+ il (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestät
+ igt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausf
+ all Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Die
+ se Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechn
+ et. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM ni
+ cht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Man
+ nschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die A
+ nstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebn
+ isanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaft
+ en mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt L
+ ive Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spi
+ elbericht vorhanden Foto oder Video vorhanden Livestream oder Highlights v
+ orhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TSV Bernhausen - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260606T153000
 DTEND;TZID=Europe/Berlin:20260606T173000
 UID:355923240@fv-neuhausen
-DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
- hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesliga\nSpielort: stadion\, Dombasler Str. 8\, 70794 Filde
+ rstadt Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (
+ bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestätigt)
+  Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall 
+ Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese M
+ annschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechnet. 
+ Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht 
+ angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannsch
+ aft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Ansto
+ ßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisan
+ zeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften m
+ it diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live 
+ Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielbe
+ richt vorhanden Foto oder Video vorhanden Livestream oder Highlights vorha
+ nden vorläufiges Spiel\nGoogle Maps: https://www.google.com/maps/search/?
+ api=1&query=stadion%2C+Dombasler+Str.+8%2C+70794+Filderstadt+Legende+Druck
+ en+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4
+ tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A
+ 4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C
+ 3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+
+ Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+
+ Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+
+ Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantri
+ tt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach
+ +Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nic
+ ht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staff
+ el+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeiche
+ n+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+S
+ PIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhan
+ den+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3
+ %A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
+ wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:stadion\, Dombasler Str. 8\, 70794 Filderstadt Legende Drucken K
+ ürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert An
+ nullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzun
+ g w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Tests
+ piel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückg
+ ezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht
+  angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannscha
+ ft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerun
+ g nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht 
+ fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel n
+ icht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen sp
+ ielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An 
+ diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto ode
+ r Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 1 - TSG Esslingen
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:351619026@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 20.06.2026 - 12:1
+ 5 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
+ latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
+ den+Fildern+Samstag%2C+20.06.2026+-+12%3A15+Uhr\nQuelle: https://www.fussb
+ all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
+ VUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 20.06.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren TV Nellingen 2 - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:356849027@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Nellingen
+ \, In den Anlagen 6\, 73760 Ostfildern Samstag\, 20.06.2026 - 12:15 Uhr\nG
+ oogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplat
+ z%2C+Kunstrasen+Nellingen%2C+In+den+Anlagen+6%2C+73760+Ostfildern+Samstag%
+ 2C+20.06.2026+-+12%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
+ r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Nellingen\, In den Anlagen 6\, 73760
+  Ostfildern Samstag\, 20.06.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 3 - TSV Denkendorf 2
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:356850026@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Samstag\, 20.06.2026 - 11:15 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+20.06.2026
+ +-+11%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 20.06.2026 - 11:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D-Junioren TV Altenstadt 2 - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260613T133000
 DTEND;TZID=Europe/Berlin:20260613T153000
 UID:356592030@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Michelber
+ ghalle\, Michelberghalle\, 73312 Geislingen-Altenstadt Legende Drucken Kü
+ rzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annu
+ llierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung 
+ w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspi
+ el (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgez
+ ogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht a
+ ngetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft
+  Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung 
+ nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fe
+ st oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nic
+ ht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spie
+ len außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An di
+ esem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder 
+ Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nG
+ oogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplat
+ z%2C+Kunstrasen+Michelberghalle%2C+Michelberghalle%2C+73312+Geislingen-Alt
+ enstadt+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgericht
+ surteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungse
+ ntscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+S
+ pielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+
+ %28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C
+ 3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEI
+ DE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-
+ Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl
+ %C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%
+ 9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisan
+ zeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+
+ mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4t
+ igt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei
+ .+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlig
+ hts+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/vere
+ in/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Michelberghalle\, Michelberghalle\, 
+ 73312 Geislingen-Altenstadt Legende Drucken Kürzel bei einem Spiel u (U) 
+ Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungse
+ ntscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz 
+ (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spi
+ elabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werde
+ n aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nic
+ htantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht an
+ getreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen S
+ onstiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. 
+ o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spie
+ lt. oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Erge
+ bnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannscha
+ ft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream 
+ oder Highlights vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C-Junioren SGM Neuhausen/Wolfschlugen 1 - TSV RSK Esslingen 1
 DTSTART;TZID=Europe/Berlin:20260613T144500
 DTEND;TZID=Europe/Berlin:20260613T164500
 UID:352265029@fv-neuhausen
-DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
- fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisleistungsstaffel\nSpielort: Rasenplatz\, Hauptplatz Wolfs
+ chlugen\, Nürtinger Str.\, 72649 Wolfschlugen Legende Drucken Kürzel bei
+  einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung
+  v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) We
+ rtung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (best
+ ätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, d
+ ie Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetrete
+ ne Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtan
+ tritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach 
+ Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder 
+ ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Le
+ istungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen auß
+ er Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Dat
+ um hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vo
+ rhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Hauptpla
+ tz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlugen+Legende+Druck
+ en+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4
+ tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A
+ 4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C
+ 3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+
+ Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+
+ Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+
+ Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantri
+ tt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach
+ +Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nic
+ ht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staff
+ el+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeiche
+ n+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+S
+ PIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhan
+ den+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3
+ %A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
+ wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
+ lfschlugen Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurte
+ il (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestät
+ igt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausf
+ all Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Die
+ se Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechn
+ et. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM ni
+ cht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Man
+ nschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die A
+ nstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebn
+ isanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaft
+ en mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt L
+ ive Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spi
+ elbericht vorhanden Foto oder Video vorhanden Livestream oder Highlights v
+ orhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren TSV Wäschenbeuren 2 (5) - FV Neuhausen 4 (5)
 DTSTART;TZID=Europe/Berlin:20260619T180000
 DTEND;TZID=Europe/Berlin:20260619T200000
 UID:352621030@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Wäschenbeuren
+ \, Maitiser Str.\, 73116 Wäschenbeuren Legende Drucken Kürzel bei einem 
+ Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V) 
+ Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung S
+ pielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt)
+  Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Erge
+ bnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mann
+ schaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt G
+ AST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmete
+ rschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist nic
+ ht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungs
+ betrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer Konk
+ urrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat 
+ die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden
+  Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: htt
+ ps://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Rasenplatz+W%C3
+ %A4schenbeuren%2C+Maitiser+Str.%2C+73116+W%C3%A4schenbeuren+Legende+Drucke
+ n+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4t
+ igt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4
+ tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3
+ %A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+A
+ bbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+E
+ rgebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+M
+ annschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantrit
+ t+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+
+ Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nich
+ t+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffe
+ l+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen
+ +spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SP
+ IELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhand
+ en+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%
+ A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Rasenplatz Wäschenbeuren\, Maitiser Str.\, 73116 W
+ äschenbeuren Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsu
+ rteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (best
+ ätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) A
+ usfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. 
+ Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eingere
+ chnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM
+  nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-
+ Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Di
+ e Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Erg
+ ebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannsch
+ aften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätig
+ t Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. 
+ Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highlight
+ s vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren TSV Köngen 3 - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20260620T111500
 DTEND;TZID=Europe/Berlin:20260620T131500
 UID:356850030@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Köngen\,
+  Steinackerstr.\, 73257 Köngen Legende Drucken Kürzel bei einem Spiel u 
+ (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltu
+ ngsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinst
+ anz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch
+  Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse w
+ erden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften
+  Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nich
+ t angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschieß
+ en Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekan
+ nt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb 
+ spielt. oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. 
+ Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mann
+ schaft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestr
+ eam oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: https://www
+ .google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+Kunstrasen+K%C3%B6
+ ngen%2C+Steinackerstr.%2C+73257+K%C3%B6ngen+Legende+Drucken+K%C3%BCrzel+be
+ i+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4tigt%29+Annuliert
+ +Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4tigt%29+Absetzun
+ g+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfa
+ ll+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbr
+ uch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden
+ +aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Mannschaften+Nich
+ tantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+ang
+ etreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3
+ %9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+
+ nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leist
+ ungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+spielen+au%C3%9
+ Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diese
+ m+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhanden+Foto+oder+Vid
+ eo+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\n
+ Quelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id
+ /00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Köngen\, Steinackerstr.\, 73257 Kö
+ ngen Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (be
+ stätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) A
+ bsetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Sp
+ ielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Man
+ nschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechnet. Ni
+ chtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht an
+ getreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaf
+ t nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoß
+ zeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanze
+ ige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit
+  diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Li
+ veticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielberi
+ cht vorhanden Foto oder Video vorhanden Livestream oder Highlights vorhand
+ en vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren TSV Baltmannsweiler 1 - FV Neuhausen 1
 DTSTART;TZID=Europe/Berlin:20260620T121500
 DTEND;TZID=Europe/Berlin:20260620T141500
 UID:351619030@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasenplatz Balt
+ mannsweiler\, Baacher Str. 4\, 73666 Baltmannsweiler Legende Drucken Kürz
+ el bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annull
+ ierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w 
+ (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel
+  (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezog
+ en\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht ang
+ etretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft N
+ ichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE
+  nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest
+  oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht
+  im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spiele
+ n außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An dies
+ em Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Vi
+ deo vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoo
+ gle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%
+ 2C+Kunstrasenplatz+Baltmannsweiler%2C+Baacher+Str.+4%2C+73666+Baltmannswei
+ ler+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurt
+ eil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentsc
+ heid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spiel
+ instanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28b
+ est%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BC
+ ckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+n
+ icht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mann
+ schaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%
+ A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fze
+ it+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeig
+ e%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+
+ diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+
+ Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Sp
+ ielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+
+ vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/f
+ v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz Baltmannsweiler\, Baacher Str. 
+ 4\, 73666 Baltmannsweiler Legende Drucken Kürzel bei einem Spiel u (U) Sp
+ ortgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsent
+ scheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (b
+ estätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spiel
+ abbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden 
+ aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nicht
+ antritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht ange
+ treten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Son
+ stiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.
+ E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt
+ . oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebn
+ is bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft
+  spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream od
+ er Highlights vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 2 - ASV Aichwald 2
 DTSTART;TZID=Europe/Berlin:20260620T121500
 DTEND;TZID=Europe/Berlin:20260620T141500
 UID:356849028@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Legende Drucken Kürzel bei einem Spiel u (
+ U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltun
+ gsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinsta
+ nz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch 
+ Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse we
+ rden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften 
+ Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht
+  angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschieße
+ n Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekann
+ t. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb s
+ pielt. oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. E
+ rgebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Manns
+ chaft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestre
+ am oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: https://www.
+ google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Schlo%C3%9Fstr.+8
+ 0%2C+73765+Neuhausen+auf+den+Fildern+Legende+Drucken+K%C3%BCrzel+bei+einem
+ +Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+Annull
+ ierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4tigt%29+Absetzung+Spiel
+ absetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spie
+ lausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.
+ +Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+e
+ ingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Mannschaften+Nichtantrit
+ t+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+angetreten
+ +GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+S
+ onstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+b
+ ekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leistungsbet
+ rieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Kon
+ kurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum
+ +hat+die+Mannschaft+spielfrei.+Spielbericht+vorhanden+Foto+oder+Video+vorh
+ anden+Livestream+oder+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle:
+  https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8G
+ NAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bes
+ tätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Ab
+ setzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spi
+ elausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mann
+ schaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nic
+ htantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht ang
+ etreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft
+  nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßz
+ eit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzei
+ ge\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit 
+ diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liv
+ eticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielberic
+ ht vorhanden Foto oder Video vorhanden Livestream oder Highlights vorhande
+ n vorläufiges Spiel
 END:VEVENT
 END:VCALENDAR
