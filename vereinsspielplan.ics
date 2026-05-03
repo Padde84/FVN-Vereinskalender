@@ -4,65 +4,8 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen II vs. TSV Köngen II
-DTSTART;TZID=Europe/Berlin:20260502T121500
-DTEND;TZID=Europe/Berlin:20260502T141500
-UID:356849016@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VfB Oberesslingen/Zell III vs. FV Spfr Neuhausen III
-DTSTART;TZID=Europe/Berlin:20260502T121500
-DTEND;TZID=Europe/Berlin:20260502T141500
-UID:356850018@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wernauer SF vs. FV Spfr Neuhausen I
-DTSTART;TZID=Europe/Berlin:20260502T121500
-DTEND;TZID=Europe/Berlin:20260502T141500
-UID:351619018@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen vs. SGM 1. FC Heiningen Voralb
-DTSTART;TZID=Europe/Berlin:20260502T133000
-DTEND;TZID=Europe/Berlin:20260502T153000
-UID:356592019@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen I vs. SGM TSV Neckartenzlingen/Grafenbe
- rg/Riederich I
-DTSTART;TZID=Europe/Berlin:20260502T144500
-DTEND;TZID=Europe/Berlin:20260502T164500
-UID:352265021@fv-neuhausen
-DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
- fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen II vs. SGM VfB Oberesslingen/Zell/1845 
- ES I
-DTSTART;TZID=Europe/Berlin:20260502T150000
-DTEND;TZID=Europe/Berlin:20260502T170000
-UID:352406020@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM Neuhausen / Wolfschlugen vs. TSV Oberboihingen
-DTSTART;TZID=Europe/Berlin:20260502T153000
-DTEND;TZID=Europe/Berlin:20260502T173000
-UID:352010021@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM TSG Salach-Ottenbach (flex) vs. SGM Neuhausen / Wolfschlugen
+SUMMARY:Kreisstaffel | SGM TSG Salach-Ottenbach (flex) vs. SGM Neuhausen /
+  Wolfschlugen Absetzung
 DTSTART;TZID=Europe/Berlin:20260503T103000
 DTEND;TZID=Europe/Berlin:20260503T123000
 UID:352386021@fv-neuhausen
@@ -70,7 +13,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen vs. GSV Maichingen
+SUMMARY:Landesliga | FV Neuhausen vs. GSV Maichingen
 DTSTART;TZID=Europe/Berlin:20260503T150000
 DTEND;TZID=Europe/Berlin:20260503T170000
 UID:355923197@fv-neuhausen
@@ -78,7 +21,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TB Ruit vs. FV Neuhausen II
+SUMMARY:Kreisliga A\; Kreisliga | TB Ruit vs. FV Neuhausen II
 DTSTART;TZID=Europe/Berlin:20260503T153000
 DTEND;TZID=Europe/Berlin:20260503T173000
 UID:356082194@fv-neuhausen
@@ -86,7 +29,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen vs. TV Altenstadt II
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen vs. TV Altenstadt II
 DTSTART;TZID=Europe/Berlin:20260506T174500
 DTEND;TZID=Europe/Berlin:20260506T194500
 UID:356592015@fv-neuhausen
@@ -94,15 +37,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen / Wolfschlugen vs. 1.FC Rechberghausen
-DTSTART;TZID=Europe/Berlin:20260506T190000
-DTEND;TZID=Europe/Berlin:20260506T210000
-UID:352010022@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen IV (5) vs. TB Gingen II (5)
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen IV (5) vs. TB Gingen II (5)
 DTSTART;TZID=Europe/Berlin:20260508T180000
 DTEND;TZID=Europe/Berlin:20260508T200000
 UID:352621019@fv-neuhausen
@@ -110,7 +45,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen I vs. TSV Scharnhausen I
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen I vs. TSV Scharnhausen I
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:351619019@fv-neuhausen
@@ -118,7 +53,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSG Esslingen II vs. FV Spfr Neuhausen II
+SUMMARY:Kreisstaffel | TSG Esslingen II vs. FV Spfr Neuhausen II
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:356849021@fv-neuhausen
@@ -126,7 +61,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen III vs. TB Ruit III
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen III vs. TB Ruit III
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
 UID:356850019@fv-neuhausen
@@ -134,7 +69,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen vs. TSV Wolfschlugen I
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen vs. TSV Wolfschlugen I
 DTSTART;TZID=Europe/Berlin:20260509T133000
 DTEND;TZID=Europe/Berlin:20260509T153000
 UID:356592024@fv-neuhausen
@@ -142,7 +77,8 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen I vs. TSV Ötlingen I
+SUMMARY:Kreisleistungsstaffel | SGM Neuhausen/Wolfschlugen I vs. TSV Ötli
+ ngen I
 DTSTART;TZID=Europe/Berlin:20260509T144500
 DTEND;TZID=Europe/Berlin:20260509T164500
 UID:352265022@fv-neuhausen
@@ -150,7 +86,7 @@ DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
  fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VfL Sindelfingen vs. FV Neuhausen
+SUMMARY:Landesliga | VfL Sindelfingen vs. FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260509T153000
 DTEND;TZID=Europe/Berlin:20260509T173000
 UID:355923208@fv-neuhausen
@@ -158,7 +94,18 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Altenstadt III vs. SGM Neuhausen/Wolfschlugen II
+SUMMARY:Kreisstaffel | SGM Neuhausen / Wolfschlugen vs. 1.FC Rechberghause
+ n 06.05.2026 19 00 Samstag 16.05.2026 - 16 30 Uhr Kreisstaffel Sa 16.05.26
+  16 30 Kreisstaffel ME 352010025 SGM Albuch (Böhmenkirch/Steinheim/Gerste
+ tten) 1.FC Rechberghausen
+DTSTART;TZID=Europe/Berlin:20260509T163000
+DTEND;TZID=Europe/Berlin:20260509T183000
+UID:352010022@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
+ euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kreisstaffel | TV Altenstadt III vs. SGM Neuhausen/Wolfschlugen II
 DTSTART;TZID=Europe/Berlin:20260509T163000
 DTEND;TZID=Europe/Berlin:20260509T183000
 UID:352406022@fv-neuhausen
@@ -166,7 +113,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen II vs. ASV Aichwald
+SUMMARY:Kreisliga A\; Kreisliga | FV Neuhausen II vs. ASV Aichwald
 DTSTART;TZID=Europe/Berlin:20260510T150000
 DTEND;TZID=Europe/Berlin:20260510T170000
 UID:356082203@fv-neuhausen
@@ -174,7 +121,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen I vs. TSV Baltmannsweiler I
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen I vs. TSV Baltmannsweiler I
 DTSTART;TZID=Europe/Berlin:20260513T180000
 DTEND;TZID=Europe/Berlin:20260513T200000
 UID:351619015@fv-neuhausen
@@ -182,7 +129,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ASV Aichwald III (5) vs. FV Spfr Neuhausen IV (5)
+SUMMARY:Kreisstaffel | ASV Aichwald III (5) vs. FV Spfr Neuhausen IV (5)
 DTSTART;TZID=Europe/Berlin:20260515T180000
 DTEND;TZID=Europe/Berlin:20260515T200000
 UID:352621024@fv-neuhausen
@@ -190,7 +137,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Denkendorf I vs. FV Spfr Neuhausen I
+SUMMARY:Kreisstaffel | TSV Denkendorf I vs. FV Spfr Neuhausen I
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:351619024@fv-neuhausen
@@ -198,7 +145,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen II vs. SG Eintracht Sirnau II
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen II vs. SG Eintracht Sirnau II
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:356849024@fv-neuhausen
@@ -206,7 +153,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Nellingen III vs. FV Spfr Neuhausen III
+SUMMARY:Kreisstaffel | TV Nellingen III vs. FV Spfr Neuhausen III
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:356850024@fv-neuhausen
@@ -214,7 +161,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen vs. Wernauer SF I
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen vs. Wernauer SF I
 DTSTART;TZID=Europe/Berlin:20260516T133000
 DTEND;TZID=Europe/Berlin:20260516T153000
 UID:356592026@fv-neuhausen
@@ -222,7 +169,8 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Altbach I vs. SGM Neuhausen/Wolfschlugen I
+SUMMARY:Kreisleistungsstaffel | SC Altbach I vs. SGM Neuhausen/Wolfschluge
+ n I
 DTSTART;TZID=Europe/Berlin:20260516T144500
 DTEND;TZID=Europe/Berlin:20260516T164500
 UID:352265026@fv-neuhausen
@@ -230,7 +178,7 @@ DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
  fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Wernau vs. SGM Neuhausen/Wolfschlugen II
+SUMMARY:Kreisstaffel | TSV Wernau vs. SGM Neuhausen/Wolfschlugen II
 DTSTART;TZID=Europe/Berlin:20260516T150000
 DTEND;TZID=Europe/Berlin:20260516T170000
 UID:352406025@fv-neuhausen
@@ -238,7 +186,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SV Ebersbach/Fils vs. SGM Neuhausen / Wolfschlugen
+SUMMARY:Kreisstaffel | SV Ebersbach/Fils vs. SGM Neuhausen / Wolfschlugen
 DTSTART;TZID=Europe/Berlin:20260517T103000
 DTEND;TZID=Europe/Berlin:20260517T123000
 UID:352386027@fv-neuhausen
@@ -246,7 +194,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen vs. SC Geislingen
+SUMMARY:Landesliga | FV Neuhausen vs. SC Geislingen
 DTSTART;TZID=Europe/Berlin:20260517T150000
 DTEND;TZID=Europe/Berlin:20260517T170000
 UID:355923211@fv-neuhausen
@@ -254,7 +202,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Wernau vs. FV Neuhausen II
+SUMMARY:Kreisliga A\; Kreisliga | TSV Wernau vs. FV Neuhausen II
 DTSTART;TZID=Europe/Berlin:20260517T150000
 DTEND;TZID=Europe/Berlin:20260517T170000
 UID:356082210@fv-neuhausen
@@ -262,7 +210,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SV Waldhausen vs. FV Neuhausen
+SUMMARY:Landesliga | SV Waldhausen vs. FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260523T153000
 DTEND;TZID=Europe/Berlin:20260523T173000
 UID:355923224@fv-neuhausen
@@ -270,7 +218,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Deizisau vs. FV Neuhausen II
+SUMMARY:Kreisliga A\; Kreisliga | TSV Deizisau vs. FV Neuhausen II
 DTSTART;TZID=Europe/Berlin:20260523T160000
 DTEND;TZID=Europe/Berlin:20260523T180000
 UID:356082218@fv-neuhausen
@@ -278,7 +226,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen vs. TSV Bad Boll
+SUMMARY:Landesliga | FV Neuhausen vs. TSV Bad Boll
 DTSTART;TZID=Europe/Berlin:20260530T153000
 DTEND;TZID=Europe/Berlin:20260530T173000
 UID:355923226@fv-neuhausen
@@ -286,7 +234,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen II vs. FV Plochingen II
+SUMMARY:Kreisliga A\; Kreisliga | FV Neuhausen II vs. FV Plochingen II
 DTSTART;TZID=Europe/Berlin:20260531T150000
 DTEND;TZID=Europe/Berlin:20260531T170000
 UID:356082232@fv-neuhausen
@@ -294,7 +242,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Wendlingen vs. FV Neuhausen II
+SUMMARY:Kreisliga A\; Kreisliga | TSV Wendlingen vs. FV Neuhausen II
 DTSTART;TZID=Europe/Berlin:20260606T150000
 DTEND;TZID=Europe/Berlin:20260606T170000
 UID:356082234@fv-neuhausen
@@ -302,7 +250,7 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nQuelle: https://www.fussball.de/verei
  n/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Bernhausen vs. FV Neuhausen
+SUMMARY:Landesliga | TSV Bernhausen vs. FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260606T153000
 DTEND;TZID=Europe/Berlin:20260606T173000
 UID:355923240@fv-neuhausen
@@ -310,7 +258,7 @@ DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Wolfschlugen I vs. SGM 1. FC Heiningen Voralb
+SUMMARY:Kreisstaffel | TSV Wolfschlugen I vs. SGM 1. FC Heiningen Voralb
 DTSTART;TZID=Europe/Berlin:20260613T120000
 DTEND;TZID=Europe/Berlin:20260613T140000
 UID:356592028@fv-neuhausen
@@ -318,7 +266,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen I vs. TSG Esslingen
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen I vs. TSG Esslingen
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:351619026@fv-neuhausen
@@ -326,7 +274,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Nellingen II vs. FV Spfr Neuhausen II
+SUMMARY:Kreisstaffel | TV Nellingen II vs. FV Spfr Neuhausen II
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:356849027@fv-neuhausen
@@ -334,7 +282,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen III vs. TSV Denkendorf II
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen III vs. TSV Denkendorf II
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
 UID:356850026@fv-neuhausen
@@ -342,7 +290,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Altenstadt II vs. FV Spfr Neuhausen
+SUMMARY:Kreisstaffel | TV Altenstadt II vs. FV Spfr Neuhausen
 DTSTART;TZID=Europe/Berlin:20260613T133000
 DTEND;TZID=Europe/Berlin:20260613T153000
 UID:356592030@fv-neuhausen
@@ -350,7 +298,8 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen I vs. TSV RSK Esslingen I
+SUMMARY:Kreisleistungsstaffel | SGM Neuhausen/Wolfschlugen I vs. TSV RSK E
+ sslingen I
 DTSTART;TZID=Europe/Berlin:20260613T144500
 DTEND;TZID=Europe/Berlin:20260613T164500
 UID:352265029@fv-neuhausen
@@ -358,7 +307,8 @@ DESCRIPTION:Kreisleistungsstaffel\nQuelle: https://www.fussball.de/verein/
  fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Wäschenbeuren II (5) vs. FV Spfr Neuhausen IV (5)
+SUMMARY:Kreisstaffel | TSV Wäschenbeuren II (5) vs. FV Spfr Neuhausen IV 
+ (5)
 DTSTART;TZID=Europe/Berlin:20260619T180000
 DTEND;TZID=Europe/Berlin:20260619T200000
 UID:352621030@fv-neuhausen
@@ -366,7 +316,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Köngen III vs. FV Spfr Neuhausen III
+SUMMARY:Kreisstaffel | TSV Köngen III vs. FV Spfr Neuhausen III
 DTSTART;TZID=Europe/Berlin:20260620T111500
 DTEND;TZID=Europe/Berlin:20260620T131500
 UID:356850030@fv-neuhausen
@@ -374,7 +324,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Baltmannsweiler I vs. FV Spfr Neuhausen I
+SUMMARY:Kreisstaffel | TSV Baltmannsweiler I vs. FV Spfr Neuhausen I
 DTSTART;TZID=Europe/Berlin:20260620T121500
 DTEND;TZID=Europe/Berlin:20260620T141500
 UID:351619030@fv-neuhausen
@@ -382,7 +332,7 @@ DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Spfr Neuhausen II vs. ASV Aichwald II
+SUMMARY:Kreisstaffel | FV Spfr Neuhausen II vs. ASV Aichwald II
 DTSTART;TZID=Europe/Berlin:20260620T121500
 DTEND;TZID=Europe/Berlin:20260620T141500
 UID:356849028@fv-neuhausen
