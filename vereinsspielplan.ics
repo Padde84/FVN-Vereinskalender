@@ -4,43 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Absetzung B-Junioren SGM TSG Salach-Ottenbach (flex) - SGM Neuhaus
- en / Wolfschlugen
-DTSTART;TZID=Europe/Berlin:20260503T103000
-DTEND;TZID=Europe/Berlin:20260503T123000
-UID:352386021@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren FV Neuhausen - GSV Maichingen
-DTSTART;TZID=Europe/Berlin:20260503T150000
-DTEND;TZID=Europe/Berlin:20260503T170000
-UID:355923197@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
- 65 Neuhausen auf den Fildern Samstag\, 09.05.2026 - 15:30 Uhr\nGoogle Maps
- : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
- lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+09.05.2026+-
- +15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
- rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 09.05.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren TB Ruit - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260503T153000
-DTEND;TZID=Europe/Berlin:20260503T173000
-UID:356082194@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Kunstrasenplatz\, Kunstrase
- n Ruit\, Talwiesen 1\, 73760 Ostfildern Sonntag\, 10.05.2026 - 15:30 Uhr\n
- Google Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenpla
- tz%2C+Kunstrasen+Ruit%2C+Talwiesen+1%2C+73760+Ostfildern+Sonntag%2C+10.05.
- 2026+-+15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhaus
- en-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Ruit\, Talwiesen 1\, 73760 Ostfilder
- n Sonntag\, 10.05.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:D-Junioren FV Neuhausen - TV Altenstadt 2
 DTSTART;TZID=Europe/Berlin:20260506T174500
 DTEND;TZID=Europe/Berlin:20260506T194500
