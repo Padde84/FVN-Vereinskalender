@@ -138,15 +138,15 @@ SUMMARY:C-Junioren TV Altenstadt 3 - SGM Neuhausen/Wolfschlugen 2
 DTSTART;TZID=Europe/Berlin:20260509T163000
 DTEND;TZID=Europe/Berlin:20260509T183000
 UID:352406022@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Michelberghall
- e\, Auchtweide 5\, 73312 Geislingen an der Steige Samstag\, 16.05.2026 - 1
- 5:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Ras
- enplatz%2C+Rasenplatz+Michelberghalle%2C+Auchtweide+5%2C+73312+Geislingen+
- an+der+Steige+Samstag%2C+16.05.2026+-+15%3A00+Uhr\nQuelle: https://www.fus
- sball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG0
- 8LVUPGND5I
-LOCATION:Rasenplatz\, Rasenplatz Michelberghalle\, Auchtweide 5\, 73312 Ge
- islingen an der Steige Samstag\, 16.05.2026 - 15:00 Uhr
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Michelber
+ ghalle\, Michelberghalle\, 73312 Geislingen-Altenstadt Samstag\, 16.05.202
+ 6 - 15:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&quer
+ y=Kunstrasenplatz%2C+Kunstrasen+Michelberghalle%2C+Michelberghalle%2C+7331
+ 2+Geislingen-Altenstadt+Samstag%2C+16.05.2026+-+15%3A00+Uhr\nQuelle: https
+ ://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO00
+ 00ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Michelberghalle\, Michelberghalle\, 
+ 73312 Geislingen-Altenstadt Samstag\, 16.05.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - ASV Aichwald
