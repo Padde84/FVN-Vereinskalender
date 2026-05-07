@@ -4,21 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:D-Junioren FV Neuhausen - TV Altenstadt 2
-DTSTART;TZID=Europe/Berlin:20260506T174500
-DTEND;TZID=Europe/Berlin:20260506T194500
-UID:356592015@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
- hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 09.05.2026 - 13:3
- 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
- latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
- den+Fildern+Samstag%2C+09.05.2026+-+13%3A30+Uhr\nQuelle: https://www.fussb
- all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
- VUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Samstag\, 09.05.2026 - 13:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 4 (5) - TB Gingen 2 (5)
 DTSTART;TZID=Europe/Berlin:20260508T180000
 DTEND;TZID=Europe/Berlin:20260508T200000
@@ -116,23 +101,6 @@ DESCRIPTION:Landesliga\nSpielort: stadion\, Rosenstr.\, 71063 Sindelfingen
  -neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:stadion\, Rosenstr.\, 71063 Sindelfingen Sonntag\, 17.05.2026 - 1
  5:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A-Junioren SGM Neuhausen / Wolfschlugen - 1.FC Rechberghausen 06.0
- 5.2026 19 00 Samstag 16.05.2026 - 16 30 Uhr Kreisstaffel Sa 16.05.26 16 30
-  Kreisstaffel ME 352010025 SGM Albuch (Böhmenkirch/Steinheim/Gerstetten) 
- 1.FC Rechberghausen
-DTSTART;TZID=Europe/Berlin:20260509T163000
-DTEND;TZID=Europe/Berlin:20260509T183000
-UID:352010022@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Böhmenkirch\,
-  Jahnstr. 8\, 89558 Böhmenkirch Samstag\, 13.06.2026 - Uhr\nGoogle Maps: 
- https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Rasenplatz+B
- %C3%B6hmenkirch%2C+Jahnstr.+8%2C+89558+B%C3%B6hmenkirch+Samstag%2C+13.06.2
- 026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertt
- emberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Rasenplatz Böhmenkirch\, Jahnstr. 8\, 89558 Böhmen
- kirch Samstag\, 13.06.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C-Junioren TV Altenstadt 3 - SGM Neuhausen/Wolfschlugen 2
