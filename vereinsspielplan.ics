@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:E-Junioren FV Neuhausen 4 (5) - TB Gingen 2 (5)
-DTSTART;TZID=Europe/Berlin:20260508T180000
-DTEND;TZID=Europe/Berlin:20260508T200000
-UID:352621019@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Freitag\, 15.05.2026 - 18:00 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Freitag%2C+15.05.2026
- +-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Freitag\, 15.05.2026 - 18:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 1 - TSV Scharnhausen 1
 DTSTART;TZID=Europe/Berlin:20260509T121500
 DTEND;TZID=Europe/Berlin:20260509T141500
