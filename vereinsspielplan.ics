@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Herren FV Neuhausen 2 - ASV Aichwald
-DTSTART;TZID=Europe/Berlin:20260510T150000
-DTEND;TZID=Europe/Berlin:20260510T170000
-UID:356082203@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Neuhausen\, Schloß
- str. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 17.05.2026 - 15:00 Uhr
- \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+Neu
- hausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%2C
- +17.05.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
- neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Sonntag\, 17.05.2026 - 15:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 1 - TSV Baltmannsweiler 1
 DTSTART;TZID=Europe/Berlin:20260513T180000
 DTEND;TZID=Europe/Berlin:20260513T200000
@@ -165,13 +151,13 @@ DTSTART;TZID=Europe/Berlin:20260517T150000
 DTEND;TZID=Europe/Berlin:20260517T170000
 UID:356082210@fv-neuhausen
 DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Hauptplatz Keh
- lenberg\, Herdweg 25\, 73249 Wernau (Neckar) Samstag\, 23.05.2026 - 16:00 
+ lenberg\, Herdweg 25\, 73249 Wernau (Neckar) Samstag\, 23.05.2026 - 15:30 
  Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenpla
  tz%2C+Hauptplatz+Kehlenberg%2C+Herdweg+25%2C+73249+Wernau+%28Neckar%29+Sam
- stag%2C+23.05.2026+-+16%3A00+Uhr\nQuelle: https://www.fussball.de/verein/f
+ stag%2C+23.05.2026+-+15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/f
  v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Hauptplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (N
- eckar) Samstag\, 23.05.2026 - 16:00 Uhr
+ eckar) Samstag\, 23.05.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren SV Waldhausen - FV Neuhausen
