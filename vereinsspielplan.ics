@@ -4,21 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:E-Junioren FV Neuhausen 1 - TSV Baltmannsweiler 1
-DTSTART;TZID=Europe/Berlin:20260513T180000
-DTEND;TZID=Europe/Berlin:20260513T200000
-UID:351619015@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
- hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 16.05.2026 - 12:1
- 5 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
- latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
- den+Fildern+Samstag%2C+16.05.2026+-+12%3A15+Uhr\nQuelle: https://www.fussb
- all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
- VUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Samstag\, 16.05.2026 - 12:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-Junioren ASV Aichwald 3 (5) - FV Neuhausen 4 (5)
 DTSTART;TZID=Europe/Berlin:20260515T180000
 DTEND;TZID=Europe/Berlin:20260515T200000
@@ -73,23 +58,6 @@ DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
  uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Samstag\, 13.06.2026 - 12:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:D-Junioren FV Neuhausen - Wernauer SF 1 20.05.2026 18 00 Mittwoch 
- 20.05.2026 - 18 00 Uhr Kreisstaffel Mi 20.05.26 18 00 Kreisstaffel ME 3565
- 92026 FV Neuhausen Wernauer SF 1
-DTSTART;TZID=Europe/Berlin:20260516T133000
-DTEND;TZID=Europe/Berlin:20260516T153000
-UID:356592026@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
- hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 13.06.2026 - 13:3
- 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
- latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
- den+Fildern+Samstag%2C+13.06.2026+-+13%3A30+Uhr\nQuelle: https://www.fussb
- all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
- VUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Samstag\, 13.06.2026 - 13:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:C-Junioren SC Altbach 1 - SGM Neuhausen/Wolfschlugen 1
@@ -161,6 +129,20 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Hauptplatz Keh
  v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Hauptplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (N
  eckar) Samstag\, 23.05.2026 - 15:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D-Junioren FV Neuhausen - Wernauer SF 1
+DTSTART;TZID=Europe/Berlin:20260520T180000
+DTEND;TZID=Europe/Berlin:20260520T200000
+UID:356592026@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 13.06.2026 - Uhr\
+ nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2
+ C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fi
+ ldern+Samstag%2C+13.06.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/
+ fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 13.06.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren SV Waldhausen - FV Neuhausen
