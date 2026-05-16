@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:E-Junioren ASV Aichwald 3 (5) - FV Neuhausen 4 (5)
-DTSTART;TZID=Europe/Berlin:20260515T180000
-DTEND;TZID=Europe/Berlin:20260515T200000
-UID:352621024@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Aichwald\
- , Krummhardter Str. 52\, 73773 Aichwald Freitag\, 12.06.2026 - Uhr\nGoogle
-  Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+
- Kunstrasen+Aichwald%2C+Krummhardter+Str.+52%2C+73773+Aichwald+Freitag%2C+1
- 2.06.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
- wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Aichwald\, Krummhardter Str. 52\, 73
- 773 Aichwald Freitag\, 12.06.2026 - Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-Junioren TV Nellingen 3 - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
@@ -46,7 +32,9 @@ LOCATION:Stadion\, Mühlhaldenstr. 111\, 73770 Denkendorf Samstag\, 13.06.
  2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:E-Junioren FV Neuhausen 2 - SG Eintracht Sirnau 2
+SUMMARY:E-Junioren FV Neuhausen 2 - SG Eintracht Sirnau 2 10.06.2026 18 00
+  Mittwoch 10.06.2026 - 18 00 Uhr Kreisstaffel Mi 10.06.26 18 00 Kreisstaff
+ el ME 356849024 FV Neuhausen 2 SG Eintracht Sirnau 2
 DTSTART;TZID=Europe/Berlin:20260516T121500
 DTEND;TZID=Europe/Berlin:20260516T141500
 UID:356849024@fv-neuhausen
