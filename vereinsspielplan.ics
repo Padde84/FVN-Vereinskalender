@@ -4,49 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:B-Junioren SV Ebersbach/Fils - SGM Neuhausen / Wolfschlugen
-DTSTART;TZID=Europe/Berlin:20260517T103000
-DTEND;TZID=Europe/Berlin:20260517T123000
-UID:352386027@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Nebenplatz Strut Ebe
- rsbach\, Strutstr. 15\, 73061 Ebersbach an der Fils Sonntag\, 14.06.2026 -
-  10:30 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=K
- unstrasenplatz%2C+Nebenplatz+Strut+Ebersbach%2C+Strutstr.+15%2C+73061+Eber
- sbach+an+der+Fils+Sonntag%2C+14.06.2026+-+10%3A30+Uhr\nQuelle: https://www
- .fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV
- 0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Nebenplatz Strut Ebersbach\, Strutstr. 15\, 730
- 61 Ebersbach an der Fils Sonntag\, 14.06.2026 - 10:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren FV Neuhausen - SC Geislingen
-DTSTART;TZID=Europe/Berlin:20260517T150000
-DTEND;TZID=Europe/Berlin:20260517T170000
-UID:355923211@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
- 65 Neuhausen auf den Fildern Samstag\, 23.05.2026 - 15:30 Uhr\nGoogle Maps
- : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
- lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+23.05.2026+-
- +15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
- rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 23.05.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren TSV Wernau - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260517T150000
-DTEND;TZID=Europe/Berlin:20260517T170000
-UID:356082210@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Hauptplatz Keh
- lenberg\, Herdweg 25\, 73249 Wernau (Neckar) Samstag\, 23.05.2026 - 15:30 
- Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenpla
- tz%2C+Hauptplatz+Kehlenberg%2C+Herdweg+25%2C+73249+Wernau+%28Neckar%29+Sam
- stag%2C+23.05.2026+-+15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/f
- v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Hauptplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (N
- eckar) Samstag\, 23.05.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:D-Junioren FV Neuhausen - Wernauer SF 1
 DTSTART;TZID=Europe/Berlin:20260520T180000
 DTEND;TZID=Europe/Berlin:20260520T200000
@@ -253,6 +210,20 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Samstag\, 13.06.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:E-Junioren FV Neuhausen 3 - TSV Denkendorf 2
+DTSTART;TZID=Europe/Berlin:20260613T121500
+DTEND;TZID=Europe/Berlin:20260613T141500
+UID:356850026@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Samstag\, 20.06.2026 - 11:15 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+20.06.2026
+ +-+11%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 20.06.2026 - 11:15 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 1 - TSG Esslingen
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
@@ -280,20 +251,6 @@ DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Nellingen
  r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasen Nellingen\, In den Anlagen 6\, 73760
   Ostfildern Samstag\, 20.06.2026 - 12:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E-Junioren FV Neuhausen 3 - TSV Denkendorf 2
-DTSTART;TZID=Europe/Berlin:20260613T121500
-DTEND;TZID=Europe/Berlin:20260613T141500
-UID:356850026@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 20.06.2026 - 11:15 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+20.06.2026
- +-+11%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 20.06.2026 - 11:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D-Junioren TV Altenstadt 2 - FV Neuhausen
