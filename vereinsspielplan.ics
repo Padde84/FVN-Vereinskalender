@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:D-Junioren FV Neuhausen - Wernauer SF 1
-DTSTART;TZID=Europe/Berlin:20260520T180000
-DTEND;TZID=Europe/Berlin:20260520T200000
-UID:356592026@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
- hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 13.06.2026 - Uhr\
- nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2
- C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fi
- ldern+Samstag%2C+13.06.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/
- fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Samstag\, 13.06.2026 - Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herren SV Waldhausen - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260523T153000
 DTEND;TZID=Europe/Berlin:20260523T173000
@@ -210,6 +196,20 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Samstag\, 13.06.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:E-Junioren TV Nellingen 2 - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20260613T121500
+DTEND;TZID=Europe/Berlin:20260613T141500
+UID:356849027@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Nellingen
+ \, In den Anlagen 6\, 73760 Ostfildern Samstag\, 20.06.2026 - 12:15 Uhr\nG
+ oogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplat
+ z%2C+Kunstrasen+Nellingen%2C+In+den+Anlagen+6%2C+73760+Ostfildern+Samstag%
+ 2C+20.06.2026+-+12%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
+ r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Nellingen\, In den Anlagen 6\, 73760
+  Ostfildern Samstag\, 20.06.2026 - 12:15 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:E-Junioren FV Neuhausen 3 - TSV Denkendorf 2
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
@@ -237,20 +237,6 @@ DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
  VUPGND5I
 LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
  sen auf den Fildern Samstag\, 20.06.2026 - 12:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E-Junioren TV Nellingen 2 - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260613T121500
-DTEND;TZID=Europe/Berlin:20260613T141500
-UID:356849027@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Nellingen
- \, In den Anlagen 6\, 73760 Ostfildern Samstag\, 20.06.2026 - 12:15 Uhr\nG
- oogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplat
- z%2C+Kunstrasen+Nellingen%2C+In+den+Anlagen+6%2C+73760+Ostfildern+Samstag%
- 2C+20.06.2026+-+12%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
- r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Nellingen\, In den Anlagen 6\, 73760
-  Ostfildern Samstag\, 20.06.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D-Junioren TV Altenstadt 2 - FV Neuhausen
