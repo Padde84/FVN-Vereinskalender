@@ -239,6 +239,60 @@ LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
  sen auf den Fildern Samstag\, 20.06.2026 - 12:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:C-Junioren SGM Neuhausen/Wolfschlugen 1 - TSV RSK Esslingen 1
+DTSTART;TZID=Europe/Berlin:20260613T130000
+DTEND;TZID=Europe/Berlin:20260613T150000
+UID:352265029@fv-neuhausen
+DESCRIPTION:Kreisleistungsstaffel\nSpielort: Rasenplatz\, Hauptplatz Wolfs
+ chlugen\, Nürtinger Str.\, 72649 Wolfschlugen Legende Drucken Kürzel bei
+  einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung
+  v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) We
+ rtung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (best
+ ätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, d
+ ie Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetrete
+ ne Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtan
+ tritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach 
+ Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder 
+ ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Le
+ istungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen auß
+ er Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Dat
+ um hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vo
+ rhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Hauptpla
+ tz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlugen+Legende+Druck
+ en+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4
+ tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A
+ 4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C
+ 3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+
+ Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+
+ Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+
+ Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantri
+ tt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach
+ +Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nic
+ ht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staff
+ el+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeiche
+ n+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+S
+ PIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhan
+ den+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3
+ %A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
+ wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
+ lfschlugen Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurte
+ il (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestät
+ igt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausf
+ all Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Die
+ se Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechn
+ et. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM ni
+ cht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Man
+ nschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die A
+ nstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebn
+ isanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaft
+ en mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt L
+ ive Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spi
+ elbericht vorhanden Foto oder Video vorhanden Livestream oder Highlights v
+ orhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:D-Junioren TV Altenstadt 2 - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260613T133000
 DTEND;TZID=Europe/Berlin:20260613T153000
@@ -291,60 +345,6 @@ LOCATION:Kunstrasenplatz\, Kunstrasen Michelberghalle\, Michelberghalle\,
  bnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannscha
  ft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream 
  oder Highlights vorhanden vorläufiges Spiel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C-Junioren SGM Neuhausen/Wolfschlugen 1 - TSV RSK Esslingen 1
-DTSTART;TZID=Europe/Berlin:20260613T144500
-DTEND;TZID=Europe/Berlin:20260613T164500
-UID:352265029@fv-neuhausen
-DESCRIPTION:Kreisleistungsstaffel\nSpielort: Rasenplatz\, Hauptplatz Wolfs
- chlugen\, Nürtinger Str.\, 72649 Wolfschlugen Legende Drucken Kürzel bei
-  einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung
-  v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) We
- rtung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (best
- ätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, d
- ie Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetrete
- ne Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtan
- tritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach 
- Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder 
- ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Le
- istungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen auß
- er Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Dat
- um hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vo
- rhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Hauptpla
- tz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlugen+Legende+Druck
- en+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4
- tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A
- 4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C
- 3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+
- Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+
- Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+
- Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantri
- tt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach
- +Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nic
- ht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staff
- el+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeiche
- n+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+S
- PIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhan
- den+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3
- %A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
- wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
- lfschlugen Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurte
- il (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestät
- igt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausf
- all Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Die
- se Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechn
- et. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM ni
- cht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Man
- nschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die A
- nstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebn
- isanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaft
- en mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt L
- ive Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spi
- elbericht vorhanden Foto oder Video vorhanden Livestream oder Highlights v
- orhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A-Junioren SGM Neuhausen / Wolfschlugen - TV Neidlingen
