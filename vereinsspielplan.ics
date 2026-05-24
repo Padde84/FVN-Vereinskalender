@@ -4,34 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Herren SV Waldhausen - FV Neuhausen
-DTSTART;TZID=Europe/Berlin:20260523T153000
-DTEND;TZID=Europe/Berlin:20260523T173000
-UID:355923224@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: Sportplatz 1 Aalen-Waldhausen\, Kapfenbu
- rgstr. 46\, 73432 Aalen Samstag\, 30.05.2026 - 15:30 Uhr\nGoogle Maps: htt
- ps://www.google.com/maps/search/?api=1&query=Sportplatz+1+Aalen-Waldhausen
- %2C+Kapfenburgstr.+46%2C+73432+Aalen+Samstag%2C+30.05.2026+-+15%3A30+Uhr\n
- Quelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id
- /00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Sportplatz 1 Aalen-Waldhausen\, Kapfenburgstr. 46\, 73432 Aalen S
- amstag\, 30.05.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren TSV Deizisau - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260523T160000
-DTEND;TZID=Europe/Berlin:20260523T180000
-UID:356082218@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Rasenplatz Hin
- tere Halde\, Hintere Halde\, 73779 Deizisau Sonntag\, 31.05.2026 - 15:00 U
- hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplat
- z%2C+Rasenplatz+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Sonntag%2
- C+31.05.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr
- -neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Rasenplatz Hintere Halde\, Hintere Halde\, 73779 Dei
- zisau Sonntag\, 31.05.2026 - 15:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herren TSV Bad Boll - TSV Bernhausen 22.05.2026 18 30 Samstag 30.0
  5.2026 - 15 30 Uhr Landesliga Sa 30.05.26 15 30 Landesliga ME 355923226 FV
   Neuhausen TSV Bad Boll
