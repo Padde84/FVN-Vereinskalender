@@ -4,22 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Herren TSV Bad Boll - TSV Bernhausen 22.05.2026 18 30 Samstag 30.0
- 5.2026 - 15 30 Uhr Landesliga Sa 30.05.26 15 30 Landesliga ME 355923226 FV
-  Neuhausen TSV Bad Boll
-DTSTART;TZID=Europe/Berlin:20260524T150000
-DTEND;TZID=Europe/Berlin:20260524T170000
-UID:355923217@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
- 65 Neuhausen auf den Fildern Samstag\, 06.06.2026 - 15:30 Uhr\nGoogle Maps
- : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
- lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+06.06.2026+-
- +15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
- rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 06.06.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - TSV Bad Boll
 DTSTART;TZID=Europe/Berlin:20260530T153000
 DTEND;TZID=Europe/Berlin:20260530T173000
