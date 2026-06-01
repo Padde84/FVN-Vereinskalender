@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Herren FV Neuhausen 2 - FV Plochingen 2
-DTSTART;TZID=Europe/Berlin:20260531T150000
-DTEND;TZID=Europe/Berlin:20260531T170000
-UID:356082232@fv-neuhausen
-DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Neuhausen\, Schloß
- str. 80\, 73765 Neuhausen auf den Fildern Samstag\, 06.06.2026 - 14:00 Uhr
- \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+Neu
- hausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C
- +06.06.2026+-+14%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
- neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 06.06.2026 - 14:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herren TSV Wendlingen - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260606T150000
 DTEND;TZID=Europe/Berlin:20260606T170000
