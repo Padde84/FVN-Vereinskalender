@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:E-Junioren FV Neuhausen 2 - SG Eintracht Sirnau 2
-DTSTART;TZID=Europe/Berlin:20260610T180000
-DTEND;TZID=Europe/Berlin:20260610T200000
-UID:356849024@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 13.06.2026 - 12:15 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+13.06.2026
- +-+12%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 13.06.2026 - 12:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-Junioren TV Nellingen 2 - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260613T121500
 DTEND;TZID=Europe/Berlin:20260613T141500
