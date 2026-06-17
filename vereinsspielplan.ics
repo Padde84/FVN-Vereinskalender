@@ -141,6 +141,58 @@ LOCATION:Kunstrasenplatz\, Kunstrasenplatz Baltmannsweiler\, Baacher Str.
  4\, 73666 Baltmannsweiler Samstag\, 27.06.2026 - 09:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TSV Denkendorf - SGM Neuhausen/Wolfschlugen 1
+DTSTART;TZID=Europe/Berlin:20260620T140000
+DTEND;TZID=Europe/Berlin:20260620T160000
+UID:550023251@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Stadion\, Mühlhaldenstr
+ . 111\, 73770 Denkendorf Legende Drucken Kürzel bei einem Spiel u (U) Spo
+ rtgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsents
+ cheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (be
+ stätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spiela
+ bbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden a
+ ber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichta
+ ntritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht anget
+ reten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sons
+ tiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E
+ . Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt.
+  oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebni
+ s bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft 
+ spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream ode
+ r Highlights vorhanden vorläufiges Spiel\nGoogle Maps: https://www.google
+ .com/maps/search/?api=1&query=Stadion%2C+M%C3%BChlhaldenstr.+111%2C+73770+
+ Denkendorf+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgeri
+ chtsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltun
+ gsentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertun
+ g+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspi
+ el+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zu
+ r%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+
+ BEIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HE
+ IM-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+V
+ erl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%
+ C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebni
+ sanzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaft
+ en+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%
+ A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielf
+ rei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+High
+ lights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/v
+ erein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion\, Mühlhaldenstr. 111\, 73770 Denkendorf Legende Drucken 
+ Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert A
+ nnullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzu
+ ng w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Test
+ spiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurück
+ gezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nich
+ t angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannsch
+ aft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängeru
+ ng nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht
+  fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel 
+ nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen s
+ pielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An
+  diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto od
+ er Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FV Neuhausen 1 - Kleinfeldturnier 9-13 Uhr
 DTSTART;TZID=Europe/Berlin:20260627T090000
 DTEND;TZID=Europe/Berlin:20260627T110000
