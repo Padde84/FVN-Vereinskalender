@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:E-Junioren FV Neuhausen 3 - TSV Denkendorf 2
-DTSTART;TZID=Europe/Berlin:20260617T174500
-DTEND;TZID=Europe/Berlin:20260617T194500
-UID:356850026@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 20.06.2026 - 11:15 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+20.06.2026
- +-+11%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 20.06.2026 - 11:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-Junioren TSV Wäschenbeuren 2 (5) - FV Neuhausen 4 (5)
 DTSTART;TZID=Europe/Berlin:20260619T180000
 DTEND;TZID=Europe/Berlin:20260619T200000
