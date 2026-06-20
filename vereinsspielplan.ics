@@ -4,60 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:E-Junioren TSV Wäschenbeuren 2 (5) - FV Neuhausen 4 (5)
-DTSTART;TZID=Europe/Berlin:20260619T180000
-DTEND;TZID=Europe/Berlin:20260619T200000
-UID:352621030@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Wäschenbeuren
- \, Maitiser Str.\, 73116 Wäschenbeuren Legende Drucken Kürzel bei einem 
- Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V) 
- Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung S
- pielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt)
-  Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Erge
- bnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mann
- schaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt G
- AST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmete
- rschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist nic
- ht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungs
- betrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer Konk
- urrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat 
- die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden
-  Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: htt
- ps://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Rasenplatz+W%C3
- %A4schenbeuren%2C+Maitiser+Str.%2C+73116+W%C3%A4schenbeuren+Legende+Drucke
- n+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4t
- igt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4
- tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3
- %A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+A
- bbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+E
- rgebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+M
- annschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantrit
- t+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+
- Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nich
- t+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffe
- l+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen
- +spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SP
- IELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhand
- en+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%
- A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Rasenplatz Wäschenbeuren\, Maitiser Str.\, 73116 W
- äschenbeuren Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsu
- rteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (best
- ätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) A
- usfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. 
- Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eingere
- chnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM
-  nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-
- Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Di
- e Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Erg
- ebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannsch
- aften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätig
- t Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. 
- Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highlight
- s vorhanden vorläufiges Spiel
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-Junioren TSV Köngen 3 - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20260620T111500
 DTEND;TZID=Europe/Berlin:20260620T131500
