@@ -4,165 +4,27 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 1 - Kleinfeldturnier 9-13 Uhr
+SUMMARY:Absetzung FV Neuhausen 1 - Kleinfeldturnier 9-13 Uhr
 DTSTART;TZID=Europe/Berlin:20260627T090000
 DTEND;TZID=Europe/Berlin:20260627T110000
 UID:550016311@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Nebenplatz 
- Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Legende Druck
- en Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annulier
- t Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabse
- tzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) T
- estspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zur
- ückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE 
- nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Man
- nschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlän
- gerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch n
- icht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staf
- fel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeich
- en spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFRE
- I An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Fot
- o oder Video vorhanden Livestream oder Highlights vorhanden vorläufiges S
- piel\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenpl
- atz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+d
- en+Fildern+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgeri
- chtsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltun
- gsentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertun
- g+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspi
- el+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zu
- r%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+
- BEIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HE
- IM-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+V
- erl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%
- C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebni
- sanzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaft
- en+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%
- A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielf
- rei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+High
- lights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/v
- erein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Legende Drucken Kürzel bei einem Spiel u (U) Sportger
- ichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid
-  (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestät
- igt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruc
- h zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber e
- ingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantrit
- t HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten
-  GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges
-  ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Kei
- ne Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW M
- annschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bes
- tätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spiel
- frei. Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Hig
- hlights vorhanden vorläufiges Spiel
+DESCRIPTION:Bezirksfreundschaftsspiele\nQuelle: https://www.fussball.de/ve
+ rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 2 - Kleinfeldturnier 9-12 Uhr
+SUMMARY:Absetzung FV Neuhausen 2 - Kleinfeldturnier 9-12 Uhr
 DTSTART;TZID=Europe/Berlin:20260627T090000
 DTEND;TZID=Europe/Berlin:20260627T110000
 UID:550016312@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schl
- oßstr. 80\, 73765 Neuhausen auf den Fildern Legende Drucken Kürzel bei e
- inem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v
-  (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wert
- ung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestä
- tigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die
-  Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene
-  Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantr
- itt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach El
- fmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder is
- t nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leis
- tungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer
-  Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum
-  hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorh
- anden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps
- : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
- lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Legende+Drucken+K%C3%BC
- rzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4tigt%29+An
- nuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4tigt%29+A
- bsetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4tigt%2
- 9+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbruch+Sp
- ielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Ergebnisse
- +werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Mannschaft
- en+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt+GAST+ni
- cht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elfmeters
- chie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+fest+od
- er+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+nicht+i
- m+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+spielen+
- au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIELFREI+A
- n+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhanden+Foto+o
- der+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A4ufiges+
- Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttembe
- rg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bes
- tätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Ab
- setzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spi
- elausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mann
- schaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nic
- htantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht ang
- etreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft
-  nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßz
- eit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzei
- ge\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit 
- diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liv
- eticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielberic
- ht vorhanden Foto oder Video vorhanden Livestream oder Highlights vorhande
- n vorläufiges Spiel
+DESCRIPTION:Bezirksfreundschaftsspiele\nQuelle: https://www.fussball.de/ve
+ rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen - Kleinfeldturnier 13-16 Uhr
+SUMMARY:Absetzung FV Neuhausen - Kleinfeldturnier 13-16 Uhr
 DTSTART;TZID=Europe/Berlin:20260627T130000
 DTEND;TZID=Europe/Berlin:20260627T150000
 UID:550041573@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Nebenplatz 
- Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Legende Druck
- en Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annulier
- t Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabse
- tzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) T
- estspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zur
- ückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE 
- nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Man
- nschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlän
- gerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch n
- icht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staf
- fel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeich
- en spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFRE
- I An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Fot
- o oder Video vorhanden Livestream oder Highlights vorhanden vorläufiges S
- piel\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenpl
- atz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+d
- en+Fildern+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgeri
- chtsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltun
- gsentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertun
- g+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspi
- el+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zu
- r%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+
- BEIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HE
- IM-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+V
- erl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%
- C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebni
- sanzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaft
- en+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%
- A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielf
- rei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+High
- lights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/v
- erein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Legende Drucken Kürzel bei einem Spiel u (U) Sportger
- ichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid
-  (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestät
- igt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruc
- h zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber e
- ingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantrit
- t HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten
-  GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges
-  ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Kei
- ne Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW M
- annschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bes
- tätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spiel
- frei. Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Hig
- hlights vorhanden vorläufiges Spiel
+DESCRIPTION:Bezirksfreundschaftsspiele\nQuelle: https://www.fussball.de/ve
+ rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 END:VCALENDAR
