@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen - TSV Ehningen
-DTSTART;TZID=Europe/Berlin:20260705T113000
-DTEND;TZID=Europe/Berlin:20260705T133000
-UID:550006101@fv-neuhausen
-DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schlo
- ßstr. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 12.07.2026 - 12:30 U
- hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+N
- euhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%
- 2C+12.07.2026+-+12%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
- r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Sonntag\, 12.07.2026 - 12:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FV Neuhausen - SGM Dettingen/Glems
 DTSTART;TZID=Europe/Berlin:20260712T130000
 DTEND;TZID=Europe/Berlin:20260712T150000
@@ -114,6 +100,21 @@ DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Stadion VfL\, Jesinger S
  temberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion VfL\, Jesinger Str. 105\, 73230 Kirchheim unter Teck Mitt
  woch\, 05.08.2026 - 19:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSG Zell u.A. - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20260725T150000
+DTEND;TZID=Europe/Berlin:20260725T170000
+UID:550003335@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
+ Zell u.A.\, Göppinger Str.\, 73119 Zell unter Aichelberg Sonntag\, 02.08.
+ 2026 - 15:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&q
+ uery=Rasenplatz%2C+Hauptplatz+Zell+u.A.%2C+G%C3%B6ppinger+Str.%2C+73119+Ze
+ ll+unter+Aichelberg+Sonntag%2C+02.08.2026+-+15%3A00+Uhr\nQuelle: https://w
+ ww.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000AL
+ VV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Zell u.A.\, Göppinger Str.\, 73119 Zell 
+ unter Aichelberg Sonntag\, 02.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SPV 05 Nürtingen - FV Neuhausen 2
