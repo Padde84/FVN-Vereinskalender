@@ -136,53 +136,13 @@ DTSTART;TZID=Europe/Berlin:20260802T140000
 DTEND;TZID=Europe/Berlin:20260802T160000
 UID:550006104@fv-neuhausen
 DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schlo
- ßstr. 80\, 73765 Neuhausen auf den Fildern Legende Drucken Kürzel bei ei
- nem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v 
- (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertu
- ng Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestät
- igt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die 
- Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene 
- Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantri
- tt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elf
- meterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist
-  nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leist
- ungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer 
- Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum 
- hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorha
- nden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps:
-  https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Schl
- o%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Legende+Drucken+K%C3%BCr
- zel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4tigt%29+Ann
- uliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4tigt%29+Ab
- setzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4tigt%29
- +Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbruch+Spi
- elabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Ergebnisse+
- werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Mannschafte
- n+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt+GAST+nic
- ht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elfmetersc
- hie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+fest+ode
- r+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+nicht+im
- +Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+spielen+a
- u%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIELFREI+An
- +diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhanden+Foto+od
- er+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A4ufiges+S
- piel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttember
- g/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ ßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 15.08.2026 - 15:00 U
+ hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+N
+ euhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%
+ 2C+15.08.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
+ r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bes
- tätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Ab
- setzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spi
- elausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mann
- schaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nic
- htantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht ang
- etreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft
-  nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßz
- eit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzei
- ge\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit 
- diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liv
- eticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielberic
- ht vorhanden Foto oder Video vorhanden Livestream oder Highlights vorhande
- n vorläufiges Spiel
+ ern Samstag\, 15.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Birkach - FV Neuhausen 2
@@ -200,18 +160,74 @@ LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Birkach\, Taldorfer Str. 59
  \, 70599 Stuttgart Sonntag\, 16.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Herren FV Neuhausen - SV Böblingen
+DTSTART;TZID=Europe/Berlin:20260809T150000
+DTEND;TZID=Europe/Berlin:20260809T170000
+UID:355923006@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
+ 65 Neuhausen auf den Fildern Samstag\, 15.08.2026 - 15:30 Uhr\nGoogle Maps
+ : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
+ lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+15.08.2026+-
+ +15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 15.08.2026 - 15:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren SC Geislingen - FV Neuhausen
+DTSTART;TZID=Europe/Berlin:20260815T153000
+DTEND;TZID=Europe/Berlin:20260815T173000
+UID:355923010@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Stadion Eybacher Tal\, Eybacher Tal\, 73
+ 312 Geislingen an der Steige Sonntag\, 23.08.2026 - 15:30 Uhr\nGoogle Maps
+ : https://www.google.com/maps/search/?api=1&query=Stadion+Eybacher+Tal%2C+
+ Eybacher+Tal%2C+73312+Geislingen+an+der+Steige+Sonntag%2C+23.08.2026+-+15%
+ 3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertte
+ mberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Eybacher Tal\, Eybacher Tal\, 73312 Geislingen an der Ste
+ ige Sonntag\, 23.08.2026 - 15:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FV Neuhausen - Spvgg Cannstatt
 DTSTART;TZID=Europe/Berlin:20260819T193000
 DTEND;TZID=Europe/Berlin:20260819T213000
 UID:550006105@fv-neuhausen
 DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schlo
- ßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 22.08.2026 - 14:00 U
+ ßstr. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 23.08.2026 - 15:00 U
  hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+N
- euhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%
- 2C+22.08.2026+-+14%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
+ euhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%
+ 2C+23.08.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
  r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 22.08.2026 - 14:00 Uhr
+ ern Sonntag\, 23.08.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren FV Neuhausen - TSV Bad Boll
+DTSTART;TZID=Europe/Berlin:20260823T150000
+DTEND;TZID=Europe/Berlin:20260823T170000
+UID:355923024@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
+ 65 Neuhausen auf den Fildern Sonntag\, 30.08.2026 - 15:00 Uhr\nGoogle Maps
+ : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
+ lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%2C+30.08.2026+-
+ +15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Sonntag\, 30.08.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren TSGV Waldstetten - FV Neuhausen
+DTSTART;TZID=Europe/Berlin:20260830T150000
+DTEND;TZID=Europe/Berlin:20260830T170000
+UID:355923034@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Sportplatz 1 Waldstetten\, Brunnengasse 
+ 41\, 73550 Waldstetten Samstag\, 05.09.2026 - Uhr\nGoogle Maps: https://ww
+ w.google.com/maps/search/?api=1&query=Sportplatz+1+Waldstetten%2C+Brunneng
+ asse+41%2C+73550+Waldstetten+Samstag%2C+05.09.2026+-+Uhr\nQuelle: https://
+ www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000A
+ LVV0AG08LVUPGND5I
+LOCATION:Sportplatz 1 Waldstetten\, Brunnengasse 41\, 73550 Waldstetten Sa
+ mstag\, 05.09.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM TV Echterdingen 2 - SGM Neuhausen/Wolfschlugen 2
