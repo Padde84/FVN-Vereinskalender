@@ -102,6 +102,20 @@ LOCATION:Stadion VfL\, Jesinger Str. 105\, 73230 Kirchheim unter Teck Mitt
  woch\, 05.08.2026 - 19:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TSV Denkendorf - SGM Neuhausen / Wolfschlugen
+DTSTART;TZID=Europe/Berlin:20260725T143000
+DTEND;TZID=Europe/Berlin:20260725T163000
+UID:550087006@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Stadion\, Mühlhaldenstr
+ . 111\, 73770 Denkendorf Samstag\, 01.08.2026 - 14:00 Uhr\nGoogle Maps: ht
+ tps://www.google.com/maps/search/?api=1&query=Stadion%2C+M%C3%BChlhaldenst
+ r.+111%2C+73770+Denkendorf+Samstag%2C+01.08.2026+-+14%3A00+Uhr\nQuelle: ht
+ tps://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAV
+ O0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion\, Mühlhaldenstr. 111\, 73770 Denkendorf Samstag\, 01.08.
+ 2026 - 14:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TSG Zell u.A. - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260725T150000
 DTEND;TZID=Europe/Berlin:20260725T170000
