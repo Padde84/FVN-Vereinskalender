@@ -244,6 +244,60 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Sonntag\, 30.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SGM Altdorf 2 / Großbettlingen 2 - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20260823T150000
+DTEND;TZID=Europe/Berlin:20260823T170000
+UID:950024064@fv-neuhausen
+DESCRIPTION:Bezirkspokal\nSpielort: Rasenplatz\, Hauptplatz Großbettlinge
+ n\, Staufenbühl 1\, 72663 Großbettlingen Legende Drucken Kürzel bei ein
+ em Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (
+ V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertun
+ g Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestäti
+ gt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die E
+ rgebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene M
+ annschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantrit
+ t GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfm
+ eterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist 
+ nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistu
+ ngsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer K
+ onkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum h
+ at die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorhan
+ den Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: 
+ https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Hauptplatz+G
+ ro%C3%9Fbettlingen%2C+Staufenb%C3%BChl+1%2C+72663+Gro%C3%9Fbettlingen+Lege
+ nde+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28b
+ est%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28
+ best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+
+ %28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A
+ 4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezoge
+ n%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+ang
+ etretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+N
+ ichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerun
+ g+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht
+ +noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+
+ die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+K
+ ennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liv
+ eticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielberic
+ ht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhande
+ n+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
+ euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Großbettlingen\, Staufenbühl 1\, 72663 
+ Großbettlingen Legende Drucken Kürzel bei einem Spiel u (U) Sportgericht
+ surteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (be
+ stätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt)
+  Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg
+ . Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber einge
+ rechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HE
+ IM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAS
+ T-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** 
+ Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine E
+ rgebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Manns
+ chaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestät
+ igt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei
+ . Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highlig
+ hts vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Herren TSGV Waldstetten - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260830T150000
 DTEND;TZID=Europe/Berlin:20260830T170000
