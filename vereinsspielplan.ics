@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen - SGM Dettingen/Glems
-DTSTART;TZID=Europe/Berlin:20260712T130000
-DTEND;TZID=Europe/Berlin:20260712T150000
-UID:550006102@fv-neuhausen
-DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schlo
- ßstr. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 19.07.2026 - 11:00 U
- hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+N
- euhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%
- 2C+19.07.2026+-+11%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
- r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Sonntag\, 19.07.2026 - 11:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SGM ASV Aichwald/TSV Baltmannsweiler 1 - SGM Neuhausen/Wolfschluge
  n 1
 DTSTART;TZID=Europe/Berlin:20260718T110000
@@ -303,53 +289,13 @@ DTSTART;TZID=Europe/Berlin:20260830T150000
 DTEND;TZID=Europe/Berlin:20260830T170000
 UID:355923034@fv-neuhausen
 DESCRIPTION:Landesliga\nSpielort: Sportplatz 1 Waldstetten\, Brunnengasse 
- 41\, 73550 Waldstetten Mehr laden Legende Drucken Kürzel bei einem Spiel 
- u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwal
- tungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielin
- stanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbru
- ch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse
-  werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaft
- en Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST ni
- cht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschie
- ßen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bek
- annt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrie
- b spielt. oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz
- . Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Ma
- nnschaft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Lives
- tream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: https://w
- ww.google.com/maps/search/?api=1&query=Sportplatz+1+Waldstetten%2C+Brunnen
- gasse+41%2C+73550+Waldstetten+Mehr+laden+Legende+Drucken+K%C3%BCrzel+bei+e
- inem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+An
- nullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4tigt%29+Absetzung+S
- pielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+
- Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruch
- +zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+ab
- er+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Mannschaften+Nichtan
- tritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+angetr
- eten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9F
- en+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nic
- ht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leistung
- sbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fer
- +Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+D
- atum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhanden+Foto+oder+Video+
- vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQue
- lle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00
- ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Sportplatz 1 Waldstetten\, Brunnengasse 41\, 73550 Waldstetten Me
- hr laden Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil
-  (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestätig
- t) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfal
- l Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese
-  Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechnet
- . Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nich
- t angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Manns
- chaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Ans
- toßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnis
- anzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften
-  mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt Liv
- e Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spiel
- bericht vorhanden Foto oder Video vorhanden Livestream oder Highlights vor
- handen vorläufiges Spiel
+ 41\, 73550 Waldstetten Samstag\, 05.09.2026 - Uhr\nGoogle Maps: https://ww
+ w.google.com/maps/search/?api=1&query=Sportplatz+1+Waldstetten%2C+Brunneng
+ asse+41%2C+73550+Waldstetten+Samstag%2C+05.09.2026+-+Uhr\nQuelle: https://
+ www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000A
+ LVV0AG08LVUPGND5I
+LOCATION:Sportplatz 1 Waldstetten\, Brunnengasse 41\, 73550 Waldstetten Sa
+ mstag\, 05.09.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM TV Echterdingen 2 - SGM Neuhausen/Wolfschlugen 2
