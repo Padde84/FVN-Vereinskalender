@@ -88,6 +88,60 @@ LOCATION:Stadion VfL\, Jesinger Str. 105\, 73230 Kirchheim unter Teck Mitt
  woch\, 05.08.2026 - 19:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SGM TSV Köngen / TV Unterboihingen - SGM Neuhausen / Wolfschlugen
+DTSTART;TZID=Europe/Berlin:20260725T110000
+DTEND;TZID=Europe/Berlin:20260725T130000
+UID:550024021@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
+ asen Köngen\, Steinackerstr.\, 73257 Köngen Legende Drucken Kürzel bei 
+ einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung 
+ v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wer
+ tung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (best
+ ätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, d
+ ie Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetrete
+ ne Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtan
+ tritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach 
+ Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder 
+ ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Le
+ istungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen auß
+ er Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Dat
+ um hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vo
+ rhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+Kun
+ strasen+K%C3%B6ngen%2C+Steinackerstr.%2C+73257+K%C3%B6ngen+Legende+Drucken
+ +K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4ti
+ gt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4t
+ igt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%
+ A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Ab
+ bruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Er
+ gebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Ma
+ nnschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt
+ +GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+E
+ lfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht
+ +fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel
+ +nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+
+ spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPI
+ ELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhande
+ n+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A
+ 4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wu
+ erttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Köngen\, Steinackerstr.\, 73257 Kö
+ ngen Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (be
+ stätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) A
+ bsetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Sp
+ ielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Man
+ nschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechnet. Ni
+ chtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht an
+ getreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaf
+ t nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoß
+ zeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanze
+ ige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit
+  diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Li
+ veticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielberi
+ cht vorhanden Foto oder Video vorhanden Livestream oder Highlights vorhand
+ en vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TSV Denkendorf - SGM Neuhausen / Wolfschlugen
 DTSTART;TZID=Europe/Berlin:20260725T143000
 DTEND;TZID=Europe/Berlin:20260725T163000
@@ -200,6 +254,20 @@ DESCRIPTION:Landesliga\nSpielort: Stadion Eybacher Tal\, Eybacher Tal\, 73
  temberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Eybacher Tal\, Eybacher Tal\, 73312 Geislingen an der Ste
  ige Mittwoch\, 19.08.2026 - 19:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen 2 - TSV Bernhausen 2
+DTSTART;TZID=Europe/Berlin:20260816T110000
+DTEND;TZID=Europe/Berlin:20260816T130000
+UID:550003434@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schl
+ oßstr. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 23.08.2026 - 15:00 
+ Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+
+ Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag
+ %2C+23.08.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-sp
+ fr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Sonntag\, 23.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen - Spvgg Cannstatt
