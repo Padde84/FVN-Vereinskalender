@@ -304,13 +304,13 @@ DTSTART;TZID=Europe/Berlin:20260823T150000
 DTEND;TZID=Europe/Berlin:20260823T170000
 UID:355923024@fv-neuhausen
 DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
- 65 Neuhausen auf den Fildern Sonntag\, 30.08.2026 - 15:00 Uhr\nGoogle Maps
+ 65 Neuhausen auf den Fildern Samstag\, 29.08.2026 - 15:00 Uhr\nGoogle Maps
  : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
- lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%2C+30.08.2026+-
+ lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+29.08.2026+-
  +15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
  rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Sonntag\, 30.08.2026 - 15:00 Uhr
+ ern Samstag\, 29.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Altdorf 2 / Großbettlingen 2 - FV Neuhausen 2
@@ -383,17 +383,17 @@ LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TSGV Waldstetten - FV Neuhausen
-DTSTART;TZID=Europe/Berlin:20260830T150000
-DTEND;TZID=Europe/Berlin:20260830T170000
+DTSTART;TZID=Europe/Berlin:20260829T150000
+DTEND;TZID=Europe/Berlin:20260829T170000
 UID:355923034@fv-neuhausen
 DESCRIPTION:Landesliga\nSpielort: Sportplatz 1 Waldstetten\, Brunnengasse 
- 41\, 73550 Waldstetten Samstag\, 05.09.2026 - Uhr\nGoogle Maps: https://ww
- w.google.com/maps/search/?api=1&query=Sportplatz+1+Waldstetten%2C+Brunneng
- asse+41%2C+73550+Waldstetten+Samstag%2C+05.09.2026+-+Uhr\nQuelle: https://
- www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000A
- LVV0AG08LVUPGND5I
-LOCATION:Sportplatz 1 Waldstetten\, Brunnengasse 41\, 73550 Waldstetten Sa
- mstag\, 05.09.2026 - Uhr
+ 41\, 73550 Waldstetten Sonntag\, 30.08.2026 - 15:00 Uhr\nGoogle Maps: http
+ s://www.google.com/maps/search/?api=1&query=Sportplatz+1+Waldstetten%2C+Br
+ unnengasse+41%2C+73550+Waldstetten+Sonntag%2C+30.08.2026+-+15%3A00+Uhr\nQu
+ elle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/0
+ 0ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Sportplatz 1 Waldstetten\, Brunnengasse 41\, 73550 Waldstetten So
+ nntag\, 30.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - TV Derendingen
