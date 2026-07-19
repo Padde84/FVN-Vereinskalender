@@ -4,76 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:SGM ASV Aichwald/TSV Baltmannsweiler 1 - SGM Neuhausen/Wolfschluge
- n 1
-DTSTART;TZID=Europe/Berlin:20260718T110000
-DTEND;TZID=Europe/Berlin:20260718T130000
-UID:550029012@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
- asenplatz Baltmannsweiler\, Baacher Str. 4\, 73666 Baltmannsweiler Legende
-  Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) An
- nuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spi
- elabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t
-  (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurd
- e zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt B
- EIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEI
- M-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Ve
- rlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht n
- och nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die
-  Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kenn
- zeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPI
- ELFREI An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhande
- n Foto oder Video vorhanden Livestream oder Highlights vorhanden vorläufi
- ges Spiel\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Ku
- nstrasenplatz%2C+Kunstrasenplatz+Baltmannsweiler%2C+Baacher+Str.+4%2C+7366
- 6+Baltmannsweiler+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sp
- ortgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Ve
- rwaltungsentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29
- +Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+
- Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+w
- urde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichta
- ntritt+BEIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetr
- eten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV
- +nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die
- +Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+
- Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Man
- nschaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+b
- est%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft
- +spielfrei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+od
- er+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussba
- ll.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LV
- UPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasenplatz Baltmannsweiler\, Baacher Str. 
- 4\, 73666 Baltmannsweiler Legende Drucken Kürzel bei einem Spiel u (U) Sp
- ortgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsent
- scheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (b
- estätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spiel
- abbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden 
- aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nicht
- antritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht ange
- treten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Son
- stiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.
- E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt
- . oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebn
- is bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft
-  spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream od
- er Highlights vorhanden vorläufiges Spiel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FV Neuhausen - FSV Waiblingen
-DTSTART;TZID=Europe/Berlin:20260718T140000
-DTEND;TZID=Europe/Berlin:20260718T160000
-UID:550006103@fv-neuhausen
-DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schlo
- ßstr. 80\, 73765 Neuhausen auf den Fildern Mittwoch\, 22.07.2026 - 20:00 
- Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+
- Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Mittwoc
- h%2C+22.07.2026+-+20%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-s
- pfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Mittwoch\, 22.07.2026 - 20:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VfL Kirchheim - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260722T200000
 DTEND;TZID=Europe/Berlin:20260722T220000
@@ -240,6 +170,22 @@ DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
  rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Samstag\, 15.08.2026 - 15:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren TSGV Waldstetten - SC Geislingen 08.08.2026 15 30 Samstag 1
+ 5.08.2026 - 15 30 Uhr Landesliga Sa 15.08.26 15 30 Landesliga ME 355923010
+  SC Geislingen FV Neuhausen
+DTSTART;TZID=Europe/Berlin:20260809T150000
+DTEND;TZID=Europe/Berlin:20260809T170000
+UID:355923007@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Stadion Eybacher Tal\, Eybacher Tal\, 73
+ 312 Geislingen an der Steige Sonntag\, 23.08.2026 - 15:30 Uhr\nGoogle Maps
+ : https://www.google.com/maps/search/?api=1&query=Stadion+Eybacher+Tal%2C+
+ Eybacher+Tal%2C+73312+Geislingen+an+der+Steige+Sonntag%2C+23.08.2026+-+15%
+ 3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertte
+ mberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Eybacher Tal\, Eybacher Tal\, 73312 Geislingen an der Ste
+ ige Sonntag\, 23.08.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren SC Geislingen - FV Neuhausen
