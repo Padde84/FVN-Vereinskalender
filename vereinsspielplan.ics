@@ -87,8 +87,8 @@ LOCATION:Stadion\, Mühlhaldenstr. 111\, 73770 Denkendorf Samstag\, 01.08.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSG Zell u.A. - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260725T150000
-DTEND;TZID=Europe/Berlin:20260725T170000
+DTSTART;TZID=Europe/Berlin:20260726T150000
+DTEND;TZID=Europe/Berlin:20260726T170000
 UID:550003335@fv-neuhausen
 DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
  Zell u.A.\, Göppinger Str.\, 73119 Zell unter Aichelberg Sonntag\, 02.08.
@@ -342,7 +342,7 @@ LOCATION:Sportplatz 1 Waldstetten\, Brunnengasse 41\, 73550 Waldstetten So
  nntag\, 30.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen / Wolfschlugen - TV Derendingen
+SUMMARY:SGM Neuhausen / Wolfschlugen - TV Derendingen 1
 DTSTART;TZID=Europe/Berlin:20260905T140000
 DTEND;TZID=Europe/Berlin:20260905T160000
 UID:550087010@fv-neuhausen
