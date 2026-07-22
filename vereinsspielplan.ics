@@ -115,7 +115,7 @@ LOCATION:Rasenplatz\, Röser-Arena Dorfmerkingen\, Felsenstr. 4\, 73450 Ne
  resheim Mittwoch\, 29.07.2026 - 18:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPV 05 Nürtingen - FV Neuhausen 2
+SUMMARY:Absetzung SPV 05 Nürtingen - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260802T140000
 DTEND;TZID=Europe/Berlin:20260802T160000
 UID:550003226@fv-neuhausen
@@ -170,22 +170,6 @@ DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
  rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Samstag\, 15.08.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren TSGV Waldstetten - SC Geislingen 08.08.2026 15 30 Samstag 1
- 5.08.2026 - 15 30 Uhr Landesliga Sa 15.08.26 15 30 Landesliga ME 355923010
-  SC Geislingen FV Neuhausen
-DTSTART;TZID=Europe/Berlin:20260809T150000
-DTEND;TZID=Europe/Berlin:20260809T170000
-UID:355923007@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: Stadion Eybacher Tal\, Eybacher Tal\, 73
- 312 Geislingen an der Steige Sonntag\, 23.08.2026 - 15:30 Uhr\nGoogle Maps
- : https://www.google.com/maps/search/?api=1&query=Stadion+Eybacher+Tal%2C+
- Eybacher+Tal%2C+73312+Geislingen+an+der+Steige+Sonntag%2C+23.08.2026+-+15%
- 3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertte
- mberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Eybacher Tal\, Eybacher Tal\, 73312 Geislingen an der Ste
- ige Sonntag\, 23.08.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren SC Geislingen - FV Neuhausen
