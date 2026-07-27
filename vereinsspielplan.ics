@@ -4,35 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:TSG Zell u.A. - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260726T150000
-DTEND;TZID=Europe/Berlin:20260726T170000
-UID:550003335@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
- Zell u.A.\, Göppinger Str.\, 73119 Zell unter Aichelberg Sonntag\, 02.08.
- 2026 - 15:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&q
- uery=Rasenplatz%2C+Hauptplatz+Zell+u.A.%2C+G%C3%B6ppinger+Str.%2C+73119+Ze
- ll+unter+Aichelberg+Sonntag%2C+02.08.2026+-+15%3A00+Uhr\nQuelle: https://w
- ww.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000AL
- VV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Hauptplatz Zell u.A.\, Göppinger Str.\, 73119 Zell 
- unter Aichelberg Sonntag\, 02.08.2026 - 15:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sf Dorfmerkingen 2 - FV Neuhausen
-DTSTART;TZID=Europe/Berlin:20260726T153000
-DTEND;TZID=Europe/Berlin:20260726T173000
-UID:950069009@fv-neuhausen
-DESCRIPTION:Verbands-Pokal\nSpielort: Rasenplatz\, Röser-Arena Dorfmerkin
- gen\, Felsenstr. 4\, 73450 Neresheim Mittwoch\, 29.07.2026 - 18:30 Uhr\nGo
- ogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+R
- %C3%B6ser-Arena+Dorfmerkingen%2C+Felsenstr.+4%2C+73450+Neresheim+Mittwoch%
- 2C+29.07.2026+-+18%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
- r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Röser-Arena Dorfmerkingen\, Felsenstr. 4\, 73450 Ne
- resheim Mittwoch\, 29.07.2026 - 18:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Absetzung SPV 05 Nürtingen - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260802T140000
 DTEND;TZID=Europe/Berlin:20260802T160000
@@ -134,6 +105,22 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Sonntag\, 16.08.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Herren TSV Bad Boll - TSGV Waldstetten 15.08.2026 17 30 Sonntag 23
+ .08.2026 - 15 00 Uhr Landesliga So 23.08.26 15 00 Landesliga ME 355923024 
+ FV Neuhausen TSV Bad Boll
+DTSTART;TZID=Europe/Berlin:20260816T150000
+DTEND;TZID=Europe/Berlin:20260816T170000
+UID:355923017@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
+ 65 Neuhausen auf den Fildern Samstag\, 29.08.2026 - 17:30 Uhr\nGoogle Maps
+ : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
+ lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+29.08.2026+-
+ +17%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 29.08.2026 - 17:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FV Neuhausen - Spvgg Cannstatt
 DTSTART;TZID=Europe/Berlin:20260819T193000
 DTEND;TZID=Europe/Berlin:20260819T213000
@@ -153,14 +140,14 @@ DTSTART;TZID=Europe/Berlin:20260822T110000
 DTEND;TZID=Europe/Berlin:20260822T130000
 UID:550087008@fv-neuhausen
 DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
- Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 29.08.2026 -
-  13:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=R
+ Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 12.09.2026 -
+  15:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=R
  asenplatz%2C+Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfs
- chlugen+Samstag%2C+29.08.2026+-+13%3A00+Uhr\nQuelle: https://www.fussball.
+ chlugen+Samstag%2C+12.09.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.
  de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPG
  ND5I
 LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
- lfschlugen Samstag\, 29.08.2026 - 13:00 Uhr
+ lfschlugen Samstag\, 12.09.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - TSV Bad Boll
@@ -377,51 +364,65 @@ DTSTART;TZID=Europe/Berlin:20260920T150000
 DTEND;TZID=Europe/Berlin:20260920T170000
 UID:356082031@fv-neuhausen
 DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Aspen\, Aspen 3\, 7
- 3269 Hochdorf Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) Spo
- rtgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsents
- cheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (be
- stätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spiela
- bbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden a
- ber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichta
- ntritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht anget
- reten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sons
- tiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E
- . Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt.
-  oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebni
- s bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft 
- spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream ode
- r Highlights vorhanden vorläufiges Spiel\nGoogle Maps: https://www.google
- .com/maps/search/?api=1&query=Stadion+Aspen%2C+Aspen+3%2C+73269+Hochdorf+M
- ehr+laden+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgeric
- htsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltung
- sentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung
- +Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspie
- l+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur
- %C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+B
- EIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEI
- M-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Ve
- rl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C
- 3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnis
- anzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschafte
- n+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A
- 4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfr
- ei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highl
- ights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/ve
- rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Mehr laden Legende Druck
- en Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annulier
- t Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabse
- tzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) T
- estspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zur
- ückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE 
- nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Man
- nschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlän
- gerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch n
- icht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staf
- fel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeich
- en spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFRE
- I An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Fot
- o oder Video vorhanden Livestream oder Highlights vorhanden vorläufiges S
- piel
+ 3269 Hochdorf Sonntag\, 27.09.2026 - 15:30 Uhr\nGoogle Maps: https://www.g
+ oogle.com/maps/search/?api=1&query=Stadion+Aspen%2C+Aspen+3%2C+73269+Hochd
+ orf+Sonntag%2C+27.09.2026+-+15%3A30+Uhr\nQuelle: https://www.fussball.de/v
+ erein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Sonntag\, 27.09.2026 - 1
+ 5:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren ASV Aichwald - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20260927T153000
+DTEND;TZID=Europe/Berlin:20260927T173000
+UID:356082033@fv-neuhausen
+DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Aichwald\, Krummhar
+ dter Str. 52\, 73773 Aichwald Mehr laden Legende Drucken Kürzel bei einem
+  Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V)
+  Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung 
+ Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt
+ ) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Erg
+ ebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Man
+ nschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt 
+ GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmet
+ erschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist ni
+ cht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistung
+ sbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer Kon
+ kurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat
+  die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorhande
+ n Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: ht
+ tps://www.google.com/maps/search/?api=1&query=Stadion+Aichwald%2C+Krummhar
+ dter+Str.+52%2C+73773+Aichwald+Mehr+laden+Legende+Drucken+K%C3%BCrzel+bei+
+ einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+A
+ nnullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4tigt%29+Absetzung+
+ Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall
+ +Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruc
+ h+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+a
+ ber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Mannschaften+Nichta
+ ntritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+anget
+ reten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9
+ Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+ni
+ cht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leistun
+ gsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fe
+ r+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+
+ Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhanden+Foto+oder+Video
+ +vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQu
+ elle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/0
+ 0ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Aichwald\, Krummhardter Str. 52\, 73773 Aichwald Mehr lad
+ en Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (best
+ ätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Abs
+ etzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spie
+ lausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Manns
+ chaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nich
+ tantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht ange
+ treten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft 
+ nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßze
+ it steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeig
+ e\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit d
+ iesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Live
+ ticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielberich
+ t vorhanden Foto oder Video vorhanden Livestream oder Highlights vorhanden
+  vorläufiges Spiel
 END:VEVENT
 END:VCALENDAR
