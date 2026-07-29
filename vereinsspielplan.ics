@@ -18,18 +18,27 @@ LOCATION:Rasenplatz\, Waldheim\, Helmut-Nauendorf-Weg 4\, 72622 Nürtingen
   Samstag\, 08.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen - SV Fellbach
+SUMMARY:Absetzung FV Neuhausen - SV Fellbach
 DTSTART;TZID=Europe/Berlin:20260802T140000
 DTEND;TZID=Europe/Berlin:20260802T160000
 UID:550006104@fv-neuhausen
-DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schlo
- ßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 15.08.2026 - 15:00 U
- hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+N
- euhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%
- 2C+15.08.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
- r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 15.08.2026 - 15:00 Uhr
+DESCRIPTION:Landesfreundschaftsspiele\nQuelle: https://www.fussball.de/ver
+ ein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSVgg Plattenhardt - FV Neuhausen
+DTSTART;TZID=Europe/Berlin:20260805T191500
+DTEND;TZID=Europe/Berlin:20260805T211500
+UID:550004442@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Rasenpl.Wei
+ lerhau Plattenhardt\, Weilerhau 2/1\, 70794 Filderstadt Sonntag\, 09.08.20
+ 26 - 17:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&que
+ ry=Rasenplatz%2C+Rasenpl.Weilerhau+Plattenhardt%2C+Weilerhau+2%2F1%2C+7079
+ 4+Filderstadt+Sonntag%2C+09.08.2026+-+17%3A00+Uhr\nQuelle: https://www.fus
+ sball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG0
+ 8LVUPGND5I
+LOCATION:Rasenplatz\, Rasenpl.Weilerhau Plattenhardt\, Weilerhau 2/1\, 707
+ 94 Filderstadt Sonntag\, 09.08.2026 - 17:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Birkach - FV Neuhausen 2
@@ -103,22 +112,6 @@ DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schl
  fr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Sonntag\, 16.08.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren TSV Bad Boll - TSGV Waldstetten 15.08.2026 17 30 Sonntag 23
- .08.2026 - 15 00 Uhr Landesliga So 23.08.26 15 00 Landesliga ME 355923024 
- FV Neuhausen TSV Bad Boll
-DTSTART;TZID=Europe/Berlin:20260816T150000
-DTEND;TZID=Europe/Berlin:20260816T170000
-UID:355923017@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
- 65 Neuhausen auf den Fildern Samstag\, 29.08.2026 - 17:30 Uhr\nGoogle Maps
- : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
- lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+29.08.2026+-
- +17%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
- rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 29.08.2026 - 17:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen - Spvgg Cannstatt
