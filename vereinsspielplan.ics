@@ -172,21 +172,6 @@ LOCATION:Rasenplatz\, Hauptplatz Großbettlingen\, Staufenbühl 1\, 72663
  Großbettlingen Sonntag\, 30.08.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen / Wolfschlugen - SV Bonlanden
-DTSTART;TZID=Europe/Berlin:20260829T130000
-DTEND;TZID=Europe/Berlin:20260829T150000
-UID:550087009@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
- Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 05.09.2026 -
-  14:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=R
- asenplatz%2C+Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfs
- chlugen+Samstag%2C+05.09.2026+-+14%3A00+Uhr\nQuelle: https://www.fussball.
- de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPG
- ND5I
-LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
- lfschlugen Samstag\, 05.09.2026 - 14:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herren TSGV Waldstetten - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260829T150000
 DTEND;TZID=Europe/Berlin:20260829T170000
@@ -213,60 +198,6 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Neuhausen\, Schloß
  neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Sonntag\, 06.09.2026 - 15:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM Neuhausen / Wolfschlugen - TV Derendingen 1
-DTSTART;TZID=Europe/Berlin:20260905T140000
-DTEND;TZID=Europe/Berlin:20260905T160000
-UID:550087010@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
- Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlugen Legende Drucken Kürze
- l bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annulli
- erung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (
- W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel 
- (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezoge
- n\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht ange
- tretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Ni
- chtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE 
- nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest 
- oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht 
- im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen
-  außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diese
- m Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Vid
- eo vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoog
- le Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Hau
- ptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlugen+Legende+
- Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%
- C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best
- %C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28b
- est%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tig
- t%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C
- +die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetre
- tene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nicht
- antritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE
- +nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noc
- h+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+
- Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennz
- eichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Livetic
- ker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+v
- orhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vo
- rl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuha
- usen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
- lfschlugen Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurte
- il (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bestät
- igt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausf
- all Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Die
- se Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eingerechn
- et. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEIM ni
- cht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Man
- nschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** Die A
- nstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebn
- isanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannschaft
- en mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestätigt L
- ive Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spi
- elbericht vorhanden Foto oder Video vorhanden Livestream oder Highlights v
- orhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren SC Altbach - FV Neuhausen 2
