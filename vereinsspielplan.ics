@@ -97,8 +97,14 @@ SUMMARY:Absetzung FV Neuhausen - Spvgg Cannstatt
 DTSTART;TZID=Europe/Berlin:20260819T193000
 DTEND;TZID=Europe/Berlin:20260819T213000
 UID:550006105@fv-neuhausen
-DESCRIPTION:Landesfreundschaftsspiele\nQuelle: https://www.fussball.de/ver
- ein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Stadion Meikenmichel Rude
+ rsberg\, Kirchenackerweg\, 73635 Rudersberg Samstag\, 22.08.2026 - 14:00 U
+ hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+M
+ eikenmichel+Rudersberg%2C+Kirchenackerweg%2C+73635+Rudersberg+Samstag%2C+2
+ 2.08.2026+-+14%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-ne
+ uhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Meikenmichel Rudersberg\, Kirchenackerweg\, 73635 Rudersb
+ erg Samstag\, 22.08.2026 - 14:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - SGM TV Echterdingen 1
