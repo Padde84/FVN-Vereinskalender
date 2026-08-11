@@ -165,6 +165,60 @@ LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
  lfschlugen Samstag\, 12.09.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SGM TSuGV Großbettlingen / GANR 1 - SGM Neuhausen / Wolfschlugen
+DTSTART;TZID=Europe/Berlin:20260906T103000
+DTEND;TZID=Europe/Berlin:20260906T123000
+UID:550023431@fv-neuhausen
+DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz G
+ roßbettlingen\, Staufenbühl 1\, 72663 Großbettlingen Legende Drucken K
+ ürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert An
+ nullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzun
+ g w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Tests
+ piel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückg
+ ezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht
+  angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannscha
+ ft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerun
+ g nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht 
+ fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel n
+ icht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen sp
+ ielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An 
+ diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto ode
+ r Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\
+ nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2
+ C+Hauptplatz+Gro%C3%9Fbettlingen%2C+Staufenb%C3%BChl+1%2C+72663+Gro%C3%9Fb
+ ettlingen+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgeric
+ htsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltung
+ sentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung
+ +Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspie
+ l+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur
+ %C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+B
+ EIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEI
+ M-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Ve
+ rl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C
+ 3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnis
+ anzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschafte
+ n+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A
+ 4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfr
+ ei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highl
+ ights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/ve
+ rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Großbettlingen\, Staufenbühl 1\, 72663 
+ Großbettlingen Legende Drucken Kürzel bei einem Spiel u (U) Sportgericht
+ surteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (be
+ stätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt)
+  Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg
+ . Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber einge
+ rechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HE
+ IM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAS
+ T-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** 
+ Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine E
+ rgebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Manns
+ chaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestät
+ igt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei
+ . Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highlig
+ hts vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Herren SC Altbach - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260906T151500
 DTEND;TZID=Europe/Berlin:20260906T171500
