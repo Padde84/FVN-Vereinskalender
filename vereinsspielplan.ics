@@ -77,6 +77,21 @@ LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
  lfschlugen Samstag\, 05.09.2026 - 13:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SGM Neuhausen / Wolfschlugen - TV Nellingen 1
+DTSTART;TZID=Europe/Berlin:20260830T103000
+DTEND;TZID=Europe/Berlin:20260830T123000
+UID:550087022@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
+ Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 05.09.2026 -
+  14:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=R
+ asenplatz%2C+Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfs
+ chlugen+Samstag%2C+05.09.2026+-+14%3A00+Uhr\nQuelle: https://www.fussball.
+ de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPG
+ ND5I
+LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
+ lfschlugen Samstag\, 05.09.2026 - 14:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Herren TSGV Waldstetten - FV Neuhausen 29.08.2026 15 00 Sonntag 06
  .09.2026 - 15 30 Uhr Landesliga So 06.09.26 15 30 Landesliga ME 355923041 
  TSV Bernhausen TSGV Waldstetten
@@ -141,13 +156,27 @@ DTSTART;TZID=Europe/Berlin:20260906T151500
 DTEND;TZID=Europe/Berlin:20260906T171500
 UID:356082009@fv-neuhausen
 DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Altbach\, Esslinger
-  Str. 106\, 73776 Altbach Sonntag\, 13.09.2026 - 15:30 Uhr\nGoogle Maps: h
+  Str. 106\, 73776 Altbach Sonntag\, 13.09.2026 - 15:00 Uhr\nGoogle Maps: h
  ttps://www.google.com/maps/search/?api=1&query=Stadion+Altbach%2C+Esslinge
- r+Str.+106%2C+73776+Altbach+Sonntag%2C+13.09.2026+-+15%3A30+Uhr\nQuelle: h
+ r+Str.+106%2C+73776+Altbach+Sonntag%2C+13.09.2026+-+15%3A00+Uhr\nQuelle: h
  ttps://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNA
  VO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Altbach\, Esslinger Str. 106\, 73776 Altbach Sonntag\, 13
- .09.2026 - 15:30 Uhr
+ .09.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSV Grafenberg 1 - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20260912T093000
+DTEND;TZID=Europe/Berlin:20260912T113000
+UID:560418001@fv-neuhausen
+DESCRIPTION:Bezirksturnier\nSpielort: Rasenplatz\, Hauptplatz Wolfschlugen
+ \, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 12.09.2026 - 10:18 Uhr\n
+ Google Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C
+ +Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlugen+Sams
+ tag%2C+12.09.2026+-+10%3A18+Uhr\nQuelle: https://www.fussball.de/verein/fv
+ -spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
+ lfschlugen Samstag\, 12.09.2026 - 10:18 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM TV Echterdingen 2 - SGM Neuhausen/Wolfschlugen 2
@@ -203,6 +232,20 @@ LOCATION:Kunstrasenplatz\, Kunstr.pl Sportpark Goldäcker\, Leinfelder Str
  kurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat
   die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorhande
  n Livestream oder Highlights vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen 1 - TSV Neckartailfingen
+DTSTART;TZID=Europe/Berlin:20260912T100600
+DTEND;TZID=Europe/Berlin:20260912T120600
+UID:560419003@fv-neuhausen
+DESCRIPTION:Bezirksturnier\nSpielort: Rasenplatz\, Hauptplatz Wolfschlugen
+ \, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 12.09.2026 - 10:30 Uhr\n
+ Google Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C
+ +Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlugen+Sams
+ tag%2C+12.09.2026+-+10%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv
+ -spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
+ lfschlugen Samstag\, 12.09.2026 - 10:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - TSV Bernhausen 11.09.2026 19 30 Mittwoch 16.
