@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Absetzung FV Neuhausen - Spvgg Cannstatt
-DTSTART;TZID=Europe/Berlin:20260819T193000
-DTEND;TZID=Europe/Berlin:20260819T213000
-UID:550006105@fv-neuhausen
-DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Stadion Meikenmichel Rude
- rsberg\, Kirchenackerweg\, 73635 Rudersberg Samstag\, 22.08.2026 - 14:00 U
- hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+M
- eikenmichel+Rudersberg%2C+Kirchenackerweg%2C+73635+Rudersberg+Samstag%2C+2
- 2.08.2026+-+14%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-ne
- uhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Meikenmichel Rudersberg\, Kirchenackerweg\, 73635 Rudersb
- erg Samstag\, 22.08.2026 - 14:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - SGM TV Echterdingen 1
 DTSTART;TZID=Europe/Berlin:20260822T110000
 DTEND;TZID=Europe/Berlin:20260822T130000
@@ -92,19 +78,14 @@ LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
  lfschlugen Samstag\, 05.09.2026 - 14:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Herren TSGV Waldstetten - FV Neuhausen 29.08.2026 15 00 Sonntag 06
- .09.2026 - 15 30 Uhr Landesliga So 06.09.26 15 30 Landesliga ME 355923041 
- TSV Bernhausen TSGV Waldstetten
+SUMMARY:Herren TSGV Waldstetten - FV Neuhausen 29.08.2026 15 00 Mittwoch 0
+ 2.09.2026 - 17 15 Uhr Verbands-Pokal Mi 02.09.26 17 15 Verbands-Pokal PO 9
+ 50201001 TSGV Waldstetten SV Stuttgarter Kickers
 DTSTART;TZID=Europe/Berlin:20260830T150000
 DTEND;TZID=Europe/Berlin:20260830T170000
 UID:355923034@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: stadion\, Dombasler Str. 8\, 70794 Filde
- rstadt Sonntag\, 13.09.2026 - 15:00 Uhr\nGoogle Maps: https://www.google.c
- om/maps/search/?api=1&query=stadion%2C+Dombasler+Str.+8%2C+70794+Fildersta
- dt+Sonntag%2C+13.09.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/ve
- rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:stadion\, Dombasler Str. 8\, 70794 Filderstadt Sonntag\, 13.09.20
- 26 - 15:00 Uhr
+DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
+ hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - TB Ruit
@@ -156,13 +137,13 @@ DTSTART;TZID=Europe/Berlin:20260906T151500
 DTEND;TZID=Europe/Berlin:20260906T171500
 UID:356082009@fv-neuhausen
 DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Altbach\, Esslinger
-  Str. 106\, 73776 Altbach Sonntag\, 13.09.2026 - 15:00 Uhr\nGoogle Maps: h
+  Str. 106\, 73776 Altbach Sonntag\, 13.09.2026 - 15:30 Uhr\nGoogle Maps: h
  ttps://www.google.com/maps/search/?api=1&query=Stadion+Altbach%2C+Esslinge
- r+Str.+106%2C+73776+Altbach+Sonntag%2C+13.09.2026+-+15%3A00+Uhr\nQuelle: h
+ r+Str.+106%2C+73776+Altbach+Sonntag%2C+13.09.2026+-+15%3A30+Uhr\nQuelle: h
  ttps://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNA
  VO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Altbach\, Esslinger Str. 106\, 73776 Altbach Sonntag\, 13
- .09.2026 - 15:00 Uhr
+ .09.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Grafenberg 1 - FV Neuhausen 2
@@ -248,6 +229,61 @@ LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
  lfschlugen Samstag\, 12.09.2026 - 10:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SV Vaihingen Allianz 2 - SGM Neuhausen / Wolfschlugen
+DTSTART;TZID=Europe/Berlin:20260913T100000
+DTEND;TZID=Europe/Berlin:20260913T120000
+UID:550061066@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
+ asenplatz TSV Georgii Allianz\, Heßbrühlstr. 40\, 70565 Stuttgart Legend
+ e Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) A
+ nnuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Sp
+ ielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall 
+ t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wur
+ de zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt 
+ BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten HE
+ IM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach V
+ erlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht 
+ noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da di
+ e Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Ken
+ nzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SP
+ IELFREI An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhand
+ en Foto oder Video vorhanden Livestream oder Highlights vorhanden vorläuf
+ iges Spiel\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=K
+ unstrasenplatz%2C+Kunstrasenplatz+TSV+Georgii+Allianz%2C+He%C3%9Fbr%C3%BCh
+ lstr.+40%2C+70565+Stuttgart+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+
+ %28U%29+Sportgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+
+ %28V%29+Verwaltungsentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung
+ +w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+
+ t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Ma
+ nnschaft+wurde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechn
+ et.+Nichtantritt+BEIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+ni
+ cht+angetreten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Man
+ nschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+
+ %2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o
+ .E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spie
+ lt.+oW+Mannschaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+
+ Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+
+ Mannschaft+spielfrei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Liv
+ estream+oder+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://
+ www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000A
+ LVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Georgii Allianz\, Heßbrüh
+ lstr. 40\, 70565 Stuttgart Legende Drucken Kürzel bei einem Spiel u (U) S
+ portgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsen
+ tscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (
+ bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spie
+ labbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden
+  aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nich
+ tantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht ang
+ etreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen So
+ nstiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o
+ .E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spiel
+ t. oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergeb
+ nis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaf
+ t spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream o
+ der Highlights vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - TSV Bernhausen 11.09.2026 19 30 Mittwoch 16.
  09.2026 - 18 30 Uhr Landesliga Mi 16.09.26 18 30 Landesliga ME 355923058 T
  SV Weilimdorf FV Neuhausen
@@ -260,8 +296,8 @@ DESCRIPTION:Landesliga\nSpielort: Kunstrasenplatz\, Kunstrasenplatz TSV We
  platz%2C+Kunstrasenplatz+TSV+Weilimdorf%2C+Giebelstr.+66%2C+70499+Stuttgar
  t+Sonntag%2C+20.09.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/ver
  ein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Weilimdorf\, Giebelstr. 66\
- , 70499 Stuttgart Sonntag\, 20.09.2026 - 15:00 Uhr
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Weilimdorf\, Giebelstr. 66
+ \, 70499 Stuttgart Sonntag\, 20.09.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - TSV Denkendorf 2
@@ -309,54 +345,14 @@ SUMMARY:Herren Sf Dorfmerkingen 2 - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260926T153000
 DTEND;TZID=Europe/Berlin:20260926T173000
 UID:355923074@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: Rasenplatz\, Röser-Arena Dorfmerkingen\
- , Felsenstr. 4\, 73450 Neresheim Mehr laden Legende Drucken Kürzel bei ei
- nem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v 
- (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertu
- ng Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestät
- igt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die 
- Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene 
- Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantri
- tt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elf
- meterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist
-  nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leist
- ungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer 
- Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum 
- hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorha
- nden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps:
-  https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+R%C3%B6ser-
- Arena+Dorfmerkingen%2C+Felsenstr.+4%2C+73450+Neresheim+Mehr+laden+Legende+
- Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%
- C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best
- %C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28b
- est%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tig
- t%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C
- +die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetre
- tene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nicht
- antritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE
- +nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noc
- h+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+
- Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennz
- eichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Livetic
- ker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+v
- orhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vo
- rl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuha
- usen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesliga\nSpielort: Rasenplatz\, Röser-Arena Dorfmerkingen
+ \, Felsenstr. 4\, 73450 Neresheim Sonntag\, 04.10.2026 - 15:00 Uhr\nGoogle
+  Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+R%C3%
+ B6ser-Arena+Dorfmerkingen%2C+Felsenstr.+4%2C+73450+Neresheim+Sonntag%2C+04
+ .10.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
+ hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Röser-Arena Dorfmerkingen\, Felsenstr. 4\, 73450 Ne
- resheim Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) Sportgeri
- chtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid 
- (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestäti
- gt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch
-  zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber ei
- ngerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt
-  HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten 
- GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges 
- ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Kein
- e Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Ma
- nnschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis best
- ätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielf
- rei. Spielbericht vorhanden Foto oder Video vorhanden Livestream oder High
- lights vorhanden vorläufiges Spiel
+ resheim Sonntag\, 04.10.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren ASV Aichwald - FV Neuhausen 2
@@ -369,8 +365,8 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Aichwald\, Krummhar
  mmhardter+Str.+52%2C+73773+Aichwald+Sonntag%2C+04.10.2026+-+13%3A00+Uhr\nQ
  uelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/
  00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Aichwald\, Krummhardter Str. 52\, 73773 Aichwald Sonntag\
- , 04.10.2026 - 13:00 Uhr
+LOCATION:Stadion Aichwald\, Krummhardter Str. 52\, 73773 Aichwald Sonntag
+ \, 04.10.2026 - 13:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - TSG Esslingen
@@ -385,6 +381,60 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Neuhausen\, Schloß
  neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Sonntag\, 11.10.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren FV Neuhausen - 1. FC Eislingen
+DTSTART;TZID=Europe/Berlin:20261004T150000
+DTEND;TZID=Europe/Berlin:20261004T170000
+UID:355923087@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
+ 65 Neuhausen auf den Fildern Mehr laden Legende Drucken Kürzel bei einem 
+ Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V) 
+ Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung S
+ pielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt)
+  Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Erge
+ bnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mann
+ schaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt G
+ AST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmete
+ rschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist nic
+ ht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungs
+ betrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer Konk
+ urrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat 
+ die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden
+  Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: htt
+ ps://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Schlo%C3
+ %9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Mehr+laden+Legende+Drucken+K
+ %C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4tigt
+ %29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4tig
+ t%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4
+ tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbr
+ uch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Erge
+ bnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Mann
+ schaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt+G
+ AST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elf
+ meterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+f
+ est+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+n
+ icht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+sp
+ ielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIEL
+ FREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhanden+
+ Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A4u
+ figes+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuer
+ ttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichts
+ urteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bes
+ tätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) 
+ Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg.
+  Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber einger
+ echnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEI
+ M nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST
+ -Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** D
+ ie Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Er
+ gebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannsc
+ haften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestäti
+ gt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei.
+  Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highligh
+ ts vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren SG Eintracht Sirnau - FV Neuhausen 2
@@ -433,25 +483,25 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Hauptplatz Keh
  icht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen sp
  ielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An 
  diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto ode
- r Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\
- nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2
- C+Hauptplatz+Kehlenberg%2C+Herdweg+25%2C+73249+Wernau+%28Neckar%29+Mehr+la
- den+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurt
- eil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentsc
- heid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spiel
- instanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28b
- est%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BC
- ckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+n
- icht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mann
- schaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%
- A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fze
- it+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeig
- e%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+
- diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+
- Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Sp
- ielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+
- vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/f
- v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ r Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel
+ \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%
+ 2C+Hauptplatz+Kehlenberg%2C+Herdweg+25%2C+73249+Wernau+%28Neckar%29+Mehr+l
+ aden+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsur
+ teil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsents
+ cheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spie
+ linstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28
+ best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%B
+ Cckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+
+ nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Man
+ nschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3
+ %A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fz
+ eit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzei
+ ge%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit
+ +diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt
+ +Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+S
+ pielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights
+ +vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/
+ fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Hauptplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (N
  eckar) Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) Sportgeric
  htsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (
