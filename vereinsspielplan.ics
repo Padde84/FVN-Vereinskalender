@@ -4,19 +4,12 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen / Wolfschlugen - SGM TV Echterdingen 1
+SUMMARY:Absetzung SGM Neuhausen / Wolfschlugen - SGM TV Echterdingen 1
 DTSTART;TZID=Europe/Berlin:20260822T110000
 DTEND;TZID=Europe/Berlin:20260822T130000
 UID:550087008@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
- Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 12.09.2026 -
-  15:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=R
- asenplatz%2C+Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfs
- chlugen+Samstag%2C+12.09.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.
- de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPG
- ND5I
-LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
- lfschlugen Samstag\, 12.09.2026 - 15:00 Uhr
+DESCRIPTION:Bezirksfreundschaftsspiele\nQuelle: https://www.fussball.de/ve
+ rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Altdorf 2 / Großbettlingen 2 - FV Neuhausen 2
@@ -84,8 +77,14 @@ SUMMARY:Herren TSGV Waldstetten - FV Neuhausen 29.08.2026 15 00 Mittwoch 0
 DTSTART;TZID=Europe/Berlin:20260830T150000
 DTEND;TZID=Europe/Berlin:20260830T170000
 UID:355923034@fv-neuhausen
-DESCRIPTION:Landesliga\nQuelle: https://www.fussball.de/verein/fv-spfr-neu
- hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Landesliga\nSpielort: Sportplatz 1 Waldstetten\, Brunnengasse 
+ 41\, 73550 Waldstetten Sonntag\, 06.09.2026 - 15:30 Uhr\nGoogle Maps: http
+ s://www.google.com/maps/search/?api=1&query=Sportplatz+1+Waldstetten%2C+Br
+ unnengasse+41%2C+73550+Waldstetten+Sonntag%2C+06.09.2026+-+15%3A30+Uhr\nQu
+ elle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/0
+ 0ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Sportplatz 1 Waldstetten\, Brunnengasse 41\, 73550 Waldstetten So
+ nntag\, 06.09.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - TB Ruit
