@@ -42,8 +42,8 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - SV Bonlanden
-DTSTART;TZID=Europe/Berlin:20260829T130000
-DTEND;TZID=Europe/Berlin:20260829T150000
+DTSTART;TZID=Europe/Berlin:20260829T110000
+DTEND;TZID=Europe/Berlin:20260829T130000
 UID:550087009@fv-neuhausen
 DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz 
  Wolfschlugen\, Nürtinger Str.\, 72649 Wolfschlugen Samstag\, 05.09.2026 -
