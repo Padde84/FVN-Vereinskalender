@@ -4,14 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:Absetzung SGM Neuhausen / Wolfschlugen - SGM TV Echterdingen 1
-DTSTART;TZID=Europe/Berlin:20260822T110000
-DTEND;TZID=Europe/Berlin:20260822T130000
-UID:550087008@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nQuelle: https://www.fussball.de/ve
- rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SGM Altdorf 2 / Großbettlingen 2 - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260823T130000
 DTEND;TZID=Europe/Berlin:20260823T150000
