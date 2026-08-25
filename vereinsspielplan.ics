@@ -84,14 +84,14 @@ DTSTART;TZID=Europe/Berlin:20260906T103000
 DTEND;TZID=Europe/Berlin:20260906T123000
 UID:550023431@fv-neuhausen
 DESCRIPTION:Landesfreundschaftsspiele\nSpielort: Rasenplatz\, Hauptplatz G
- roßbettlingen\, Staufenbühl 1\, 72663 Großbettlingen Sonntag\, 13.09.20
- 26 - 10:03 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&que
+ roßbettlingen\, Staufenbühl 1\, 72663 Großbettlingen Freitag\, 11.09.20
+ 26 - 18:30 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&que
  ry=Rasenplatz%2C+Hauptplatz+Gro%C3%9Fbettlingen%2C+Staufenb%C3%BChl+1%2C+7
- 2663+Gro%C3%9Fbettlingen+Sonntag%2C+13.09.2026+-+10%3A03+Uhr\nQuelle: http
+ 2663+Gro%C3%9Fbettlingen+Freitag%2C+11.09.2026+-+18%3A30+Uhr\nQuelle: http
  s://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0
  000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Hauptplatz Großbettlingen\, Staufenbühl 1\, 72663 
- Großbettlingen Sonntag\, 13.09.2026 - 10:03 Uhr
+ Großbettlingen Freitag\, 11.09.2026 - 18:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren SC Altbach - FV Neuhausen 2
@@ -244,6 +244,14 @@ LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Georgii Allianz\, Heßbrüh
  nis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaf
  t spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream o
  der Highlights vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spvgg Möhringen 1 - SGM Neuhausen/Wolfschlugen 1
+DTSTART;TZID=Europe/Berlin:20260913T100000
+DTEND;TZID=Europe/Berlin:20260913T120000
+UID:550092073@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nQuelle: https://www.fussball.de/ve
+ rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - TSV Bernhausen 11.09.2026 19 30 Mittwoch 16.
