@@ -232,6 +232,35 @@ LOCATION:Rasenplatz\, Hauptplatz Oberesslingen\, Breslauer Str. 5\, 73730
  Esslingen am Neckar Samstag\, 26.09.2026 - 12:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FV Neuhausen 1 - TSV Wernau
+DTSTART;TZID=Europe/Berlin:20260919T133000
+DTEND;TZID=Europe/Berlin:20260919T153000
+UID:350072002@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Mittwoch\, 23.09.2026 - 19:
+ 00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasen
+ platz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf
+ +den+Fildern+Mittwoch%2C+23.09.2026+-+19%3A00+Uhr\nQuelle: https://www.fus
+ sball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG0
+ 8LVUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Mittwoch\, 23.09.2026 - 19:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM TSV Scharnhausen / TB Ruit 3 (FSG Ostfildern) - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20260919T133000
+DTEND;TZID=Europe/Berlin:20260919T153000
+UID:350078002@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Ruit\, Ta
+ lwiesen 1\, 73760 Ostfildern Mittwoch\, 23.09.2026 - 18:00 Uhr\nGoogle Map
+ s: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+Kuns
+ trasen+Ruit%2C+Talwiesen+1%2C+73760+Ostfildern+Mittwoch%2C+23.09.2026+-+18
+ %3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertt
+ emberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Ruit\, Talwiesen 1\, 73760 Ostfilder
+ n Mittwoch\, 23.09.2026 - 18:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TSV RSK Esslingen 1 - SGM Neuhausen/Wolfschlugen 1
 DTSTART;TZID=Europe/Berlin:20260919T150000
 DTEND;TZID=Europe/Berlin:20260919T170000
@@ -247,8 +276,8 @@ LOCATION:Rasenplatz\, Hauptplatz RSK\, Rüderner Heideweg / über Gollenst
  rasse\, 73733 Esslingen am Neckar Samstag\, 26.09.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen 2 - SGM TSV Grötzingen/Neckartailfinge
- n 1
+SUMMARY:SGM Neuhausen/Wolfschlugen 2 - SGM TSGV Rechberg/Donzdorf/Reichenb
+ ach u R
 DTSTART;TZID=Europe/Berlin:20260919T150000
 DTEND;TZID=Europe/Berlin:20260919T170000
 UID:356113001@fv-neuhausen
@@ -304,6 +333,20 @@ LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Sonntag\, 27.09.2026 - 1
  5:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FV Neuhausen 2 - TSV RSK Esslingen 1
+DTSTART;TZID=Europe/Berlin:20260923T180000
+DTEND;TZID=Europe/Berlin:20260923T200000
+UID:350078006@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Samstag\, 26.09.2026 - 13:30 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+26.09.2026
+ +-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 26.09.2026 - 13:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Herren TSV Weilimdorf - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20260923T190000
 DTEND;TZID=Europe/Berlin:20260923T210000
@@ -316,6 +359,20 @@ DESCRIPTION:Landesliga\nSpielort: Kunstrasenplatz\, Kunstrasenplatz TSV We
  ein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Weilimdorf\, Giebelstr. 66
  \, 70499 Stuttgart Samstag\, 26.09.2026 - 13:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSV Deizisau 2 - FV Neuhausen 1
+DTSTART;TZID=Europe/Berlin:20260923T190000
+DTEND;TZID=Europe/Berlin:20260923T210000
+UID:350072005@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Hintere H
+ alde\, Hintere Halde\, 73779 Deizisau Samstag\, 26.09.2026 - 13:30 Uhr\nGo
+ ogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz
+ %2C+Kunstrasen+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Samstag%2C
+ +26.09.2026+-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
+ neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Hintere Halde\, Hintere Halde\, 7377
+ 9 Deizisau Samstag\, 26.09.2026 - 13:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. FC Eislingen 2 - SGM Neuhausen / Wolfschlugen
@@ -387,6 +444,36 @@ DESCRIPTION:Landesliga\nSpielort: Rasenplatz\, Röser-Arena Dorfmerkingen
  hausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Röser-Arena Dorfmerkingen\, Felsenstr. 4\, 73450 Ne
  resheim Sonntag\, 04.10.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen 1 - SGM TSV Scharnhausen / TB Ruit 2 (FSG Ostfildern)
+DTSTART;TZID=Europe/Berlin:20260926T133000
+DTEND;TZID=Europe/Berlin:20260926T153000
+UID:350072010@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 10.10.2026 - 13:3
+ 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
+ latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
+ den+Fildern+Samstag%2C+10.10.2026+-+13%3A30+Uhr\nQuelle: https://www.fussb
+ all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
+ VUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 10.10.2026 - 13:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSV Wäldenbronn-Esslingen 1 - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20260926T133000
+DTEND;TZID=Europe/Berlin:20260926T153000
+UID:350078011@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Schulzent
+ rum Nord\, Barbarossastr. 85\, 73732 Esslingen am Neckar Samstag\, 10.10.2
+ 026 - 13:30 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&qu
+ ery=Kunstrasenplatz%2C+Kunstrasen+Schulzentrum+Nord%2C+Barbarossastr.+85%2
+ C+73732+Esslingen+am+Neckar+Samstag%2C+10.10.2026+-+13%3A30+Uhr\nQuelle: h
+ ttps://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNA
+ VO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Schulzentrum Nord\, Barbarossastr. 8
+ 5\, 73732 Esslingen am Neckar Samstag\, 10.10.2026 - 13:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen/Wolfschlugen 1 - SGM Notzingen/Reichenbach/Hochdorf 
@@ -557,6 +644,33 @@ LOCATION:Kunstrasenplatz\, Kunstrasen Ruit\, Talwiesen 1\, 73760 Ostfilder
  n Samstag\, 17.10.2026 - 12:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SGM Hochdorf / Reichenbach / Notzingen (RHN) 2 - FV Neuhausen 1
+DTSTART;TZID=Europe/Berlin:20261010T133000
+DTEND;TZID=Europe/Berlin:20261010T153000
+UID:350072015@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Aspen\, Aspen 3\, 73269 Hochdo
+ rf Samstag\, 17.10.2026 - Uhr\nGoogle Maps: https://www.google.com/maps/se
+ arch/?api=1&query=Stadion+Aspen%2C+Aspen+3%2C+73269+Hochdorf+Samstag%2C+17
+ .10.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Samstag\, 17.10.2026 - U
+ hr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen 2 - TSV Wolfschlugen 1
+DTSTART;TZID=Europe/Berlin:20261010T133000
+DTEND;TZID=Europe/Berlin:20261010T153000
+UID:350078014@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Samstag\, 17.10.2026 - 13:30 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+17.10.2026
+ +-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 17.10.2026 - 13:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SGM VfB Oberesslingen/Zell/1845 ES 1 - SGM Neuhausen/Wolfschlugen 
  1
 DTSTART;TZID=Europe/Berlin:20261010T150000
@@ -717,6 +831,60 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Samstag\, 24.10.2026 - 11:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FV Neuhausen 2 - SG Eintracht Sirnau 2
+DTSTART;TZID=Europe/Berlin:20261017T133000
+DTEND;TZID=Europe/Berlin:20261017T153000
+UID:350078018@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Mehr laden Legende Drucken Kürzel bei eine
+ m Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V
+ ) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung
+  Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätig
+ t) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Er
+ gebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Ma
+ nnschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt
+  GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfme
+ terschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist n
+ icht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistun
+ gsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer Ko
+ nkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum ha
+ t die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorhand
+ en Livestream oder Highlights vorhanden vorläufiges Spiel\nGoogle Maps: h
+ ttps://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Schlo%
+ C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Mehr+laden+Legende+Drucken
+ +K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4ti
+ gt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4t
+ igt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%
+ A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Ab
+ bruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Er
+ gebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Ma
+ nnschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt
+ +GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+E
+ lfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht
+ +fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel
+ +nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+
+ spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPI
+ ELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhande
+ n+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A
+ 4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wu
+ erttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichts
+ urteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bes
+ tätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) 
+ Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg.
+  Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber einger
+ echnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEI
+ M nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST
+ -Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** D
+ ie Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Er
+ gebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannsc
+ haften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestäti
+ gt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei.
+  Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highligh
+ ts vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SGM TSV Scharnhausen/TB Ruit 1 (FSG Ostfildern) - SGM Neuhausen/Wo
  lfschlugen 1
 DTSTART;TZID=Europe/Berlin:20261017T150000
@@ -830,6 +998,61 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ts vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FV Neuhausen 1 - TSG Esslingen
+DTSTART;TZID=Europe/Berlin:20261021T180000
+DTEND;TZID=Europe/Berlin:20261021T200000
+UID:350072022@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
+ hloßstr. 80\, 73765 Neuhausen auf den Fildern Mehr laden Legende Drucken 
+ Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert A
+ nnullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzu
+ ng w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Test
+ spiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurück
+ gezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nich
+ t angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannsch
+ aft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängeru
+ ng nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht
+  fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel 
+ nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen s
+ pielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An
+  diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto od
+ er Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel
+ \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%
+ 2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+F
+ ildern+Mehr+laden+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sp
+ ortgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Ve
+ rwaltungsentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29
+ +Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+
+ Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+w
+ urde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichta
+ ntritt+BEIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetr
+ eten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV
+ +nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die
+ +Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+
+ Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Man
+ nschaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+b
+ est%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft
+ +spielfrei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+od
+ er+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussba
+ ll.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LV
+ UPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Mehr laden Legende Drucken Kürzel bei einem Spiel u (
+ U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltun
+ gsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinsta
+ nz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch 
+ Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse we
+ rden aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften 
+ Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht
+  angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschieße
+ n Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekann
+ t. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb s
+ pielt. oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. E
+ rgebnis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Manns
+ chaft spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestre
+ am oder Highlights vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - ASV Aichwald 2 (5)
 DTSTART;TZID=Europe/Berlin:20261023T180000
 DTEND;TZID=Europe/Berlin:20261023T200000
@@ -885,7 +1108,8 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Samstag\, 07.11.2026 - 12:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen 2 - TSV Wäldenbronn- Esslingen 1
+SUMMARY:SGM Neuhausen/Wolfschlugen 2 - SGM TSV Grötzingen/Neckartailfinge
+ n 1
 DTSTART;TZID=Europe/Berlin:20261024T150000
 DTEND;TZID=Europe/Berlin:20261024T170000
 UID:356113021@fv-neuhausen
