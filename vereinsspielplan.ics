@@ -438,13 +438,13 @@ DTSTART;TZID=Europe/Berlin:20260926T150000
 DTEND;TZID=Europe/Berlin:20260926T170000
 UID:356108007@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 10.10.2026 - 15:00 Uhr\nGoogle Ma
+ 3765 Neuhausen auf den Fildern Samstag\, 03.10.2026 - 13:30 Uhr\nGoogle Ma
  ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+10.10.2026
- +-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+03.10.2026
+ +-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
  uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 10.10.2026 - 15:00 Uhr
+ ern Samstag\, 03.10.2026 - 13:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SV Ebersbach/Fils 2 - SGM Neuhausen/Wolfschlugen 2
@@ -512,6 +512,20 @@ DTEND;TZID=Europe/Berlin:20260930T210000
 UID:950200011@fv-neuhausen
 DESCRIPTION:Bezirkspokal\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/Wolfschlugen 1 - Kleinfeldturnier 13 30-16 30
+DTSTART;TZID=Europe/Berlin:20261003T133000
+DTEND;TZID=Europe/Berlin:20261003T153000
+UID:550029091@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schl
+ oßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 10.10.2026 - 15:00 
+ Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+
+ Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag
+ %2C+10.10.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-sp
+ fr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 10.10.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - SC Altbach 1
