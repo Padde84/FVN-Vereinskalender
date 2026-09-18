@@ -4,34 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 2 - AC Catania Kirchheim/Teck
-DTSTART;TZID=Europe/Berlin:20260917T193000
-DTEND;TZID=Europe/Berlin:20260917T213000
-UID:950024126@fv-neuhausen
-DESCRIPTION:Bezirkspokal\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Sonntag\, 20.09.2026 - 15:00 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%2C+20.09.2026
- +-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Sonntag\, 20.09.2026 - 15:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FV Neuhausen 2 - AC Catania Kirchheim
-DTSTART;TZID=Europe/Berlin:20260918T180000
-DTEND;TZID=Europe/Berlin:20260918T200000
-UID:350101003@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Freitag\, 25.09.2026 - 18:00 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Freitag%2C+25.09.2026
- +-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Freitag\, 25.09.2026 - 18:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VfB Oberesslingen/Zell 4 - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20260919T110000
 DTEND;TZID=Europe/Berlin:20260919T130000
@@ -164,8 +136,8 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TV Hochdorf - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260920T150000
-DTEND;TZID=Europe/Berlin:20260920T170000
+DTSTART;TZID=Europe/Berlin:20260920T153000
+DTEND;TZID=Europe/Berlin:20260920T173000
 UID:356082031@fv-neuhausen
 DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Aspen\, Aspen 3\, 7
  3269 Hochdorf Sonntag\, 27.09.2026 - 15:30 Uhr\nGoogle Maps: https://www.g
@@ -230,20 +202,6 @@ DESCRIPTION:Bezirkspokal\nSpielort: Rasenplatz\, Nebenplatz Rasen Eichenba
  pfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Nebenplatz Rasen Eichenbachst.\, Haldenstr. 45\, 730
  54 Eislingen Sonntag\, 27.09.2026 - 10:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TSV Deizisau 3 - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260925T180000
-DTEND;TZID=Europe/Berlin:20260925T200000
-UID:350101008@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Hintere H
- alde\, Hintere Halde\, 73779 Deizisau Freitag\, 02.10.2026 - Uhr\nGoogle M
- aps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+Ku
- nstrasen+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Freitag%2C+02.10
- .2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuer
- ttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Hintere Halde\, Hintere Halde\, 7377
- 9 Deizisau Freitag\, 02.10.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 1 - TSV Köngen 1
@@ -456,6 +414,20 @@ DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
  rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Sonntag\, 11.10.2026 - 15:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen 2 - AC Catania Kirchheim
+DTSTART;TZID=Europe/Berlin:20261007T180000
+DTEND;TZID=Europe/Berlin:20261007T200000
+UID:350101003@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Freitag\, 09.10.2026 - 18:00 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Freitag%2C+09.10.2026
+ +-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Freitag\, 09.10.2026 - 18:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - TSV Berkheim 3
@@ -1413,53 +1385,13 @@ DTSTART;TZID=Europe/Berlin:20261115T123000
 DTEND;TZID=Europe/Berlin:20261115T143000
 UID:356082094@fv-neuhausen
 DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Neuhausen\, Schloß
- str. 80\, 73765 Neuhausen auf den Fildern Mehr laden Legende Drucken Kürz
- el bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annull
- ierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w 
- (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel
-  (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezog
- en\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht ang
- etretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft N
- ichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE
-  nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest
-  oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht
-  im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spiele
- n außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An dies
- em Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Vi
- deo vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoo
- gle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhause
- n%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Mehr+laden+Lege
- nde+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%28b
- est%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+%28
- best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinstanz+
- %28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C3%A
- 4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezoge
- n%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+ang
- etretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaft+N
- ichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerun
- g+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht
- +noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+
- die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diesem+K
- ennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liv
- eticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielberic
- ht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorhande
- n+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ str. 80\, 73765 Neuhausen auf den Fildern Samstag\, 21.11.2026 - 15:30 Uhr
+ \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+Neu
+ hausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C
+ +21.11.2026+-+15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
+ neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) Sportgerichts
- urteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (bes
- tätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt) 
- Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg.
-  Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber einger
- echnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HEI
- M nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAST
- -Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** D
- ie Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine Er
- gebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mannsc
- haften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestäti
- gt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei.
-  Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highligh
- ts vorhanden vorläufiges Spiel
+ ern Samstag\, 21.11.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - VfL Sindelfingen
@@ -1568,6 +1500,61 @@ LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
  ive Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spi
  elbericht vorhanden Foto oder Video vorhanden Livestream oder Highlights v
  orhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren TSV Berkheim - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20261121T153000
+DTEND;TZID=Europe/Berlin:20261121T173000
+UID:356082101@fv-neuhausen
+DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Kunstrasenplatz\, Kunstrase
+ n Berkheim\, Jakobstr. 91\, 73734 Esslingen am Neckar Mehr laden Legende D
+ rucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annu
+ liert Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spiel
+ absetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (
+ T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde 
+ zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEI
+ DE nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-
+ Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verl
+ ängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noc
+ h nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die S
+ taffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennze
+ ichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIEL
+ FREI An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden 
+ Foto oder Video vorhanden Livestream oder Highlights vorhanden vorläufige
+ s Spiel\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kuns
+ trasenplatz%2C+Kunstrasen+Berkheim%2C+Jakobstr.+91%2C+73734+Esslingen+am+N
+ eckar+Mehr+laden+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Spo
+ rtgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Ver
+ waltungsentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+
+ Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+T
+ estspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wu
+ rde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtan
+ tritt+BEIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetre
+ ten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+
+ nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+
+ Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+E
+ rgebnisanzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mann
+ schaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+be
+ st%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+
+ spielfrei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+ode
+ r+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussbal
+ l.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVU
+ PGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Berkheim\, Jakobstr. 91\, 73734 Essl
+ ingen am Neckar Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) S
+ portgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsen
+ tscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (
+ bestätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spie
+ labbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden
+  aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nich
+ tantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht ang
+ etreten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen So
+ nstiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o
+ .E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spiel
+ t. oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergeb
+ nis bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaf
+ t spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream o
+ der Highlights vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Göppinger SV 2 - SGM Neuhausen / Wolfschlugen
