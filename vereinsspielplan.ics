@@ -112,13 +112,13 @@ DTEND;TZID=Europe/Berlin:20260920T123000
 UID:351829002@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
  hloßstr. 80\, 73765 Neuhausen auf den Fildern Mittwoch\, 23.09.2026 - 19:
- 00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasen
+ 30 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasen
  platz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf
- +den+Fildern+Mittwoch%2C+23.09.2026+-+19%3A00+Uhr\nQuelle: https://www.fus
+ +den+Fildern+Mittwoch%2C+23.09.2026+-+19%3A30+Uhr\nQuelle: https://www.fus
  sball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG0
  8LVUPGND5I
 LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Mittwoch\, 23.09.2026 - 19:00 Uhr
+ sen auf den Fildern Mittwoch\, 23.09.2026 - 19:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - SV Waldhausen
@@ -202,6 +202,20 @@ DESCRIPTION:Bezirkspokal\nSpielort: Rasenplatz\, Nebenplatz Rasen Eichenba
  pfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Nebenplatz Rasen Eichenbachst.\, Haldenstr. 45\, 730
  54 Eislingen Sonntag\, 27.09.2026 - 10:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSV Deizisau 3 - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20260925T180000
+DTEND;TZID=Europe/Berlin:20260925T200000
+UID:350101008@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Hintere H
+ alde\, Hintere Halde\, 73779 Deizisau Freitag\, 02.10.2026 - Uhr\nGoogle M
+ aps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+Ku
+ nstrasen+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Freitag%2C+02.10
+ .2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuer
+ ttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Hintere Halde\, Hintere Halde\, 7377
+ 9 Deizisau Freitag\, 02.10.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 1 - TSV Köngen 1
