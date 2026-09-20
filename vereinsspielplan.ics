@@ -4,108 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:VfB Oberesslingen/Zell 4 - FV Neuhausen 3
-DTSTART;TZID=Europe/Berlin:20260919T110000
-DTEND;TZID=Europe/Berlin:20260919T130000
-UID:351479003@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Hauptplatz Oberesslingen
- \, Breslauer Str. 5\, 73730 Esslingen am Neckar Samstag\, 26.09.2026 - 12:
- 00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasen
- platz%2C+Hauptplatz+Oberesslingen%2C+Breslauer+Str.+5%2C+73730+Esslingen+a
- m+Neckar+Samstag%2C+26.09.2026+-+12%3A00+Uhr\nQuelle: https://www.fussball
- .de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUP
- GND5I
-LOCATION:Rasenplatz\, Hauptplatz Oberesslingen\, Breslauer Str. 5\, 73730 
- Esslingen am Neckar Samstag\, 26.09.2026 - 12:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SG Eintracht Sirnau 1 - FV Neuhausen 1
-DTSTART;TZID=Europe/Berlin:20260919T120000
-DTEND;TZID=Europe/Berlin:20260919T140000
-UID:354859003@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Sportplatz Amselweg\, Amselweg 10\, 73
- 730 Esslingen am Neckar Samstag\, 26.09.2026 - 12:00 Uhr\nGoogle Maps: htt
- ps://www.google.com/maps/search/?api=1&query=Sportplatz+Amselweg%2C+Amselw
- eg+10%2C+73730+Esslingen+am+Neckar+Samstag%2C+26.09.2026+-+12%3A00+Uhr\nQu
- elle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/0
- 0ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Sportplatz Amselweg\, Amselweg 10\, 73730 Esslingen am Neckar Sam
- stag\, 26.09.2026 - 12:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FV Neuhausen 1 - TSV Wernau
-DTSTART;TZID=Europe/Berlin:20260919T133000
-DTEND;TZID=Europe/Berlin:20260919T153000
-UID:350072002@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
- hloßstr. 80\, 73765 Neuhausen auf den Fildern Mittwoch\, 23.09.2026 - 19:
- 00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasen
- platz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf
- +den+Fildern+Mittwoch%2C+23.09.2026+-+19%3A00+Uhr\nQuelle: https://www.fus
- sball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG0
- 8LVUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Mittwoch\, 23.09.2026 - 19:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM TSV Scharnhausen / TB Ruit 3 (FSG Ostfildern) - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260919T133000
-DTEND;TZID=Europe/Berlin:20260919T153000
-UID:350078002@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Ruit\, Ta
- lwiesen 1\, 73760 Ostfildern Mittwoch\, 23.09.2026 - 18:00 Uhr\nGoogle Map
- s: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+Kuns
- trasen+Ruit%2C+Talwiesen+1%2C+73760+Ostfildern+Mittwoch%2C+23.09.2026+-+18
- %3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertt
- emberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Ruit\, Talwiesen 1\, 73760 Ostfilder
- n Mittwoch\, 23.09.2026 - 18:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TSV RSK Esslingen 1 - SGM Neuhausen/Wolfschlugen 1
-DTSTART;TZID=Europe/Berlin:20260919T150000
-DTEND;TZID=Europe/Berlin:20260919T170000
-UID:356108004@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Hauptplatz RSK\, Rüderne
- r Heideweg / über Gollenstrasse\, 73733 Esslingen am Neckar Samstag\, 26.
- 09.2026 - 15:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=
- 1&query=Rasenplatz%2C+Hauptplatz+RSK%2C+R%C3%BCderner+Heideweg+%2F+%C3%BCb
- er+Gollenstrasse%2C+73733+Esslingen+am+Neckar+Samstag%2C+26.09.2026+-+15%3
- A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttem
- berg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Hauptplatz RSK\, Rüderner Heideweg / über Gollenst
- rasse\, 73733 Esslingen am Neckar Samstag\, 26.09.2026 - 15:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen 2 - SGM TSGV Rechberg/Donzdorf/Reichenb
- ach u R
-DTSTART;TZID=Europe/Berlin:20260919T150000
-DTEND;TZID=Europe/Berlin:20260919T170000
-UID:356113001@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Hauptplatz Wolfschlugen\,
-  Nürtinger Str.\, 72649 Wolfschlugen Mittwoch\, 23.09.2026 - 18:30 Uhr\nG
- oogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+
- Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlugen+Mittw
- och%2C+23.09.2026+-+18%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv
- -spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
- lfschlugen Mittwoch\, 23.09.2026 - 18:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TSV Berkheim - SGM Neuhausen / Wolfschlugen
-DTSTART;TZID=Europe/Berlin:20260919T163000
-DTEND;TZID=Europe/Berlin:20260919T183000
-UID:353579002@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Berkheim
- \, Jakobstr. 91\, 73734 Esslingen am Neckar Samstag\, 26.09.2026 - 16:30 U
- hr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrase
- nplatz%2C+Kunstrasen+Berkheim%2C+Jakobstr.+91%2C+73734+Esslingen+am+Neckar
- +Samstag%2C+26.09.2026+-+16%3A30+Uhr\nQuelle: https://www.fussball.de/vere
- in/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Berkheim\, Jakobstr. 91\, 73734 Essl
- ingen am Neckar Samstag\, 26.09.2026 - 16:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - TSV Berkheim 1
 DTSTART;TZID=Europe/Berlin:20260920T103000
 DTEND;TZID=Europe/Berlin:20260920T123000
@@ -133,6 +31,22 @@ DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
  uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Mittwoch\, 23.09.2026 - 19:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren TSV Bernhausen - TSV Weilimdorf 18.09.2026 19 30 Mittwoch 2
+ 3.09.2026 - 19 00 Uhr Landesliga Mi 23.09.26 19 00 Landesliga ME 355923058
+  TSV Weilimdorf FV Neuhausen
+DTSTART;TZID=Europe/Berlin:20260920T153000
+DTEND;TZID=Europe/Berlin:20260920T173000
+UID:355923068@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Kunstrasenplatz\, Kunstrasenplatz TSV We
+ ilimdorf\, Giebelstr. 66\, 70499 Stuttgart Samstag\, 26.09.2026 - Uhr\nGoo
+ gle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%
+ 2C+Kunstrasenplatz+TSV+Weilimdorf%2C+Giebelstr.+66%2C+70499+Stuttgart+Sams
+ tag%2C+26.09.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-ne
+ uhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Weilimdorf\, Giebelstr. 66
+ \, 70499 Stuttgart Samstag\, 26.09.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TV Hochdorf - FV Neuhausen 2
@@ -209,13 +123,27 @@ DTSTART;TZID=Europe/Berlin:20260925T180000
 DTEND;TZID=Europe/Berlin:20260925T200000
 UID:350101008@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Hintere H
- alde\, Hintere Halde\, 73779 Deizisau Freitag\, 02.10.2026 - Uhr\nGoogle M
- aps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+Ku
- nstrasen+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Freitag%2C+02.10
- .2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuer
- ttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ alde\, Hintere Halde\, 73779 Deizisau Freitag\, 02.10.2026 - 18:00 Uhr\nGo
+ ogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz
+ %2C+Kunstrasen+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Freitag%2C
+ +02.10.2026+-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
+ neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasen Hintere Halde\, Hintere Halde\, 7377
- 9 Deizisau Freitag\, 02.10.2026 - Uhr
+ 9 Deizisau Freitag\, 02.10.2026 - 18:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen 3 - TV Nellingen 3
+DTSTART;TZID=Europe/Berlin:20260926T120000
+DTEND;TZID=Europe/Berlin:20260926T140000
+UID:351479005@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Samstag\, 10.10.2026 - 11:00 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+10.10.2026
+ +-+11%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 10.10.2026 - 11:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 1 - TSV Köngen 1
@@ -231,20 +159,6 @@ DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
  VUPGND5I
 LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
  sen auf den Fildern Samstag\, 10.10.2026 - 12:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FV Neuhausen 3 - TV Nellingen 3
-DTSTART;TZID=Europe/Berlin:20260926T120000
-DTEND;TZID=Europe/Berlin:20260926T140000
-UID:351479005@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 10.10.2026 - 11:00 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+10.10.2026
- +-+11%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 10.10.2026 - 11:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren Sf Dorfmerkingen 2 - FV Neuhausen
