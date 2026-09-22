@@ -221,12 +221,27 @@ LOCATION:Stadion Aichwald\, Krummhardter Str. 52\, 73773 Aichwald Sonntag
  \, 04.10.2026 - 13:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gewinner aus Spiel 950200002 (PH) - SGM Neuhausen / Wolfschlugen
+SUMMARY:SGM TSV Grafenberg/Neckartenzlingen - SGM Neuhausen / Wolfschlugen
 DTSTART;TZID=Europe/Berlin:20260930T190000
 DTEND;TZID=Europe/Berlin:20260930T210000
 UID:950200011@fv-neuhausen
 DESCRIPTION:Bezirkspokal\nQuelle: https://www.fussball.de/verein/fv-spfr-n
  euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FV Neuhausen 1 - Feldturnier 9-12 Uhr
+DTSTART;TZID=Europe/Berlin:20261003T090000
+DTEND;TZID=Europe/Berlin:20261003T110000
+UID:550041110@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Nebenplatz 
+ Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 10.
+ 10.2026 - 13:30 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=
+ 1&query=Rasenplatz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+
+ Neuhausen+auf+den+Fildern+Samstag%2C+10.10.2026+-+13%3A30+Uhr\nQuelle: htt
+ ps://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO
+ 0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 10.10.2026 - 13:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen/Wolfschlugen 1 - Kleinfeldturnier 13 30-16 30
@@ -330,6 +345,9 @@ LOCATION:Kunstrasenplatz\, Kunstrasenplatz Scharnhausen\, Körschtalstr. 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM TSV Scharnhausen / TB Ruit 1 (FSG Ostfildern) - FV Neuhausen 1
+  14.10.2026 18 00 Mittwoch 14.10.2026 - 18 00 Uhr Kreisstaffel Mi 14.10.26
+  18 00 Kreisstaffel ME 354859012 SGM TSV Scharnhausen / TB Ruit 1 (FSG Ost
+ fildern) FV Neuhausen 1
 DTSTART;TZID=Europe/Berlin:20261010T120000
 DTEND;TZID=Europe/Berlin:20261010T140000
 UID:354859012@fv-neuhausen
