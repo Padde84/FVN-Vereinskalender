@@ -4,62 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 2 - TSV RSK Esslingen 1
-DTSTART;TZID=Europe/Berlin:20260923T180000
-DTEND;TZID=Europe/Berlin:20260923T200000
-UID:350078006@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 26.09.2026 - 13:30 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+26.09.2026
- +-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 26.09.2026 - 13:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren TSV Weilimdorf - FV Neuhausen
-DTSTART;TZID=Europe/Berlin:20260923T190000
-DTEND;TZID=Europe/Berlin:20260923T210000
-UID:355923058@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: Kunstrasenplatz\, Kunstrasenplatz TSV We
- ilimdorf\, Giebelstr. 66\, 70499 Stuttgart Samstag\, 26.09.2026 - 13:00 Uh
- r\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasen
- platz%2C+Kunstrasenplatz+TSV+Weilimdorf%2C+Giebelstr.+66%2C+70499+Stuttgar
- t+Samstag%2C+26.09.2026+-+13%3A00+Uhr\nQuelle: https://www.fussball.de/ver
- ein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasenplatz TSV Weilimdorf\, Giebelstr. 66
- \, 70499 Stuttgart Samstag\, 26.09.2026 - 13:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TSV Deizisau 2 - FV Neuhausen 1
-DTSTART;TZID=Europe/Berlin:20260923T190000
-DTEND;TZID=Europe/Berlin:20260923T210000
-UID:350072005@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Hintere H
- alde\, Hintere Halde\, 73779 Deizisau Samstag\, 26.09.2026 - 13:30 Uhr\nGo
- ogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz
- %2C+Kunstrasen+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Samstag%2C
- +26.09.2026+-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
- neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Hintere Halde\, Hintere Halde\, 7377
- 9 Deizisau Samstag\, 26.09.2026 - 13:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1. FC Eislingen 2 - SGM Neuhausen / Wolfschlugen
-DTSTART;TZID=Europe/Berlin:20260923T190000
-DTEND;TZID=Europe/Berlin:20260923T210000
-UID:950202021@fv-neuhausen
-DESCRIPTION:Bezirkspokal\nSpielort: Rasenplatz\, Nebenplatz Rasen Eichenba
- chst.\, Haldenstr. 45\, 73054 Eislingen Sonntag\, 27.09.2026 - 10:30 Uhr\n
- Google Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C
- +Nebenplatz+Rasen+Eichenbachst.%2C+Haldenstr.+45%2C+73054+Eislingen+Sonnta
- g%2C+27.09.2026+-+10%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-s
- pfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Rasen Eichenbachst.\, Haldenstr. 45\, 730
- 54 Eislingen Sonntag\, 27.09.2026 - 10:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TSV Deizisau 3 - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20260925T180000
 DTEND;TZID=Europe/Berlin:20260925T200000
@@ -1438,54 +1382,68 @@ DTSTART;TZID=Europe/Berlin:20261122T150000
 DTEND;TZID=Europe/Berlin:20261122T170000
 UID:355923147@fv-neuhausen
 DESCRIPTION:Landesliga\nSpielort: Rasenplatz\, Rasenpl. Sportpark Goldäck
- er\, Leinfelder Str. 101\, 70771 Leinfelden-Echterdingen Mehr laden Legend
- e Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) A
- nnuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Sp
- ielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall 
- t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wur
- de zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt 
- BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten HE
- IM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach V
- erlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht 
- noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da di
- e Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Ken
- nzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SP
- IELFREI An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhand
- en Foto oder Video vorhanden Livestream oder Highlights vorhanden vorläuf
- iges Spiel\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=R
- asenplatz%2C+Rasenpl.+Sportpark+Gold%C3%A4cker%2C+Leinfelder+Str.+101%2C+7
- 0771+Leinfelden-Echterdingen+Mehr+laden+Legende+Drucken+K%C3%BCrzel+bei+ei
- nem+Spiel+u+%28U%29+Sportgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+Ann
- ullierung+v+%28V%29+Verwaltungsentscheid+%28best%C3%A4tigt%29+Absetzung+Sp
- ielabsetzung+w+%28W%29+Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+S
- pielausfall+t+%28T%29+Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+
- zg.+Diese+Mannschaft+wurde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+abe
- r+eingerechnet.+Nichtantritt+BEIDE+nicht+angetretene+Mannschaften+Nichtant
- ritt+HEIM+nicht+angetreten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+angetre
- ten+GAST-Mannschaft+nV+nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fe
- n+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nich
- t+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leistungs
- betrieb+spielt.+oW+Mannschaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+
- Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Da
- tum+hat+die+Mannschaft+spielfrei.+Spielbericht+vorhanden+Foto+oder+Video+v
- orhanden+Livestream+oder+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuel
- le: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00E
- S8GNAVO0000ALVV0AG08LVUPGND5I
+ er\, Leinfelder Str. 101\, 70771 Leinfelden-Echterdingen Sonntag\, 29.11.2
+ 026 - 14:30 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&qu
+ ery=Rasenplatz%2C+Rasenpl.+Sportpark+Gold%C3%A4cker%2C+Leinfelder+Str.+101
+ %2C+70771+Leinfelden-Echterdingen+Sonntag%2C+29.11.2026+-+14%3A30+Uhr\nQue
+ lle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00
+ ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Rasenpl. Sportpark Goldäcker\, Leinfelder Str. 101
- \, 70771 Leinfelden-Echterdingen Mehr laden Legende Drucken Kürzel bei ei
- nem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annullierung v 
- (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w (W) Wertu
- ng Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel (bestät
- igt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezogen\, die 
- Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht angetretene 
- Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft Nichtantri
- tt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE nach Elf
- meterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest oder ist
-  nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht im Leist
- ungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spielen außer 
- Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An diesem Datum 
- hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Video vorha
- nden Livestream oder Highlights vorhanden vorläufiges Spiel
+ \, 70771 Leinfelden-Echterdingen Sonntag\, 29.11.2026 - 14:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herren SV Böblingen - FV Neuhausen
+DTSTART;TZID=Europe/Berlin:20261129T143000
+DTEND;TZID=Europe/Berlin:20261129T163000
+UID:355923159@fv-neuhausen
+DESCRIPTION:Landesliga\nSpielort: Stadion Silberweg\, Silberweg\, 71032 B
+ öblingen Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) Sportge
+ richtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentschei
+ d (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestä
+ tigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbru
+ ch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber 
+ eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantri
+ tt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetrete
+ n GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstige
+ s ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Ke
+ ine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW 
+ Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis be
+ stätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spie
+ lfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Hi
+ ghlights vorhanden vorläufiges Spiel\nGoogle Maps: https://www.google.com
+ /maps/search/?api=1&query=Stadion+Silberweg%2C+Silberweg%2C+71032+B%C3%B6b
+ lingen+Mehr+laden+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sp
+ ortgerichtsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Ve
+ rwaltungsentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29
+ +Wertung+Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+
+ Testspiel+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+w
+ urde+zur%C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichta
+ ntritt+BEIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetr
+ eten+HEIM-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV
+ +nach+Verl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die
+ +Ansto%C3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+
+ Ergebnisanzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Man
+ nschaften+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+b
+ est%C3%A4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft
+ +spielfrei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+od
+ er+Highlights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussba
+ ll.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LV
+ UPGND5I
+LOCATION:Stadion Silberweg\, Silberweg\, 71032 Böblingen Mehr laden Legen
+ de Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) 
+ Annuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung S
+ pielabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall
+  t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wu
+ rde zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt
+  BEIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten H
+ EIM-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach 
+ Verlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht
+  noch nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da d
+ ie Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Ke
+ nnzeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker S
+ PIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhan
+ den Foto oder Video vorhanden Livestream oder Highlights vorhanden vorläu
+ figes Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - VfB Oberesslingen/Zell
