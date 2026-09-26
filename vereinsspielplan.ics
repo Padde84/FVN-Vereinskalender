@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:TSV Deizisau 3 - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20260925T180000
-DTEND;TZID=Europe/Berlin:20260925T200000
-UID:350101008@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Hintere H
- alde\, Hintere Halde\, 73779 Deizisau Freitag\, 02.10.2026 - 18:00 Uhr\nGo
- ogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz
- %2C+Kunstrasen+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Freitag%2C
- +02.10.2026+-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
- neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Hintere Halde\, Hintere Halde\, 7377
- 9 Deizisau Freitag\, 02.10.2026 - 18:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FV Neuhausen 3 - TV Nellingen 3
 DTSTART;TZID=Europe/Berlin:20260926T120000
 DTEND;TZID=Europe/Berlin:20260926T140000
