@@ -4,23 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:SGM TSV Grafenberg/Neckartenzlingen - SGM Neuhausen / Wolfschlugen
-  07.10.2026 19 00 Mittwoch 07.10.2026 - 19 00 Uhr Bezirkspokal Mi 07.10.26
-  19 00 Bezirkspokal PO 950200011 SGM TSV Grafenberg/Neckartenzlingen SGM N
- euhausen / Wolfschlugen
-DTSTART;TZID=Europe/Berlin:20260930T190000
-DTEND;TZID=Europe/Berlin:20260930T210000
-UID:950200011@fv-neuhausen
-DESCRIPTION:Bezirkspokal\nSpielort: Rasenplatz\, Hauptplatz Grafenberg\, B
- uckenwiese 12\, 72661 Grafenberg Samstag\, 10.10.2026 - 16:30 Uhr\nGoogle 
- Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Hauptp
- latz+Grafenberg%2C+Buckenwiese+12%2C+72661+Grafenberg+Samstag%2C+10.10.202
- 6+-+16%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
- wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Hauptplatz Grafenberg\, Buckenwiese 12\, 72661 Grafe
- nberg Samstag\, 10.10.2026 - 16:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TSV Wolfschlugen 2 - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20261002T160000
 DTEND;TZID=Europe/Berlin:20261002T180000
@@ -119,6 +102,20 @@ DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
  uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Freitag\, 09.10.2026 - 18:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM TSV Grafenberg/Neckartenzlingen - SGM Neuhausen / Wolfschlugen
+DTSTART;TZID=Europe/Berlin:20261007T190000
+DTEND;TZID=Europe/Berlin:20261007T210000
+UID:950200011@fv-neuhausen
+DESCRIPTION:Bezirkspokal\nSpielort: Rasenplatz\, Hauptplatz Grafenberg\, B
+ uckenwiese 12\, 72661 Grafenberg Samstag\, 10.10.2026 - 16:30 Uhr\nGoogle 
+ Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Hauptp
+ latz+Grafenberg%2C+Buckenwiese+12%2C+72661+Grafenberg+Samstag%2C+10.10.202
+ 6+-+16%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
+ wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Grafenberg\, Buckenwiese 12\, 72661 Grafe
+ nberg Samstag\, 10.10.2026 - 16:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - TSV Berkheim 3
