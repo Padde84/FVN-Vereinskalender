@@ -169,12 +169,12 @@ DTSTART;TZID=Europe/Berlin:20261010T133000
 DTEND;TZID=Europe/Berlin:20261010T153000
 UID:350072015@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Stadion Aspen\, Aspen 3\, 73269 Hochdo
- rf Samstag\, 17.10.2026 - Uhr\nGoogle Maps: https://www.google.com/maps/se
- arch/?api=1&query=Stadion+Aspen%2C+Aspen+3%2C+73269+Hochdorf+Samstag%2C+17
- .10.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Samstag\, 17.10.2026 - U
- hr
+ rf Mittwoch\, 14.10.2026 - 18:00 Uhr\nGoogle Maps: https://www.google.com/
+ maps/search/?api=1&query=Stadion+Aspen%2C+Aspen+3%2C+73269+Hochdorf+Mittwo
+ ch%2C+14.10.2026+-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-
+ spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Mittwoch\, 14.10.2026 - 
+ 18:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - TSV Wolfschlugen 1
@@ -299,13 +299,13 @@ DTSTART;TZID=Europe/Berlin:20261014T190000
 DTEND;TZID=Europe/Berlin:20261014T210000
 UID:356113014@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Adelberg a Jau
- chert\, Am Jauchert\, 73099 Adelberg Samstag\, 17.10.2026 - Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Rasenpla
- tz+Adelberg+a+Jauchert%2C+Am+Jauchert%2C+73099+Adelberg+Samstag%2C+17.10.2
- 026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertt
- emberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ chert\, Am Jauchert\, 73099 Adelberg Samstag\, 17.10.2026 - 15:00 Uhr\nGoo
+ gle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Ra
+ senplatz+Adelberg+a+Jauchert%2C+Am+Jauchert%2C+73099+Adelberg+Samstag%2C+1
+ 7.10.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-ne
+ uhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Rasenplatz Adelberg a Jauchert\, Am Jauchert\, 73099
-  Adelberg Samstag\, 17.10.2026 - Uhr
+  Adelberg Samstag\, 17.10.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1.FC Donzdorf 4 - FV Neuhausen 2
@@ -380,6 +380,21 @@ LOCATION:Kunstrasenplatz\, Kunstrasen Ruit\, Talwiesen 1\, 73760 Ostfilder
  n Mittwoch\, 21.10.2026 - 19:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/Wolfschlugen 2 - TSV Berkheim 2
+DTSTART;TZID=Europe/Berlin:20261017T150000
+DTEND;TZID=Europe/Berlin:20261017T170000
+UID:550029104@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Nebenplatz 
+ Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 17.
+ 10.2026 - Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&quer
+ y=Rasenplatz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhau
+ sen+auf+den+Fildern+Samstag%2C+17.10.2026+-+Uhr\nQuelle: https://www.fussb
+ all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
+ VUPGND5I
+LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
+ sen auf den Fildern Samstag\, 17.10.2026 - Uhr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - Spfr Dettingen/Teck
 DTSTART;TZID=Europe/Berlin:20261017T163000
 DTEND;TZID=Europe/Berlin:20261017T183000
@@ -438,19 +453,60 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Sonntag\, 25.10.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 1 - TSG Esslingen
+SUMMARY:FV Neuhausen 1 - TSG Esslingen 14.10.2026 18 00 Samstag 24.10.2026
+  - 13 30 Uhr Kreisstaffel Sa 24.10.26 13 30 Kreisstaffel ME 350072027 TSV 
+ Baltmannsweiler 1 FV Neuhausen 1
 DTSTART;TZID=Europe/Berlin:20261021T180000
 DTEND;TZID=Europe/Berlin:20261021T200000
 UID:350072022@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Nebenplatz Neuhausen\, Sc
- hloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 24.10.2026 - 13:3
- 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
- latz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+
- den+Fildern+Samstag%2C+24.10.2026+-+13%3A30+Uhr\nQuelle: https://www.fussb
- all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
- VUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Samstag\, 24.10.2026 - 13:30 Uhr
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasenplatz Balt
+ mannsweiler\, Baacher Str. 4\, 73666 Baltmannsweiler Legende Drucken Kürz
+ el bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annull
+ ierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w 
+ (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel
+  (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezog
+ en\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht ang
+ etretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft N
+ ichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE
+  nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest
+  oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht
+  im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spiele
+ n außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An dies
+ em Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Vi
+ deo vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoo
+ gle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%
+ 2C+Kunstrasenplatz+Baltmannsweiler%2C+Baacher+Str.+4%2C+73666+Baltmannswei
+ ler+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurt
+ eil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentsc
+ heid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spiel
+ instanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28b
+ est%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BC
+ ckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+n
+ icht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mann
+ schaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%
+ A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fze
+ it+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeig
+ e%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+
+ diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+
+ Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Sp
+ ielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+
+ vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/f
+ v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz Baltmannsweiler\, Baacher Str. 
+ 4\, 73666 Baltmannsweiler Legende Drucken Kürzel bei einem Spiel u (U) Sp
+ ortgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsent
+ scheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (b
+ estätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spiel
+ abbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden 
+ aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nicht
+ antritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht ange
+ treten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Son
+ stiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.
+ E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt
+ . oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebn
+ is bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft
+  spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream od
+ er Highlights vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen/Wolfschlugen 1 - SV Nabern
@@ -506,60 +562,6 @@ DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Reichenba
  VV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasen Reichenbach/Fils\, Kanalstr.\, 73262
   Reichenbach an der Fils Samstag\, 07.11.2026 - 11:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TSV Baltmannsweiler 1 - FV Neuhausen 1
-DTSTART;TZID=Europe/Berlin:20261024T133000
-DTEND;TZID=Europe/Berlin:20261024T153000
-UID:350072027@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasenplatz Balt
- mannsweiler\, Baacher Str. 4\, 73666 Baltmannsweiler Legende Drucken Kürz
- el bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert Annull
- ierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzung w 
- (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Testspiel
-  (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückgezog
- en\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht ang
- etretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannschaft N
- ichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerung nE
-  nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht fest
-  oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel nicht
-  im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen spiele
- n außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An dies
- em Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto oder Vi
- deo vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel\nGoo
- gle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%
- 2C+Kunstrasenplatz+Baltmannsweiler%2C+Baacher+Str.+4%2C+73666+Baltmannswei
- ler+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurt
- eil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentsc
- heid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spiel
- instanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28b
- est%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BC
- ckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+n
- icht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mann
- schaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%
- A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fze
- it+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeig
- e%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+
- diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+
- Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Sp
- ielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+
- vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/f
- v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasenplatz Baltmannsweiler\, Baacher Str. 
- 4\, 73666 Baltmannsweiler Legende Drucken Kürzel bei einem Spiel u (U) Sp
- ortgerichtsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsent
- scheid (bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (b
- estätigt) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spiel
- abbruch zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden 
- aber eingerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nicht
- antritt HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht ange
- treten GAST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Son
- stiges ** Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.
- E. Keine Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt
- . oW Mannschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebn
- is bestätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft
-  spielfrei. Spielbericht vorhanden Foto oder Video vorhanden Livestream od
- er Highlights vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - SGM TSV Beuren Täle 3
