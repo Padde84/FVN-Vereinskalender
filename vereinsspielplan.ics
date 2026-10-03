@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:TSV Wolfschlugen 2 - FV Neuhausen 3
-DTSTART;TZID=Europe/Berlin:20261002T160000
-DTEND;TZID=Europe/Berlin:20261002T180000
-UID:550043088@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Nebenplatz 
- Wolfschlugen\, Jahnstr. 1\, 72649 Wolfschlugen Samstag\, 10.10.2026 - 11:0
- 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenp
- latz%2C+Nebenplatz+Wolfschlugen%2C+Jahnstr.+1%2C+72649+Wolfschlugen+Samsta
- g%2C+10.10.2026+-+11%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-s
- pfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Wolfschlugen\, Jahnstr. 1\, 72649 Wolfsch
- lugen Samstag\, 10.10.2026 - 11:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FV Neuhausen 1 - Feldturnier 9-12 Uhr
 DTSTART;TZID=Europe/Berlin:20261003T090000
 DTEND;TZID=Europe/Berlin:20261003T110000
