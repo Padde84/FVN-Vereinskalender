@@ -4,35 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 1 - Feldturnier 9-12 Uhr
-DTSTART;TZID=Europe/Berlin:20261003T090000
-DTEND;TZID=Europe/Berlin:20261003T110000
-UID:550041110@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Rasenplatz\, Nebenplatz 
- Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 10.
- 10.2026 - 13:30 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=
- 1&query=Rasenplatz%2C+Nebenplatz+Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+
- Neuhausen+auf+den+Fildern+Samstag%2C+10.10.2026+-+13%3A30+Uhr\nQuelle: htt
- ps://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO
- 0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Nebenplatz Neuhausen\, Schloßstr. 80\, 73765 Neuhau
- sen auf den Fildern Samstag\, 10.10.2026 - 13:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen 1 - Kleinfeldturnier 13 30-16 30
-DTSTART;TZID=Europe/Berlin:20261003T133000
-DTEND;TZID=Europe/Berlin:20261003T153000
-UID:550029091@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Stadion Neuhausen\, Schl
- oßstr. 80\, 73765 Neuhausen auf den Fildern Samstag\, 10.10.2026 - 15:00 
- Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+
- Neuhausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag
- %2C+10.10.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-sp
- fr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 10.10.2026 - 15:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - SC Altbach 1
 DTSTART;TZID=Europe/Berlin:20261004T103000
 DTEND;TZID=Europe/Berlin:20261004T123000
@@ -155,12 +126,12 @@ DTSTART;TZID=Europe/Berlin:20261010T133000
 DTEND;TZID=Europe/Berlin:20261010T153000
 UID:350072015@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Stadion Aspen\, Aspen 3\, 73269 Hochdo
- rf Mittwoch\, 14.10.2026 - 18:00 Uhr\nGoogle Maps: https://www.google.com/
- maps/search/?api=1&query=Stadion+Aspen%2C+Aspen+3%2C+73269+Hochdorf+Mittwo
- ch%2C+14.10.2026+-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-
- spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Mittwoch\, 14.10.2026 - 
- 18:00 Uhr
+ rf Samstag\, 17.10.2026 - 13:30 Uhr\nGoogle Maps: https://www.google.com/m
+ aps/search/?api=1&query=Stadion+Aspen%2C+Aspen+3%2C+73269+Hochdorf+Samstag
+ %2C+17.10.2026+-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-sp
+ fr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Samstag\, 17.10.2026 - 1
+ 3:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - TSV Wolfschlugen 1
