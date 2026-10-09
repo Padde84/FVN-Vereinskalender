@@ -4,22 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FTSV Kuchen - SG Eintracht Sirnau 01.10.2026 19 30 Sonntag 11.10.2
- 026 - 15 00 Uhr Kreisliga A Kreisliga So 11.10.26 15 00 Kreisliga A Kreisl
- iga ME 356082052 SG Eintracht Sirnau FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20261008T193000
-DTEND;TZID=Europe/Berlin:20261008T213000
-UID:950024166@fv-neuhausen
-DESCRIPTION:Bezirkspokal\nSpielort: Sportplatz Amselweg\, Amselweg 10\, 73
- 730 Esslingen am Neckar Sonntag\, 18.10.2026 - 15:30 Uhr\nGoogle Maps: htt
- ps://www.google.com/maps/search/?api=1&query=Sportplatz+Amselweg%2C+Amselw
- eg+10%2C+73730+Esslingen+am+Neckar+Sonntag%2C+18.10.2026+-+15%3A30+Uhr\nQu
- elle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/0
- 0ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Sportplatz Amselweg\, Amselweg 10\, 73730 Esslingen am Neckar Son
- ntag\, 18.10.2026 - 15:30 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - TSV Berkheim 3
 DTSTART;TZID=Europe/Berlin:20261009T180000
 DTEND;TZID=Europe/Berlin:20261009T200000
@@ -70,13 +54,14 @@ SUMMARY:SGM Hochdorf / Reichenbach / Notzingen (RHN) 2 - FV Neuhausen 1
 DTSTART;TZID=Europe/Berlin:20261010T133000
 DTEND;TZID=Europe/Berlin:20261010T153000
 UID:350072015@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Aspen\, Aspen 3\, 73269 Hochdo
- rf Samstag\, 17.10.2026 - 13:30 Uhr\nGoogle Maps: https://www.google.com/m
- aps/search/?api=1&query=Stadion+Aspen%2C+Aspen+3%2C+73269+Hochdorf+Samstag
- %2C+17.10.2026+-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-sp
- fr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Aspen\, Aspen 3\, 73269 Hochdorf Samstag\, 17.10.2026 - 1
- 3:30 Uhr
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Breitwiesenhal
+ le\, Jahnstr. 8\, 73269 Hochdorf Samstag\, 17.10.2026 - 13:30 Uhr\nGoogle 
+ Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Rasenp
+ latz+Breitwiesenhalle%2C+Jahnstr.+8%2C+73269+Hochdorf+Samstag%2C+17.10.202
+ 6+-+13%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
+ wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Rasenplatz Breitwiesenhalle\, Jahnstr. 8\, 73269 Hoc
+ hdorf Samstag\, 17.10.2026 - 13:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - TSV Wolfschlugen 1
@@ -182,20 +167,6 @@ LOCATION:Sportplatz Amselweg\, Amselweg 10\, 73730 Esslingen am Neckar Son
  ntag\, 18.10.2026 - 13:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SGM Neuhausen/Wolfschlugen 1 - TSV Denkendorf
-DTSTART;TZID=Europe/Berlin:20261014T190000
-DTEND;TZID=Europe/Berlin:20261014T210000
-UID:356108015@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 17.10.2026 - 15:00 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+17.10.2026
- +-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 17.10.2026 - 15:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TSV Adelberg - SGM Neuhausen/Wolfschlugen 2
 DTSTART;TZID=Europe/Berlin:20261014T190000
 DTEND;TZID=Europe/Berlin:20261014T210000
@@ -265,21 +236,6 @@ DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
  -/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Mittwoch\, 21.10.2026 - Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SGM TSV Scharnhausen/TB Ruit 1 (FSG Ostfildern) - SGM Neuhausen/Wo
- lfschlugen 1
-DTSTART;TZID=Europe/Berlin:20261017T150000
-DTEND;TZID=Europe/Berlin:20261017T170000
-UID:356108018@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Ruit\, Ta
- lwiesen 1\, 73760 Ostfildern Mittwoch\, 21.10.2026 - 19:00 Uhr\nGoogle Map
- s: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+Kuns
- trasen+Ruit%2C+Talwiesen+1%2C+73760+Ostfildern+Mittwoch%2C+21.10.2026+-+19
- %3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuertt
- emberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasen Ruit\, Talwiesen 1\, 73760 Ostfilder
- n Mittwoch\, 21.10.2026 - 19:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen/Wolfschlugen 2 - TSV Berkheim 2
@@ -444,13 +400,13 @@ DTSTART;TZID=Europe/Berlin:20261024T103000
 DTEND;TZID=Europe/Berlin:20261024T123000
 UID:356108023@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 07.11.2026 - 12:30 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+07.11.2026
- +-+12%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ 3765 Neuhausen auf den Fildern Mittwoch\, 04.11.2026 - 19:00 Uhr\nGoogle M
+ aps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+
+ Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Mittwoch%2C+04.11.20
+ 26+-+19%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen
+ -wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 07.11.2026 - 12:30 Uhr
+ ern Mittwoch\, 04.11.2026 - 19:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wernauer SF 4 - FV Neuhausen 3
@@ -632,6 +588,20 @@ DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
  rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  ern Samstag\, 07.11.2026 - 14:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM Neuhausen/Wolfschlugen 1 - TSV Denkendorf
+DTSTART;TZID=Europe/Berlin:20261104T190000
+DTEND;TZID=Europe/Berlin:20261104T210000
+UID:356108015@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
+ 3765 Neuhausen auf den Fildern Samstag\, 07.11.2026 - 12:30 Uhr\nGoogle Ma
+ ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
+ chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+07.11.2026
+ +-+12%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
+ ern Samstag\, 07.11.2026 - 12:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Wendlingen 3 - FV Neuhausen 2
