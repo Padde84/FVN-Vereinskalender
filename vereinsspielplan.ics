@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 2 - TSV Berkheim 3
-DTSTART;TZID=Europe/Berlin:20261009T180000
-DTEND;TZID=Europe/Berlin:20261009T200000
-UID:350101015@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Freitag\, 16.10.2026 - Uhr\nGoogle Maps: ht
- tps://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Schlo%C
- 3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Freitag%2C+16.10.2026+-+Uhr
- \nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/
- id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Freitag\, 16.10.2026 - Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SGM TSV Scharnhausen / TB Ruit 3 (FSG Ostfildern) - FV Neuhausen 3
 DTSTART;TZID=Europe/Berlin:20261010T110000
 DTEND;TZID=Europe/Berlin:20261010T130000
