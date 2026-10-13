@@ -37,14 +37,14 @@ SUMMARY:TSV Adelberg - SGM Neuhausen/Wolfschlugen 2
 DTSTART;TZID=Europe/Berlin:20261014T190000
 DTEND;TZID=Europe/Berlin:20261014T210000
 UID:356113014@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Rasenplatz Adelberg a Jau
- chert\, Am Jauchert\, 73099 Adelberg Samstag\, 17.10.2026 - 15:00 Uhr\nGoo
- gle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+Ra
- senplatz+Adelberg+a+Jauchert%2C+Am+Jauchert%2C+73099+Adelberg+Samstag%2C+1
- 7.10.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-ne
- uhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Rasenplatz\, Rasenplatz Adelberg a Jauchert\, Am Jauchert\, 73099
-  Adelberg Samstag\, 17.10.2026 - 15:00 Uhr
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Adelberg 
+ a Jauchert\, Am Jauchert\, 73099 Adelberg Samstag\, 17.10.2026 - 15:00 Uhr
+ \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenp
+ latz%2C+Kunstrasen+Adelberg+a+Jauchert%2C+Am+Jauchert%2C+73099+Adelberg+Sa
+ mstag%2C+17.10.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/
+ fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Adelberg a Jauchert\, Am Jauchert\, 
+ 73099 Adelberg Samstag\, 17.10.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Deizisau - SGM TSV Scharnhausen/TB Ruit 1 (FSG Ostfildern) 04.
