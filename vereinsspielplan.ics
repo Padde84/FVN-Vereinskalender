@@ -120,14 +120,14 @@ DTSTART;TZID=Europe/Berlin:20261024T120000
 DTEND;TZID=Europe/Berlin:20261024T140000
 UID:354859018@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Reichenba
- ch/Fils\, Kanalstr.\, 73262 Reichenbach an der Fils Samstag\, 07.11.2026 -
-  11:15 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=K
- unstrasenplatz%2C+Kunstrasen+Reichenbach%2FFils%2C+Kanalstr.%2C+73262+Reic
- henbach+an+der+Fils+Samstag%2C+07.11.2026+-+11%3A15+Uhr\nQuelle: https://w
- ww.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000AL
- VV0AG08LVUPGND5I
+ ch/Fils\, Kanalstr.\, 73262 Reichenbach an der Fils Dienstag\, 27.10.2026 
+ - 17:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=
+ Kunstrasenplatz%2C+Kunstrasen+Reichenbach%2FFils%2C+Kanalstr.%2C+73262+Rei
+ chenbach+an+der+Fils+Dienstag%2C+27.10.2026+-+17%3A00+Uhr\nQuelle: https:/
+ /www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000
+ ALVV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasen Reichenbach/Fils\, Kanalstr.\, 73262
-  Reichenbach an der Fils Samstag\, 07.11.2026 - 11:15 Uhr
+  Reichenbach an der Fils Dienstag\, 27.10.2026 - 17:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Baltmannsweiler 1 - FV Neuhausen 1
@@ -270,6 +270,49 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Rasenplatz\, Hauptplatz Keh
  v-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Rasenplatz\, Hauptplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (N
  eckar) Sonntag\, 01.11.2026 - 12:30 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSV Grötzingen 1 - FV Neuhausen 1
+DTSTART;TZID=Europe/Berlin:20261027T170000
+DTEND;TZID=Europe/Berlin:20261027T190000
+UID:550043115@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
+ asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Samstag\, 07.11.2026 - 11:15
+  Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstra
+ senplatz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Samstag%
+ 2C+07.11.2026+-+11%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
+ r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
+ htal Samstag\, 07.11.2026 - 11:15 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSV Grötzingen 2 - FV Neuhausen 2
+DTSTART;TZID=Europe/Berlin:20261027T170000
+DTEND;TZID=Europe/Berlin:20261027T190000
+UID:550043116@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
+ asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Freitag\, 06.11.2026 - 18:00
+  Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstra
+ senplatz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Freitag%
+ 2C+06.11.2026+-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
+ r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
+ htal Freitag\, 06.11.2026 - 18:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSVgg Plattenhardt - SGM Neuhausen / Wolfschlugen
+DTSTART;TZID=Europe/Berlin:20261101T103000
+DTEND;TZID=Europe/Berlin:20261101T123000
+UID:550061086@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, KunstR
+ .pl.-vorne-Weilerhau Plattenhardt\, Weilerhau 2/1\, 70794 Filderstadt Sonn
+ tag\, 08.11.2026 - Uhr\nGoogle Maps: https://www.google.com/maps/search/?a
+ pi=1&query=Kunstrasenplatz%2C+KunstR.pl.-vorne-Weilerhau+Plattenhardt%2C+W
+ eilerhau+2%2F1%2C+70794+Filderstadt+Sonntag%2C+08.11.2026+-+Uhr\nQuelle: h
+ ttps://www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNA
+ VO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, KunstR.pl.-vorne-Weilerhau Plattenhardt\, Weile
+ rhau 2/1\, 70794 Filderstadt Sonntag\, 08.11.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - TV Nellingen
