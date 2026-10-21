@@ -286,18 +286,26 @@ LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
  htal Samstag\, 07.11.2026 - 11:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Grötzingen 2 - FV Neuhausen 2
+SUMMARY:Absetzung TSV Grötzingen 2 - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20261027T170000
 DTEND;TZID=Europe/Berlin:20261027T190000
 UID:550043116@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nQuelle: https://www.fussball.de/ve
+ rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSV Grötzingen 2 - FV Neuhausen 3
+DTSTART;TZID=Europe/Berlin:20261027T170000
+DTEND;TZID=Europe/Berlin:20261027T190000
+UID:550043119@fv-neuhausen
 DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
- asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Freitag\, 06.11.2026 - 18:00
-  Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstra
- senplatz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Freitag%
- 2C+06.11.2026+-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
- r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Samstag\, 07.11.2026 - Uhr\n
+ Google Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenpla
+ tz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Samstag%2C+07.
+ 11.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wu
+ erttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
- htal Freitag\, 06.11.2026 - 18:00 Uhr
+ htal Samstag\, 07.11.2026 - Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSVgg Plattenhardt - SGM Neuhausen / Wolfschlugen
