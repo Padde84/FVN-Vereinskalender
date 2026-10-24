@@ -4,32 +4,34 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 2 - ASV Aichwald 2 (5)
-DTSTART;TZID=Europe/Berlin:20261023T180000
-DTEND;TZID=Europe/Berlin:20261023T200000
-UID:350101023@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Freitag\, 06.11.2026 - 18:00 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Freitag%2C+06.11.2026
- +-+18%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Freitag\, 06.11.2026 - 18:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SGM Neuhausen/Wolfschlugen 1 - TV Nellingen 2
 DTSTART;TZID=Europe/Berlin:20261024T103000
 DTEND;TZID=Europe/Berlin:20261024T123000
 UID:356108023@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Mittwoch\, 04.11.2026 - 19:00 Uhr\nGoogle M
- aps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+
- Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Mittwoch%2C+04.11.20
- 26+-+19%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen
- -wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Mittwoch\, 04.11.2026 - 19:00 Uhr
+DESCRIPTION:Kreisstaffel\nSpielort: Rasenplatz\, Hauptplatz Wolfschlugen\,
+  Nürtinger Str.\, 72649 Wolfschlugen Mittwoch\, 04.11.2026 - 19:00 Uhr\nG
+ oogle Maps: https://www.google.com/maps/search/?api=1&query=Rasenplatz%2C+
+ Hauptplatz+Wolfschlugen%2C+N%C3%BCrtinger+Str.%2C+72649+Wolfschlugen+Mittw
+ och%2C+04.11.2026+-+19%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv
+ -spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Rasenplatz\, Hauptplatz Wolfschlugen\, Nürtinger Str.\, 72649 Wo
+ lfschlugen Mittwoch\, 04.11.2026 - 19:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TSV Jesingen 2 - TSV Grötzingen 1 09.11.2026 18 00 Dienstag 27.10
+ .2026 - 16 00 Uhr Bezirksfreundschaftsspiele Di 27.10.26 16 00 Bezirksfreu
+ ndschaftsspiele FS 550043116 TSV Grötzingen 1 FV Neuhausen 3
+DTSTART;TZID=Europe/Berlin:20261024T110000
+DTEND;TZID=Europe/Berlin:20261024T130000
+UID:356199019@fv-neuhausen
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasenplatz\, Ra
+ iffeisenstr. 33\, 72631 Aichtal Mittwoch\, 28.10.2026 - 17:30 Uhr\nGoogle 
+ Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz%2C+K
+ unstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Mittwoch%2C+28.10.202
+ 6+-+17%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
+ wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
+ htal Mittwoch\, 28.10.2026 - 17:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wernauer SF 4 - FV Neuhausen 3
@@ -50,14 +52,14 @@ DTSTART;TZID=Europe/Berlin:20261024T120000
 DTEND;TZID=Europe/Berlin:20261024T140000
 UID:354859018@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Reichenba
- ch/Fils\, Kanalstr.\, 73262 Reichenbach an der Fils Dienstag\, 27.10.2026 
- - 17:00 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=
- Kunstrasenplatz%2C+Kunstrasen+Reichenbach%2FFils%2C+Kanalstr.%2C+73262+Rei
- chenbach+an+der+Fils+Dienstag%2C+27.10.2026+-+17%3A00+Uhr\nQuelle: https:/
- /www.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000
- ALVV0AG08LVUPGND5I
+ ch/Fils\, Kanalstr.\, 73262 Reichenbach an der Fils Samstag\, 07.11.2026 -
+  11:15 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=K
+ unstrasenplatz%2C+Kunstrasen+Reichenbach%2FFils%2C+Kanalstr.%2C+73262+Reic
+ henbach+an+der+Fils+Samstag%2C+07.11.2026+-+11%3A15+Uhr\nQuelle: https://w
+ ww.fussball.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000AL
+ VV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasen Reichenbach/Fils\, Kanalstr.\, 73262
-  Reichenbach an der Fils Dienstag\, 27.10.2026 - 17:00 Uhr
+  Reichenbach an der Fils Samstag\, 07.11.2026 - 11:15 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Baltmannsweiler 1 - FV Neuhausen 1
@@ -204,40 +206,18 @@ LOCATION:Rasenplatz\, Hauptplatz Kehlenberg\, Herdweg 25\, 73249 Wernau (N
  eckar) Sonntag\, 01.11.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TSV Grötzingen 1 - FV Neuhausen 1
-DTSTART;TZID=Europe/Berlin:20261027T170000
-DTEND;TZID=Europe/Berlin:20261027T190000
-UID:550043115@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
- asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Samstag\, 07.11.2026 - 11:15
-  Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstra
- senplatz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Samstag%
- 2C+07.11.2026+-+11%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
- r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
- htal Samstag\, 07.11.2026 - 11:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Absetzung TSV Grötzingen 2 - FV Neuhausen 2
-DTSTART;TZID=Europe/Berlin:20261027T170000
-DTEND;TZID=Europe/Berlin:20261027T190000
+SUMMARY:TSV Grötzingen 1 - FV Neuhausen 3
+DTSTART;TZID=Europe/Berlin:20261027T160000
+DTEND;TZID=Europe/Berlin:20261027T180000
 UID:550043116@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nQuelle: https://www.fussball.de/ve
- rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TSV Grötzingen 2 - FV Neuhausen 3
-DTSTART;TZID=Europe/Berlin:20261027T170000
-DTEND;TZID=Europe/Berlin:20261027T190000
-UID:550043119@fv-neuhausen
 DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
- asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Samstag\, 07.11.2026 - Uhr\n
- Google Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenpla
- tz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Samstag%2C+07.
- 11.2026+-+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wu
- erttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Dienstag\, 27.10.2026 - 17:0
+ 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstr
+ asenplatz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Diensta
+ g%2C+27.10.2026+-+17%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-s
+ pfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
- htal Samstag\, 07.11.2026 - Uhr
+ htal Dienstag\, 27.10.2026 - 17:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSVgg Plattenhardt - SGM Neuhausen / Wolfschlugen
