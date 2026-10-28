@@ -4,34 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:TSV Grötzingen 1 - FV Neuhausen 3
-DTSTART;TZID=Europe/Berlin:20261027T160000
-DTEND;TZID=Europe/Berlin:20261027T180000
-UID:550043116@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
- asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Dienstag\, 27.10.2026 - 17:0
- 0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstr
- asenplatz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Diensta
- g%2C+27.10.2026+-+17%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-s
- pfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
- htal Dienstag\, 27.10.2026 - 17:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TSV Grötzingen 2 - FV Neuhausen 3
-DTSTART;TZID=Europe/Berlin:20261027T170000
-DTEND;TZID=Europe/Berlin:20261027T190000
-UID:550043119@fv-neuhausen
-DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
- asenplatz\, Raiffeisenstr. 33\, 72631 Aichtal Samstag\, 07.11.2026 - 10:15
-  Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstra
- senplatz%2C+Kunstrasenplatz%2C+Raiffeisenstr.+33%2C+72631+Aichtal+Samstag%
- 2C+07.11.2026+-+10%3A15+Uhr\nQuelle: https://www.fussball.de/verein/fv-spf
- r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Kunstrasenplatz\, Kunstrasenplatz\, Raiffeisenstr. 33\, 72631 Aic
- htal Samstag\, 07.11.2026 - 10:15 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FV Neuhausen 2 - SGM TSV Beuren Täle 3
 DTSTART;TZID=Europe/Berlin:20261031T133000
 DTEND;TZID=Europe/Berlin:20261031T153000
