@@ -4,20 +4,6 @@ PRODID:-//FV Neuhausen//DE
 X-WR-CALNAME:FV Neuhausen Spiele
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:FV Neuhausen 2 - SGM TSV Beuren Täle 3
-DTSTART;TZID=Europe/Berlin:20261031T133000
-DTEND;TZID=Europe/Berlin:20261031T153000
-UID:350078026@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 07.11.2026 - 11:00 Uhr\nGoogle Ma
- ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
- chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+07.11.2026
- +-+11%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
- uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 07.11.2026 - 11:00 Uhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TSVgg Plattenhardt - SGM Neuhausen / Wolfschlugen
 DTSTART;TZID=Europe/Berlin:20261101T103000
 DTEND;TZID=Europe/Berlin:20261101T123000
@@ -66,13 +52,13 @@ DTSTART;TZID=Europe/Berlin:20261104T190000
 DTEND;TZID=Europe/Berlin:20261104T210000
 UID:356108015@fv-neuhausen
 DESCRIPTION:Kreisstaffel\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 7
- 3765 Neuhausen auf den Fildern Samstag\, 07.11.2026 - 13:00 Uhr\nGoogle Ma
+ 3765 Neuhausen auf den Fildern Samstag\, 07.11.2026 - 12:30 Uhr\nGoogle Ma
  ps: https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+S
  chlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Samstag%2C+07.11.2026
- +-+13%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
+ +-+12%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-w
  uerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Samstag\, 07.11.2026 - 13:00 Uhr
+ ern Samstag\, 07.11.2026 - 12:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Wendlingen 3 - FV Neuhausen 2
@@ -157,11 +143,17 @@ LOCATION:Stadionweg 24\, 73249 Wernau (Neckar) Samstag\, 14.11.2026 - 11:1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Deizisau - SGM Neuhausen/Wolfschlugen 1
-DTSTART;TZID=Europe/Berlin:20261107T130000
-DTEND;TZID=Europe/Berlin:20261107T150000
+DTSTART;TZID=Europe/Berlin:20261107T123000
+DTEND;TZID=Europe/Berlin:20261107T143000
 UID:356108025@fv-neuhausen
-DESCRIPTION:Kreisstaffel\nQuelle: https://www.fussball.de/verein/fv-spfr-n
- euhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+DESCRIPTION:Kreisstaffel\nSpielort: Kunstrasenplatz\, Kunstrasen Hintere H
+ alde\, Hintere Halde\, 73779 Deizisau Samstag\, 14.11.2026 - 15:00 Uhr\nGo
+ ogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenplatz
+ %2C+Kunstrasen+Hintere+Halde%2C+Hintere+Halde%2C+73779+Deizisau+Samstag%2C
+ +14.11.2026+-+15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
+ neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen Hintere Halde\, Hintere Halde\, 7377
+ 9 Deizisau Samstag\, 14.11.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FC Esslingen - FV Neuhausen
@@ -169,14 +161,14 @@ DTSTART;TZID=Europe/Berlin:20261107T143000
 DTEND;TZID=Europe/Berlin:20261107T163000
 UID:355923130@fv-neuhausen
 DESCRIPTION:Landesliga\nSpielort: Kunstrasenplatz\, Sportpark Weil Kunstra
- sen\, Weilstr. 199\, 73733 Esslingen am Neckar Sonntag\, 15.11.2026 - 14:3
+ sen\, Weilstr. 199\, 73733 Esslingen am Neckar Sonntag\, 15.11.2026 - 15:0
  0 Uhr\nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstr
  asenplatz%2C+Sportpark+Weil+Kunstrasen%2C+Weilstr.+199%2C+73733+Esslingen+
- am+Neckar+Sonntag%2C+15.11.2026+-+14%3A30+Uhr\nQuelle: https://www.fussbal
+ am+Neckar+Sonntag%2C+15.11.2026+-+15%3A00+Uhr\nQuelle: https://www.fussbal
  l.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVU
  PGND5I
 LOCATION:Kunstrasenplatz\, Sportpark Weil Kunstrasen\, Weilstr. 199\, 7373
- 3 Esslingen am Neckar Sonntag\, 15.11.2026 - 14:30 Uhr
+ 3 Esslingen am Neckar Sonntag\, 15.11.2026 - 15:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SGM Neuhausen / Wolfschlugen - VfL Kirchheim/Teck 2 (U18)
@@ -664,6 +656,60 @@ DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Kunstrasenplatz\, Kunstrase
  id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasen Schulzentrum Nord\, Barbarossastr. 8
  5\, 73732 Esslingen am Neckar Sonntag\, 21.02.2027 - 14:00 Uhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGM TV Unterboihingen/TSV Köngen 2 - FV Neuhausen 1
+DTSTART;TZID=Europe/Berlin:20261212T100000
+DTEND;TZID=Europe/Berlin:20261212T120000
+UID:550041233@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
+ asen am Speck\, Speckweg 21\, 73240 Wendlingen am Neckar Legende Drucken K
+ ürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert An
+ nullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzun
+ g w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Tests
+ piel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückg
+ ezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht
+  angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannscha
+ ft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerun
+ g nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht 
+ fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel n
+ icht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen sp
+ ielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An 
+ diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto ode
+ r Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel
+ \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenp
+ latz%2C+Kunstrasen+am+Speck%2C+Speckweg+21%2C+73240+Wendlingen+am+Neckar+L
+ egende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurteil+%
+ 28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentscheid+
+ %28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spielinsta
+ nz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28best%C
+ 3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCckgez
+ ogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+nicht+
+ angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Mannschaf
+ t+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A4nge
+ rung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzeit+st
+ eht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige%2C+
+ da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+diese
+ m+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+Live+
+ Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spielbe
+ richt+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+vorha
+ nden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv-spf
+ r-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Kunstrasen am Speck\, Speckweg 21\, 73240 Wendl
+ ingen am Neckar Legende Drucken Kürzel bei einem Spiel u (U) Sportgericht
+ surteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (be
+ stätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt)
+  Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch zg
+ . Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber einge
+ rechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt HE
+ IM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GAS
+ T-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges ** 
+ Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine E
+ rgebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Manns
+ chaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestät
+ igt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei
+ . Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highlig
+ hts vorhanden vorläufiges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Germania Degerloch - FV Neuhausen
