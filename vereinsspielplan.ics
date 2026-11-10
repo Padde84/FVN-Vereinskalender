@@ -190,13 +190,13 @@ DTSTART;TZID=Europe/Berlin:20261115T143000
 DTEND;TZID=Europe/Berlin:20261115T163000
 UID:355923141@fv-neuhausen
 DESCRIPTION:Landesliga\nSpielort: Stadion Neuhausen\, Schloßstr. 80\, 737
- 65 Neuhausen auf den Fildern Sonntag\, 22.11.2026 - 15:00 Uhr\nGoogle Maps
+ 65 Neuhausen auf den Fildern Sonntag\, 22.11.2026 - 15:30 Uhr\nGoogle Maps
  : https://www.google.com/maps/search/?api=1&query=Stadion+Neuhausen%2C+Sch
  lo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%2C+22.11.2026+-
- +15%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
+ +15%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-wue
  rttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Sonntag\, 22.11.2026 - 15:00 Uhr
+ ern Sonntag\, 22.11.2026 - 15:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FV Neuhausen 1 - SV Ebersbach/Fils 2
@@ -298,8 +298,8 @@ LOCATION:Kunstrasenplatz\, Kunstrasenplatz Süd\, Hohenstaufenstr. 116\, 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren TV Echterdingen - FV Neuhausen
-DTSTART;TZID=Europe/Berlin:20261122T150000
-DTEND;TZID=Europe/Berlin:20261122T170000
+DTSTART;TZID=Europe/Berlin:20261122T153000
+DTEND;TZID=Europe/Berlin:20261122T173000
 UID:355923147@fv-neuhausen
 DESCRIPTION:Landesliga\nSpielort: Rasenplatz\, Rasenpl. Sportpark Goldäck
  er\, Leinfelder Str. 101\, 70771 Leinfelden-Echterdingen Sonntag\, 29.11.2
