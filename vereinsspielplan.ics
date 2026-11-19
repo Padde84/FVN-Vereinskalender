@@ -78,18 +78,30 @@ LOCATION:Rasenplatz\, Rasenpl. Sportpark Goldäcker\, Leinfelder Str. 101
  \, 70771 Leinfelden-Echterdingen Sonntag\, 29.11.2026 - 14:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FV Neuhausen 1 - SPV 05 Nürtingen
+DTSTART;TZID=Europe/Berlin:20261129T133700
+DTEND;TZID=Europe/Berlin:20261129T153700
+UID:563104002@fv-neuhausen
+DESCRIPTION:Hallen-Bezirksturnier\nSpielort: Auwiesen\, 72654 Neckartenzli
+ ngen Sonntag\nGoogle Maps: https://www.google.com/maps/search/?api=1&query
+ =Auwiesen%2C+72654+Neckartenzlingen+Sonntag\nQuelle: https://www.fussball.
+ de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPG
+ ND5I
+LOCATION:Auwiesen\, 72654 Neckartenzlingen Sonntag
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Herren SV Böblingen - FV Neuhausen
 DTSTART;TZID=Europe/Berlin:20261129T143000
 DTEND;TZID=Europe/Berlin:20261129T163000
 UID:355923159@fv-neuhausen
 DESCRIPTION:Landesliga\nSpielort: Stadion Silberweg\, Silberweg\, 71032 B
- öblingen Sonntag\, 06.12.2026 - 14:30 Uhr\nGoogle Maps: https://www.googl
+ öblingen Sonntag\, 06.12.2026 - 14:00 Uhr\nGoogle Maps: https://www.googl
  e.com/maps/search/?api=1&query=Stadion+Silberweg%2C+Silberweg%2C+71032+B%C
- 3%B6blingen+Sonntag%2C+06.12.2026+-+14%3A30+Uhr\nQuelle: https://www.fussb
+ 3%B6blingen+Sonntag%2C+06.12.2026+-+14%3A00+Uhr\nQuelle: https://www.fussb
  all.de/verein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08L
  VUPGND5I
 LOCATION:Stadion Silberweg\, Silberweg\, 71032 Böblingen Sonntag\, 06.12.
- 2026 - 14:30 Uhr
+ 2026 - 14:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - VfB Oberesslingen/Zell
@@ -97,13 +109,13 @@ DTSTART;TZID=Europe/Berlin:20261129T143000
 DTEND;TZID=Europe/Berlin:20261129T163000
 UID:356082110@fv-neuhausen
 DESCRIPTION:Kreisliga A\; Kreisliga\nSpielort: Stadion Neuhausen\, Schloß
- str. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 06.12.2026 - 14:30 Uhr
+ str. 80\, 73765 Neuhausen auf den Fildern Sonntag\, 06.12.2026 - 14:00 Uhr
  \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Stadion+Neu
  hausen%2C+Schlo%C3%9Fstr.+80%2C+73765+Neuhausen+auf+den+Fildern+Sonntag%2C
- +06.12.2026+-+14%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
+ +06.12.2026+-+14%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-
  neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
- ern Sonntag\, 06.12.2026 - 14:30 Uhr
+ ern Sonntag\, 06.12.2026 - 14:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen - SC Geislingen
