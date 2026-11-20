@@ -329,6 +329,60 @@ LOCATION:Kunstrasenplatz\, Sportanlage Scharnhauser Park\, Bonhoefferstr.
  22\, 73760 Ostfildern Sonntag\, 31.01.2027 - 14:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SGM VfB Neuffen Täle 2 - SGM Neuhausen/Wolfschlugen 2
+DTSTART;TZID=Europe/Berlin:20270130T103000
+DTEND;TZID=Europe/Berlin:20270130T123000
+UID:550029194@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Nebenp
+ latz Neuffen\, Sportgelände Spadelsberg\, 72639 Neuffen Legende Drucken K
+ ürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) Annuliert An
+ nullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spielabsetzun
+ g w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t (T) Tests
+ piel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurde zurückg
+ ezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt BEIDE nicht
+  angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEIM-Mannscha
+ ft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Verlängerun
+ g nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht noch nicht 
+ fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die Staffel n
+ icht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kennzeichen sp
+ ielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPIELFREI An 
+ diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhanden Foto ode
+ r Video vorhanden Livestream oder Highlights vorhanden vorläufiges Spiel
+ \nGoogle Maps: https://www.google.com/maps/search/?api=1&query=Kunstrasenp
+ latz%2C+Nebenplatz+Neuffen%2C+Sportgel%C3%A4nde+Spadelsberg%2C+72639+Neuff
+ en+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgerichtsurte
+ il+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltungsentsch
+ eid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung+Spieli
+ nstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspiel+%28be
+ st%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur%C3%BCc
+ kgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+BEIDE+ni
+ cht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEIM-Manns
+ chaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Verl%C3%A
+ 4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C3%9Fzei
+ t+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnisanzeige
+ %2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschaften+mit+d
+ iesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A4tigt+L
+ ive+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfrei.+Spi
+ elbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highlights+v
+ orhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/verein/fv
+ -spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Nebenplatz Neuffen\, Sportgelände Spadelsberg
+ \, 72639 Neuffen Legende Drucken Kürzel bei einem Spiel u (U) Sportgerich
+ tsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (b
+ estätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätigt
+ ) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch z
+ g. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber eing
+ erechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt H
+ EIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten GA
+ ST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges **
+  Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine 
+ Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Mann
+ schaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis bestä
+ tigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfre
+ i. Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highli
+ ghts vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TSV Beuren - FV Neuhausen 2
 DTSTART;TZID=Europe/Berlin:20270131T140000
 DTEND;TZID=Europe/Berlin:20270131T160000
