@@ -225,14 +225,14 @@ DTSTART;TZID=Europe/Berlin:20270120T200000
 DTEND;TZID=Europe/Berlin:20270120T220000
 UID:550004522@fv-neuhausen
 DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Kunstr
- asenplatz FV Germania Degerloch\, Königsträßle 15\, 70597 Stuttgart Mit
- twoch\, 03.02.2027 - 19:30 Uhr\nGoogle Maps: https://www.google.com/maps/s
- earch/?api=1&query=Kunstrasenplatz%2C+Kunstrasenplatz+FV+Germania+Degerloc
- h%2C+K%C3%B6nigstr%C3%A4%C3%9Fle+15%2C+70597+Stuttgart+Mittwoch%2C+03.02.2
- 027+-+19%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhause
- n-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+ asenplatz FV Germania Degerloch\, Königsträßle 15\, 70597 Stuttgart Son
+ ntag\, 31.01.2027 - 12:00 Uhr\nGoogle Maps: https://www.google.com/maps/se
+ arch/?api=1&query=Kunstrasenplatz%2C+Kunstrasenplatz+FV+Germania+Degerloch
+ %2C+K%C3%B6nigstr%C3%A4%C3%9Fle+15%2C+70597+Stuttgart+Sonntag%2C+31.01.202
+ 7+-+12%3A00+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhausen-
+ wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
 LOCATION:Kunstrasenplatz\, Kunstrasenplatz FV Germania Degerloch\, Königs
- träßle 15\, 70597 Stuttgart Mittwoch\, 03.02.2027 - 19:30 Uhr
+ träßle 15\, 70597 Stuttgart Sonntag\, 31.01.2027 - 12:00 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SV Bonlanden - SGM Neuhausen / Wolfschlugen
@@ -317,6 +317,21 @@ LOCATION:Kunstrasenplatz\, Nebenplatz Neuffen\, Sportgelände Spadelsberg
  tigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielfre
  i. Spielbericht vorhanden Foto oder Video vorhanden Livestream oder Highli
  ghts vorhanden vorläufiges Spiel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FSV Waldebene Stuttgart Ost - FV Neuhausen
+DTSTART;TZID=Europe/Berlin:20270131T120000
+DTEND;TZID=Europe/Berlin:20270131T140000
+UID:550004716@fv-neuhausen
+DESCRIPTION:Bezirksfreundschaftsspiele\nSpielort: Kunstrasenplatz\, Sportp
+ ark Waldebene Ost KuR-Platz 1\, Waldebene Stuttgart Ost 209\, 70186 Stuttg
+ art Mittwoch\, 03.02.2027 - 19:30 Uhr\nGoogle Maps: https://www.google.com
+ /maps/search/?api=1&query=Kunstrasenplatz%2C+Sportpark+Waldebene+Ost+KuR-P
+ latz+1%2C+Waldebene+Stuttgart+Ost+209%2C+70186+Stuttgart+Mittwoch%2C+03.02
+ .2027+-+19%3A30+Uhr\nQuelle: https://www.fussball.de/verein/fv-spfr-neuhau
+ sen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
+LOCATION:Kunstrasenplatz\, Sportpark Waldebene Ost KuR-Platz 1\, Waldebene
+  Stuttgart Ost 209\, 70186 Stuttgart Mittwoch\, 03.02.2027 - 19:30 Uhr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TSV Beuren - FV Neuhausen 2
@@ -570,59 +585,6 @@ LOCATION:Stadion Neuhausen\, Schloßstr. 80\, 73765 Neuhausen auf den Fild
  eticker SPIELFREI An diesem Datum hat die Mannschaft spielfrei. Spielberic
  ht vorhanden Foto oder Video vorhanden Livestream oder Highlights vorhande
  n vorläufiges Spiel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herren TSV Bernhausen - FV Neuhausen
-DTSTART;TZID=Europe/Berlin:20270319T193000
-DTEND;TZID=Europe/Berlin:20270319T213000
-UID:355923204@fv-neuhausen
-DESCRIPTION:Landesliga\nSpielort: stadion\, Dombasler Str. 8\, 70794 Filde
- rstadt Mehr laden Legende Drucken Kürzel bei einem Spiel u (U) Sportgeric
- htsurteil (bestätigt) Annuliert Annullierung v (V) Verwaltungsentscheid (
- bestätigt) Absetzung Spielabsetzung w (W) Wertung Spielinstanz (bestätig
- t) Ausfall Spielausfall t (T) Testspiel (bestätigt) Abbruch Spielabbruch 
- zg. Diese Mannschaft wurde zurückgezogen\, die Ergebnisse werden aber ein
- gerechnet. Nichtantritt BEIDE nicht angetretene Mannschaften Nichtantritt 
- HEIM nicht angetreten HEIM-Mannschaft Nichtantritt GAST nicht angetreten G
- AST-Mannschaft nV nach Verlängerung nE nach Elfmeterschießen Sonstiges *
- * Die Anstoßzeit steht noch nicht fest oder ist nicht bekannt. o.E. Keine
-  Ergebnisanzeige\, da die Staffel nicht im Leistungsbetrieb spielt. oW Man
- nschaften mit diesem Kennzeichen spielen außer Konkurrenz. Ergebnis best
- ätigt Live Liveticker SPIELFREI An diesem Datum hat die Mannschaft spielf
- rei. Spielbericht vorhanden Foto oder Video vorhanden Livestream oder High
- lights vorhanden vorläufiges Spiel\nGoogle Maps: https://www.google.com/m
- aps/search/?api=1&query=stadion%2C+Dombasler+Str.+8%2C+70794+Filderstadt+M
- ehr+laden+Legende+Drucken+K%C3%BCrzel+bei+einem+Spiel+u+%28U%29+Sportgeric
- htsurteil+%28best%C3%A4tigt%29+Annuliert+Annullierung+v+%28V%29+Verwaltung
- sentscheid+%28best%C3%A4tigt%29+Absetzung+Spielabsetzung+w+%28W%29+Wertung
- +Spielinstanz+%28best%C3%A4tigt%29+Ausfall+Spielausfall+t+%28T%29+Testspie
- l+%28best%C3%A4tigt%29+Abbruch+Spielabbruch+zg.+Diese+Mannschaft+wurde+zur
- %C3%BCckgezogen%2C+die+Ergebnisse+werden+aber+eingerechnet.+Nichtantritt+B
- EIDE+nicht+angetretene+Mannschaften+Nichtantritt+HEIM+nicht+angetreten+HEI
- M-Mannschaft+Nichtantritt+GAST+nicht+angetreten+GAST-Mannschaft+nV+nach+Ve
- rl%C3%A4ngerung+nE+nach+Elfmeterschie%C3%9Fen+Sonstiges+%2A%2A+Die+Ansto%C
- 3%9Fzeit+steht+noch+nicht+fest+oder+ist+nicht+bekannt.+o.E.+Keine+Ergebnis
- anzeige%2C+da+die+Staffel+nicht+im+Leistungsbetrieb+spielt.+oW+Mannschafte
- n+mit+diesem+Kennzeichen+spielen+au%C3%9Fer+Konkurrenz.+Ergebnis+best%C3%A
- 4tigt+Live+Liveticker+SPIELFREI+An+diesem+Datum+hat+die+Mannschaft+spielfr
- ei.+Spielbericht+vorhanden+Foto+oder+Video+vorhanden+Livestream+oder+Highl
- ights+vorhanden+vorl%C3%A4ufiges+Spiel\nQuelle: https://www.fussball.de/ve
- rein/fv-spfr-neuhausen-wuerttemberg/-/id/00ES8GNAVO0000ALVV0AG08LVUPGND5I
-LOCATION:stadion\, Dombasler Str. 8\, 70794 Filderstadt Mehr laden Legende
-  Drucken Kürzel bei einem Spiel u (U) Sportgerichtsurteil (bestätigt) An
- nuliert Annullierung v (V) Verwaltungsentscheid (bestätigt) Absetzung Spi
- elabsetzung w (W) Wertung Spielinstanz (bestätigt) Ausfall Spielausfall t
-  (T) Testspiel (bestätigt) Abbruch Spielabbruch zg. Diese Mannschaft wurd
- e zurückgezogen\, die Ergebnisse werden aber eingerechnet. Nichtantritt B
- EIDE nicht angetretene Mannschaften Nichtantritt HEIM nicht angetreten HEI
- M-Mannschaft Nichtantritt GAST nicht angetreten GAST-Mannschaft nV nach Ve
- rlängerung nE nach Elfmeterschießen Sonstiges ** Die Anstoßzeit steht n
- och nicht fest oder ist nicht bekannt. o.E. Keine Ergebnisanzeige\, da die
-  Staffel nicht im Leistungsbetrieb spielt. oW Mannschaften mit diesem Kenn
- zeichen spielen außer Konkurrenz. Ergebnis bestätigt Live Liveticker SPI
- ELFREI An diesem Datum hat die Mannschaft spielfrei. Spielbericht vorhande
- n Foto oder Video vorhanden Livestream oder Highlights vorhanden vorläufi
- ges Spiel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herren FV Neuhausen 2 - ASV Aichwald
